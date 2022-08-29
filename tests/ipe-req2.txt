@@ -1,0 +1,3000 @@
+0_00:13:38	B2	B4	11kWh	172Wh/km ;
+0_00:15:38	B2	B4	19kWh	224Wh/km ;
+-
+0_00:32:15	B2	B4	23kWh	214Wh/km ;
+0_00:16:25	B2	B4	25kWh	241Wh/km ;
+-
+0_00:22:49	B2	B4	10kWh	194Wh/km ;
+0_00:31:33	B2	B4	18kWh	216Wh/km ;
+-
+0_00:13:04	B4	B2	25kWh	249Wh/km ;
+0_00:11:54	B4	B2	16kWh	224Wh/km ;
+-
+0_00:55:33	B3	B4	17kWh	240Wh/km ;
+0_00:55:53	B4	B2	14kWh	188Wh/km ;
+-
+0_00:53:55	B3	B4	18kWh	234Wh/km ;
+0_00:38:26	B4	B2	16kWh	157Wh/km ;
+-
+0_00:56:38	B4	B2	15kWh	202Wh/km ;
+0_00:55:07	B3	B4	14kWh	250Wh/km ;
+-
+0_00:31:42	B4	B2	16kWh	208Wh/km ;
+0_00:23:02	B4	B2	19kWh	201Wh/km ;
+-
+0_00:39:06	B2	B4	11kWh	178Wh/km ;
+0_00:40:39	B2	B4	22kWh	230Wh/km ;
+-
+0_00:56:28	B1	B2	10kWh	174Wh/km ;
+0_00:49:37	B2	B1	9kWh	206Wh/km ;
+-
+0_00:48:33	B4	B3	13kWh	224Wh/km ;
+0_00:17:01	B2	B4	12kWh	211Wh/km ;
+-
+0_00:25:59	B4	B3	11kWh	187Wh/km ;
+0_00:16:51	B2	B4	16kWh	153Wh/km ;
+-
+0_00:07:43	B4	B3	11kWh	216Wh/km ;
+0_00:02:31	B2	B4	14kWh	157Wh/km ;
+-
+0_00:16:21	B2	B4	11kWh	181Wh/km ;
+0_00:23:13	B2	B4	23kWh	222Wh/km ;
+-
+0_00:07:07	B4	B2	20kWh	206Wh/km ;
+0_00:02:54	B4	B2	18kWh	244Wh/km ;
+-
+0_00:25:42	B4	B2	14kWh	168Wh/km ;
+0_00:12:42	B4	B2	17kWh	207Wh/km ;
+-
+0_00:42:25	B2	B4	21kWh	239Wh/km ;
+0_00:57:38	B3	B4	13kWh	194Wh/km ;
+-
+0_00:55:50	B3	B4	12kWh	188Wh/km ;
+0_00:30:30	B2	B4	19kWh	200Wh/km ;
+-
+0_00:13:05	B2	B4	25kWh	228Wh/km ;
+0_00:32:08	B3	B4	16kWh	204Wh/km ;
+-
+0_00:34:59	B2	B4	21kWh	231Wh/km ;
+0_00:45:53	B4	B2	17kWh	230Wh/km ;
+-
+0_00:46:34	B3	B4	14kWh	223Wh/km ;
+0_00:19:18	B2	B4	15kWh	180Wh/km ;
+-
+0_00:45:10	B3	B4	18kWh	211Wh/km ;
+0_00:18:49	B2	B4	23kWh	227Wh/km ;
+-
+0_00:38:03	B4	B3	12kWh	202Wh/km ;
+0_00:19:49	B2	B4	15kWh	153Wh/km ;
+-
+0_00:45:32	B4	B2	20kWh	210Wh/km ;
+0_00:31:28	B4	B2	17kWh	224Wh/km ;
+-
+0_00:08:04	B4	B3	13kWh	244Wh/km ;
+0_00:17:34	B3	B4	17kWh	227Wh/km ;
+-
+0_00:15:48	B4	B2	14kWh	202Wh/km ;
+0_00:46:15	B1	B2	10kWh	162Wh/km ;
+-
+0_00:28:50	B4	B2	16kWh	224Wh/km ;
+0_00:58:32	B1	B2	10kWh	179Wh/km ;
+-
+0_00:29:56	B3	B4	18kWh	211Wh/km ;
+0_00:20:53	B3	B4	13kWh	229Wh/km ;
+-
+0_00:12:35	B2	B4	14kWh	213Wh/km ;
+0_00:26:55	B4	B2	14kWh	197Wh/km ;
+-
+0_00:56:44	B4	B3	13kWh	179Wh/km ;
+0_00:55:24	B4	B3	16kWh	187Wh/km ;
+-
+0_00:25:20	B2	B4	19kWh	242Wh/km ;
+0_00:43:04	B4	B2	11kWh	172Wh/km ;
+-
+0_00:49:37	B3	B4	19kWh	247Wh/km ;
+0_00:43:56	B4	B2	12kWh	164Wh/km ;
+-
+0_00:37:06	B2	B4	11kWh	153Wh/km ;
+0_00:36:11	B2	B4	18kWh	223Wh/km ;
+-
+0_00:35:17	B4	B2	14kWh	158Wh/km ;
+0_00:24:28	B4	B2	20kWh	220Wh/km ;
+-
+0_00:13:04	B1	B2	14kWh	231Wh/km ;
+0_00:07:23	B1	B2	10kWh	186Wh/km ;
+-
+0_00:35:40	B4	B3	16kWh	241Wh/km ;
+0_00:47:57	B3	B4	12kWh	229Wh/km ;
+-
+0_00:29:23	B3	B4	14kWh	244Wh/km ;
+0_00:06:38	B2	B4	12kWh	173Wh/km ;
+-
+0_00:07:13	B4	B2	23kWh	236Wh/km ;
+0_00:01:13	B4	B2	19kWh	239Wh/km ;
+-
+0_00:23:21	B3	B4	13kWh	202Wh/km ;
+0_00:22:10	B3	B4	12kWh	161Wh/km ;
+-
+0_00:16:23	B4	B3	12kWh	229Wh/km ;
+0_00:08:18	B2	B4	15kWh	178Wh/km ;
+-
+0_00:34:43	B3	B4	17kWh	234Wh/km ;
+0_00:32:31	B3	B4	12kWh	230Wh/km ;
+-
+0_00:17:30	B2	B4	19kWh	208Wh/km ;
+0_00:05:59	B2	B4	16kWh	247Wh/km ;
+-
+0_00:45:02	B4	B2	15kWh	159Wh/km ;
+0_00:40:15	B4	B2	16kWh	242Wh/km ;
+-
+0_00:36:55	B3	B4	17kWh	242Wh/km ;
+0_00:32:11	B3	B4	14kWh	223Wh/km ;
+-
+0_00:59:14	B2	B4	14kWh	187Wh/km ;
+0_00:48:34	B2	B4	16kWh	228Wh/km ;
+-
+0_00:36:25	B2	B4	20kWh	232Wh/km ;
+0_00:48:58	B4	B2	11kWh	177Wh/km ;
+-
+0_00:47:44	B2	B4	15kWh	168Wh/km ;
+0_00:38:42	B2	B4	13kWh	188Wh/km ;
+-
+0_00:49:02	B2	B4	12kWh	159Wh/km ;
+0_00:44:32	B2	B4	20kWh	199Wh/km ;
+-
+0_00:17:19	B2	B4	10kWh	182Wh/km ;
+0_00:30:29	B2	B4	21kWh	247Wh/km ;
+-
+0_00:51:42	B2	B4	21kWh	235Wh/km ;
+0_00:55:28	B4	B2	16kWh	161Wh/km ;
+-
+0_00:11:44	B1	B2	12kWh	239Wh/km ;
+0_00:04:54	B2	B1	11kWh	182Wh/km ;
+-
+0_00:41:12	B4	B2	17kWh	163Wh/km ;
+0_00:38:39	B4	B2	13kWh	161Wh/km ;
+-
+0_00:58:08	B2	B4	24kWh	225Wh/km ;
+0_00:44:22	B2	B4	23kWh	214Wh/km ;
+-
+0_00:55:54	B4	B3	16kWh	250Wh/km ;
+0_00:34:47	B2	B4	12kWh	186Wh/km ;
+-
+0_00:43:39	B3	B4	16kWh	228Wh/km ;
+0_00:33:00	B3	B4	11kWh	202Wh/km ;
+-
+0_00:44:54	B2	B4	21kWh	242Wh/km ;
+0_00:36:49	B2	B4	12kWh	174Wh/km ;
+-
+0_00:33:11	B4	B3	16kWh	191Wh/km ;
+0_00:47:22	B3	B4	10kWh	162Wh/km ;
+-
+0_00:11:31	B2	B4	19kWh	207Wh/km ;
+0_00:12:20	B2	B4	18kWh	209Wh/km ;
+-
+0_00:46:33	B3	B4	10kWh	156Wh/km ;
+0_00:20:05	B2	B4	17kWh	232Wh/km ;
+-
+0_00:05:06	B4	B2	11kWh	216Wh/km ;
+0_00:01:23	B4	B2	15kWh	195Wh/km ;
+-
+0_00:21:30	B4	B2	20kWh	185Wh/km ;
+0_00:13:46	B4	B2	10kWh	192Wh/km ;
+-
+0_00:57:29	B2	B1	7kWh	177Wh/km ;
+0_00:53:22	B1	B2	9kWh	222Wh/km ;
+-
+0_00:25:22	B2	B4	22kWh	232Wh/km ;
+0_00:37:11	B4	B2	26kWh	236Wh/km ;
+-
+0_00:18:12	B2	B4	14kWh	202Wh/km ;
+0_00:06:37	B2	B4	16kWh	230Wh/km ;
+-
+0_00:38:01	B4	B2	17kWh	189Wh/km ;
+0_00:31:57	B4	B2	11kWh	198Wh/km ;
+-
+0_00:54:31	B3	B4	16kWh	225Wh/km ;
+0_00:26:13	B2	B4	23kWh	248Wh/km ;
+-
+0_00:51:08	B4	B2	19kWh	249Wh/km ;
+0_00:44:10	B4	B2	18kWh	170Wh/km ;
+-
+0_00:53:42	B4	B3	17kWh	200Wh/km ;
+0_00:47:45	B4	B3	12kWh	210Wh/km ;
+-
+0_00:42:14	B3	B4	9kWh	175Wh/km ;
+0_00:13:03	B2	B4	20kWh	196Wh/km ;
+-
+0_00:02:36	B4	B3	12kWh	232Wh/km ;
+0_00:01:28	B2	B4	16kWh	242Wh/km ;
+-
+0_00:46:31	B4	B2	15kWh	198Wh/km ;
+0_00:38:13	B4	B2	16kWh	223Wh/km ;
+-
+0_00:16:43	B2	B4	26kWh	239Wh/km ;
+0_00:11:07	B2	B4	20kWh	193Wh/km ;
+-
+0_00:06:52	B2	B4	14kWh	192Wh/km ;
+0_00:18:50	B3	B4	12kWh	221Wh/km ;
+-
+0_00:51:30	B3	B4	16kWh	245Wh/km ;
+0_00:33:52	B4	B2	16kWh	198Wh/km ;
+-
+0_00:42:06	B2	B4	15kWh	151Wh/km ;
+0_00:57:04	B3	B4	13kWh	208Wh/km ;
+-
+0_00:42:30	B3	B4	17kWh	221Wh/km ;
+0_00:27:23	B4	B2	13kWh	167Wh/km ;
+-
+0_00:40:13	B2	B4	24kWh	220Wh/km ;
+0_00:52:45	B4	B2	15kWh	174Wh/km ;
+-
+0_00:44:51	B2	B1	9kWh	160Wh/km ;
+0_00:42:32	B2	B1	8kWh	208Wh/km ;
+-
+0_00:23:59	B2	B4	14kWh	212Wh/km ;
+0_00:41:53	B3	B4	18kWh	236Wh/km ;
+-
+0_00:37:39	B2	B4	19kWh	247Wh/km ;
+0_00:50:47	B4	B2	16kWh	199Wh/km ;
+-
+0_00:38:41	B1	B2	11kWh	225Wh/km ;
+0_00:31:56	B2	B1	8kWh	174Wh/km ;
+-
+0_00:17:23	B4	B2	15kWh	168Wh/km ;
+0_00:12:26	B4	B2	19kWh	203Wh/km ;
+-
+0_00:14:26	B4	B2	17kWh	199Wh/km ;
+0_00:03:38	B4	B2	16kWh	210Wh/km ;
+-
+0_00:28:59	B4	B2	10kWh	171Wh/km ;
+0_00:42:08	B4	B2	22kWh	239Wh/km ;
+-
+0_00:26:49	B4	B3	18kWh	228Wh/km ;
+0_00:38:33	B3	B4	13kWh	221Wh/km ;
+-
+0_00:27:34	B2	B4	10kWh	196Wh/km ;
+0_00:36:26	B2	B4	13kWh	167Wh/km ;
+-
+0_00:14:46	B4	B3	19kWh	244Wh/km ;
+0_00:07:58	B2	B4	19kWh	194Wh/km ;
+-
+0_00:24:10	B3	B4	13kWh	180Wh/km ;
+0_00:10:21	B3	B4	16kWh	230Wh/km ;
+-
+0_00:44:14	B4	B3	10kWh	150Wh/km ;
+0_00:32:45	B4	B3	14kWh	235Wh/km ;
+-
+0_00:53:01	B1	B2	9kWh	160Wh/km ;
+0_00:12:14	B4	B2	13kWh	187Wh/km ;
+-
+0_00:47:33	B2	B4	18kWh	242Wh/km ;
+0_00:54:09	B4	B2	26kWh	237Wh/km ;
+-
+0_00:13:28	B4	B2	11kWh	174Wh/km ;
+0_00:06:59	B4	B2	13kWh	184Wh/km ;
+-
+0_00:45:09	B1	B2	9kWh	196Wh/km ;
+0_00:44:59	B2	B1	13kWh	223Wh/km ;
+-
+0_00:21:15	B4	B3	19kWh	237Wh/km ;
+0_00:13:09	B4	B3	15kWh	232Wh/km ;
+-
+0_00:29:15	B2	B4	18kWh	206Wh/km ;
+0_00:18:58	B2	B4	15kWh	192Wh/km ;
+-
+0_00:06:42	B2	B4	15kWh	158Wh/km ;
+0_00:04:26	B4	B3	17kWh	241Wh/km ;
+-
+0_00:12:51	B2	B4	16kWh	189Wh/km ;
+0_00:03:02	B2	B4	13kWh	174Wh/km ;
+-
+0_00:14:41	B2	B4	15kWh	236Wh/km ;
+0_00:10:34	B2	B4	11kWh	157Wh/km ;
+-
+0_00:18:42	B2	B4	23kWh	214Wh/km ;
+0_00:04:32	B2	B4	18kWh	213Wh/km ;
+-
+0_00:30:59	B4	B2	16kWh	208Wh/km ;
+0_00:13:20	B4	B2	24kWh	249Wh/km ;
+-
+0_00:56:35	B2	B4	20kWh	209Wh/km ;
+0_00:29:16	B2	B4	10kWh	184Wh/km ;
+-
+0_00:14:11	B2	B4	15kWh	154Wh/km ;
+0_00:24:16	B3	B4	14kWh	227Wh/km ;
+-
+0_00:27:34	B2	B4	20kWh	206Wh/km ;
+0_00:24:57	B2	B4	11kWh	169Wh/km ;
+-
+0_00:29:44	B2	B4	27kWh	248Wh/km ;
+0_00:26:50	B2	B4	15kWh	193Wh/km ;
+-
+0_00:36:00	B2	B4	26kWh	236Wh/km ;
+0_00:37:10	B4	B2	20kWh	192Wh/km ;
+-
+0_00:28:26	B3	B4	15kWh	242Wh/km ;
+0_00:26:04	B4	B2	12kWh	189Wh/km ;
+-
+0_00:42:26	B4	B2	16kWh	174Wh/km ;
+0_00:38:16	B4	B2	23kWh	232Wh/km ;
+-
+0_00:42:54	B2	B4	12kWh	153Wh/km ;
+0_00:40:41	B2	B4	12kWh	176Wh/km ;
+-
+0_00:48:22	B4	B3	13kWh	243Wh/km ;
+0_00:29:38	B2	B4	16kWh	158Wh/km ;
+-
+0_00:25:13	B3	B4	17kWh	228Wh/km ;
+0_00:13:26	B4	B2	13kWh	165Wh/km ;
+-
+0_00:39:53	B3	B4	16kWh	232Wh/km ;
+0_00:32:33	B4	B2	17kWh	167Wh/km ;
+-
+0_00:05:00	B4	B2	9kWh	163Wh/km ;
+0_00:53:31	B1	B2	12kWh	195Wh/km ;
+-
+0_00:03:04	B4	B2	14kWh	227Wh/km ;
+0_00:54:47	B2	B1	14kWh	248Wh/km ;
+-
+0_00:49:31	B3	B4	13kWh	157Wh/km ;
+0_00:42:31	B3	B4	12kWh	174Wh/km ;
+-
+0_00:30:35	B4	B2	19kWh	204Wh/km ;
+0_00:17:39	B4	B2	20kWh	246Wh/km ;
+-
+0_00:45:42	B2	B4	11kWh	177Wh/km ;
+0_00:24:35	B2	B4	12kWh	223Wh/km ;
+-
+0_00:15:13	B4	B2	15kWh	244Wh/km ;
+0_00:12:44	B4	B2	13kWh	243Wh/km ;
+-
+0_00:55:33	B2	B4	15kWh	217Wh/km ;
+0_00:42:53	B2	B4	14kWh	179Wh/km ;
+-
+0_00:32:01	B4	B3	10kWh	199Wh/km ;
+0_00:46:02	B3	B4	14kWh	173Wh/km ;
+-
+0_00:48:54	B4	B2	18kWh	198Wh/km ;
+0_00:41:58	B4	B2	18kWh	233Wh/km ;
+-
+0_00:49:46	B2	B4	15kWh	192Wh/km ;
+0_00:23:31	B2	B4	13kWh	215Wh/km ;
+-
+0_00:42:23	B2	B4	22kWh	228Wh/km ;
+0_00:43:15	B4	B2	23kWh	241Wh/km ;
+-
+0_00:50:05	B4	B2	12kWh	182Wh/km ;
+0_00:51:06	B4	B2	14kWh	246Wh/km ;
+-
+0_00:54:22	B2	B4	18kWh	209Wh/km ;
+0_00:54:41	B2	B4	15kWh	213Wh/km ;
+-
+0_00:16:17	B4	B3	11kWh	153Wh/km ;
+0_00:09:09	B4	B3	13kWh	176Wh/km ;
+-
+0_00:50:50	B4	B2	12kWh	153Wh/km ;
+0_00:40:04	B4	B2	19kWh	226Wh/km ;
+-
+0_00:58:58	B1	B2	8kWh	189Wh/km ;
+0_00:53:52	B1	B2	12kWh	210Wh/km ;
+-
+0_00:36:09	B4	B2	23kWh	210Wh/km ;
+0_00:35:28	B4	B2	16kWh	200Wh/km ;
+-
+0_00:43:57	B2	B4	19kWh	208Wh/km ;
+0_00:27:16	B2	B4	18kWh	240Wh/km ;
+-
+0_00:23:47	B4	B2	18kWh	217Wh/km ;
+0_00:04:09	B4	B2	20kWh	246Wh/km ;
+-
+0_00:26:58	B2	B4	16kWh	151Wh/km ;
+0_00:26:20	B2	B4	13kWh	191Wh/km ;
+-
+0_00:23:11	B2	B4	19kWh	226Wh/km ;
+0_00:23:53	B2	B4	21kWh	248Wh/km ;
+-
+0_00:22:09	B4	B2	11kWh	169Wh/km ;
+0_00:04:32	B4	B2	22kWh	240Wh/km ;
+-
+0_00:42:13	B2	B4	19kWh	225Wh/km ;
+0_00:54:10	B4	B2	22kWh	235Wh/km ;
+-
+0_00:52:30	B3	B4	10kWh	154Wh/km ;
+0_00:25:02	B2	B4	15kWh	236Wh/km ;
+-
+0_00:24:13	B4	B3	17kWh	200Wh/km ;
+0_00:09:30	B2	B4	16kWh	150Wh/km ;
+-
+0_00:18:16	B2	B4	14kWh	214Wh/km ;
+0_00:24:48	B4	B2	16kWh	185Wh/km ;
+-
+0_00:38:12	B2	B4	11kWh	152Wh/km ;
+0_00:36:17	B2	B4	12kWh	186Wh/km ;
+-
+0_00:12:44	B4	B2	21kWh	247Wh/km ;
+0_00:02:18	B4	B2	23kWh	235Wh/km ;
+-
+0_00:32:21	B2	B4	26kWh	241Wh/km ;
+0_00:41:16	B4	B2	22kWh	246Wh/km ;
+-
+0_00:52:45	B4	B3	20kWh	238Wh/km ;
+0_00:56:47	B3	B4	13kWh	250Wh/km ;
+-
+0_00:19:02	B2	B4	18kWh	243Wh/km ;
+0_00:28:28	B4	B2	13kWh	153Wh/km ;
+-
+0_00:16:25	B4	B3	15kWh	234Wh/km ;
+0_00:17:47	B3	B4	21kWh	244Wh/km ;
+-
+0_00:14:23	B3	B4	14kWh	195Wh/km ;
+0_00:01:05	B3	B4	16kWh	245Wh/km ;
+-
+0_00:21:46	B4	B2	15kWh	201Wh/km ;
+0_00:17:26	B4	B2	16kWh	199Wh/km ;
+-
+0_00:51:26	B3	B4	13kWh	153Wh/km ;
+0_00:19:12	B2	B4	18kWh	206Wh/km ;
+-
+0_00:37:00	B2	B4	13kWh	170Wh/km ;
+0_00:35:37	B2	B4	20kWh	182Wh/km ;
+-
+0_00:22:39	B1	B2	8kWh	184Wh/km ;
+0_00:21:25	B2	B1	9kWh	231Wh/km ;
+-
+0_00:42:06	B3	B4	12kWh	150Wh/km ;
+0_00:04:36	B2	B4	27kWh	249Wh/km ;
+-
+0_00:55:16	B4	B2	14kWh	171Wh/km ;
+0_00:46:32	B4	B2	23kWh	247Wh/km ;
+-
+0_00:55:52	B2	B4	14kWh	182Wh/km ;
+0_00:58:01	B2	B4	24kWh	238Wh/km ;
+-
+0_00:58:48	B3	B4	11kWh	197Wh/km ;
+0_00:32:08	B2	B4	14kWh	160Wh/km ;
+-
+0_00:57:26	B4	B2	10kWh	181Wh/km ;
+0_00:59:04	B4	B2	20kWh	234Wh/km ;
+-
+0_00:27:59	B2	B4	25kWh	247Wh/km ;
+0_00:48:45	B3	B4	13kWh	171Wh/km ;
+-
+0_00:55:39	B4	B3	14kWh	225Wh/km ;
+0_00:45:29	B4	B3	9kWh	177Wh/km ;
+-
+0_00:49:16	B3	B4	18kWh	222Wh/km ;
+0_00:18:36	B2	B4	15kWh	173Wh/km ;
+-
+0_00:39:13	B2	B4	19kWh	206Wh/km ;
+0_00:52:09	B3	B4	14kWh	178Wh/km ;
+-
+0_00:18:29	B1	B2	9kWh	192Wh/km ;
+0_00:15:28	B1	B2	11kWh	203Wh/km ;
+-
+0_00:45:35	B2	B4	18kWh	214Wh/km ;
+0_00:47:56	B4	B2	23kWh	233Wh/km ;
+-
+0_00:36:37	B3	B4	17kWh	247Wh/km ;
+0_00:08:01	B2	B4	18kWh	250Wh/km ;
+-
+0_00:39:56	B2	B4	24kWh	226Wh/km ;
+0_00:37:24	B4	B2	21kWh	221Wh/km ;
+-
+0_00:17:10	B4	B2	15kWh	216Wh/km ;
+0_00:39:49	B1	B2	11kWh	245Wh/km ;
+-
+0_00:03:55	B3	B4	18kWh	219Wh/km ;
+0_00:03:02	B3	B4	12kWh	192Wh/km ;
+-
+0_00:36:20	B4	B3	19kWh	245Wh/km ;
+0_00:35:01	B2	B4	18kWh	184Wh/km ;
+-
+0_00:13:21	B4	B2	9kWh	150Wh/km ;
+0_00:50:48	B1	B2	9kWh	235Wh/km ;
+-
+0_00:51:44	B2	B1	9kWh	183Wh/km ;
+0_00:50:24	B2	B1	8kWh	185Wh/km ;
+-
+0_00:58:36	B4	B3	12kWh	155Wh/km ;
+0_00:49:16	B4	B3	15kWh	232Wh/km ;
+-
+0_00:30:01	B2	B1	10kWh	244Wh/km ;
+0_00:23:19	B1	B2	13kWh	221Wh/km ;
+-
+0_00:33:27	B2	B1	12kWh	220Wh/km ;
+0_00:26:45	B1	B2	14kWh	236Wh/km ;
+-
+0_00:57:21	B2	B4	17kWh	247Wh/km ;
+0_00:52:07	B2	B4	14kWh	185Wh/km ;
+-
+0_00:22:50	B4	B2	12kWh	158Wh/km ;
+0_00:09:11	B4	B2	17kWh	207Wh/km ;
+-
+0_00:49:59	B3	B4	11kWh	167Wh/km ;
+0_00:31:10	B4	B3	14kWh	247Wh/km ;
+-
+0_00:59:08	B4	B2	13kWh	172Wh/km ;
+0_00:53:29	B4	B2	14kWh	243Wh/km ;
+-
+0_00:13:58	B4	B2	14kWh	163Wh/km ;
+0_00:43:36	B1	B2	10kWh	217Wh/km ;
+-
+0_00:39:36	B3	B4	17kWh	245Wh/km ;
+0_00:34:52	B4	B2	13kWh	170Wh/km ;
+-
+0_00:42:50	B4	B2	11kWh	159Wh/km ;
+0_00:32:52	B4	B2	12kWh	196Wh/km ;
+-
+0_00:18:51	B2	B4	19kWh	189Wh/km ;
+0_00:16:07	B2	B4	15kWh	208Wh/km ;
+-
+0_00:09:58	B4	B3	19kWh	229Wh/km ;
+0_00:01:42	B2	B4	14kWh	202Wh/km ;
+-
+0_00:10:29	B2	B4	16kWh	150Wh/km ;
+0_00:18:28	B3	B4	17kWh	249Wh/km ;
+-
+0_00:56:47	B4	B2	16kWh	171Wh/km ;
+0_00:35:27	B4	B2	25kWh	245Wh/km ;
+-
+0_00:17:04	B4	B2	20kWh	225Wh/km ;
+0_00:09:02	B4	B2	16kWh	176Wh/km ;
+-
+0_00:35:36	B1	B2	15kWh	246Wh/km ;
+0_00:33:55	B2	B1	12kWh	241Wh/km ;
+-
+0_00:07:58	B3	B4	16kWh	221Wh/km ;
+0_00:01:35	B3	B4	12kWh	234Wh/km ;
+-
+0_00:02:42	B4	B2	21kWh	210Wh/km ;
+0_00:01:57	B4	B2	23kWh	218Wh/km ;
+-
+0_00:51:54	B2	B1	9kWh	150Wh/km ;
+0_00:44:25	B1	B2	13kWh	219Wh/km ;
+-
+0_00:56:28	B2	B4	25kWh	234Wh/km ;
+0_00:43:54	B2	B4	19kWh	199Wh/km ;
+-
+0_00:56:22	B4	B3	18kWh	242Wh/km ;
+0_00:21:48	B2	B4	8kWh	150Wh/km ;
+-
+0_00:16:19	B2	B4	22kWh	228Wh/km ;
+0_00:15:50	B4	B2	12kWh	192Wh/km ;
+-
+0_00:20:52	B2	B4	20kWh	243Wh/km ;
+0_00:15:06	B2	B4	16kWh	222Wh/km ;
+-
+0_00:51:15	B3	B4	11kWh	165Wh/km ;
+0_00:21:19	B2	B4	23kWh	230Wh/km ;
+-
+0_00:10:00	B4	B2	19kWh	235Wh/km ;
+0_00:40:20	B1	B2	12kWh	238Wh/km ;
+-
+0_00:05:53	B2	B4	18kWh	206Wh/km ;
+0_00:23:47	B3	B4	11kWh	194Wh/km ;
+-
+0_00:59:29	B4	B2	23kWh	226Wh/km ;
+0_00:59:22	B4	B2	16kWh	219Wh/km ;
+-
+0_00:25:25	B2	B4	18kWh	216Wh/km ;
+0_00:45:17	B3	B4	14kWh	229Wh/km ;
+-
+0_00:58:11	B4	B3	14kWh	231Wh/km ;
+0_00:54:21	B4	B3	15kWh	241Wh/km ;
+-
+0_00:18:37	B2	B4	14kWh	233Wh/km ;
+0_00:45:42	B4	B2	13kWh	179Wh/km ;
+-
+0_00:22:57	B3	B4	16kWh	215Wh/km ;
+0_00:19:04	B3	B4	11kWh	211Wh/km ;
+-
+0_00:34:44	B4	B3	16kWh	241Wh/km ;
+0_00:10:23	B2	B4	20kWh	196Wh/km ;
+-
+0_00:56:18	B4	B2	15kWh	226Wh/km ;
+0_00:49:39	B4	B2	16kWh	187Wh/km ;
+-
+0_00:05:49	B1	B2	7kWh	178Wh/km ;
+0_00:03:09	B1	B2	7kWh	170Wh/km ;
+-
+0_00:23:53	B2	B4	25kWh	228Wh/km ;
+0_00:09:26	B2	B4	14kWh	217Wh/km ;
+-
+0_00:52:41	B4	B3	19kWh	239Wh/km ;
+0_00:54:44	B3	B4	12kWh	211Wh/km ;
+-
+0_00:54:10	B4	B2	20kWh	190Wh/km ;
+0_00:42:35	B4	B2	10kWh	195Wh/km ;
+-
+0_00:26:05	B4	B3	15kWh	239Wh/km ;
+0_00:17:20	B2	B4	16kWh	184Wh/km ;
+-
+0_00:38:16	B2	B4	19kWh	248Wh/km ;
+0_00:35:18	B4	B2	25kWh	238Wh/km ;
+-
+0_00:14:10	B4	B3	13kWh	248Wh/km ;
+0_00:27:34	B3	B4	14kWh	179Wh/km ;
+-
+0_00:17:08	B2	B4	10kWh	154Wh/km ;
+0_00:25:14	B3	B4	14kWh	232Wh/km ;
+-
+0_00:34:22	B1	B2	8kWh	172Wh/km ;
+0_00:33:54	B1	B2	10kWh	203Wh/km ;
+-
+0_00:17:34	B2	B4	17kWh	229Wh/km ;
+0_00:30:33	B4	B2	24kWh	224Wh/km ;
+-
+0_00:19:15	B4	B2	15kWh	240Wh/km ;
+0_00:16:52	B4	B2	12kWh	192Wh/km ;
+-
+0_00:47:05	B2	B4	21kWh	199Wh/km ;
+0_00:53:35	B4	B2	18kWh	201Wh/km ;
+-
+0_00:12:54	B2	B4	17kWh	247Wh/km ;
+0_00:17:59	B4	B2	13kWh	168Wh/km ;
+-
+0_00:43:10	B3	B4	15kWh	191Wh/km ;
+0_00:35:25	B3	B4	14kWh	205Wh/km ;
+-
+0_00:56:36	B3	B4	15kWh	213Wh/km ;
+0_00:52:06	B3	B4	16kWh	245Wh/km ;
+-
+0_00:26:54	B2	B4	12kWh	172Wh/km ;
+0_00:20:42	B2	B4	12kWh	193Wh/km ;
+-
+0_00:29:37	B4	B3	14kWh	247Wh/km ;
+0_00:20:54	B4	B3	17kWh	201Wh/km ;
+-
+0_00:09:23	B4	B2	21kWh	231Wh/km ;
+0_00:08:55	B4	B2	17kWh	201Wh/km ;
+-
+0_00:50:52	B4	B2	21kWh	213Wh/km ;
+0_00:43:19	B4	B2	11kWh	155Wh/km ;
+-
+0_00:31:40	B4	B2	13kWh	167Wh/km ;
+0_00:25:00	B4	B2	14kWh	162Wh/km ;
+-
+0_00:30:03	B4	B2	11kWh	187Wh/km ;
+0_00:30:36	B4	B2	20kWh	220Wh/km ;
+-
+0_00:22:30	B4	B2	21kWh	211Wh/km ;
+0_00:19:00	B4	B2	15kWh	211Wh/km ;
+-
+0_00:29:18	B2	B4	11kWh	211Wh/km ;
+0_00:33:45	B2	B4	21kWh	230Wh/km ;
+-
+0_00:20:13	B2	B4	18kWh	166Wh/km ;
+0_00:12:30	B2	B4	18kWh	240Wh/km ;
+-
+0_00:36:05	B4	B3	18kWh	240Wh/km ;
+0_00:04:57	B2	B4	11kWh	219Wh/km ;
+-
+0_00:55:58	B4	B2	13kWh	217Wh/km ;
+0_00:46:58	B4	B2	13kWh	190Wh/km ;
+-
+0_00:38:41	B4	B3	9kWh	169Wh/km ;
+0_00:37:50	B4	B3	14kWh	200Wh/km ;
+-
+0_00:39:15	B2	B4	17kWh	216Wh/km ;
+0_00:30:32	B2	B4	22kWh	224Wh/km ;
+-
+0_00:27:33	B4	B2	12kWh	174Wh/km ;
+0_00:07:01	B4	B2	9kWh	167Wh/km ;
+-
+0_00:36:44	B2	B4	20kWh	225Wh/km ;
+0_00:37:42	B4	B2	16kWh	233Wh/km ;
+-
+0_00:16:42	B2	B4	15kWh	239Wh/km ;
+0_00:07:10	B2	B4	15kWh	154Wh/km ;
+-
+0_00:47:21	B3	B4	10kWh	156Wh/km ;
+0_00:23:17	B2	B4	15kWh	227Wh/km ;
+-
+0_00:04:51	B2	B4	9kWh	161Wh/km ;
+0_00:41:57	B3	B4	11kWh	189Wh/km ;
+-
+0_00:25:26	B2	B4	17kWh	236Wh/km ;
+0_00:09:25	B2	B4	19kWh	230Wh/km ;
+-
+0_00:54:24	B2	B4	17kWh	167Wh/km ;
+0_00:50:31	B2	B4	13kWh	184Wh/km ;
+-
+0_00:33:53	B4	B3	20kWh	250Wh/km ;
+0_00:40:24	B3	B4	11kWh	169Wh/km ;
+-
+0_00:36:16	B3	B4	15kWh	220Wh/km ;
+0_00:31:51	B3	B4	12kWh	179Wh/km ;
+-
+0_00:59:51	B3	B4	15kWh	177Wh/km ;
+0_00:53:14	B3	B4	11kWh	202Wh/km ;
+-
+0_00:18:21	B1	B2	8kWh	206Wh/km ;
+0_00:20:14	B2	B1	12kWh	240Wh/km ;
+-
+0_00:28:19	B2	B4	13kWh	161Wh/km ;
+0_00:05:58	B2	B4	12kWh	235Wh/km ;
+-
+0_00:17:43	B4	B3	15kWh	247Wh/km ;
+0_00:20:21	B3	B4	19kWh	249Wh/km ;
+-
+0_00:19:20	B4	B3	17kWh	244Wh/km ;
+0_00:34:40	B3	B4	18kWh	236Wh/km ;
+-
+0_00:20:22	B2	B4	20kWh	193Wh/km ;
+0_00:15:51	B2	B4	22kWh	231Wh/km ;
+-
+0_00:51:04	B4	B2	17kWh	197Wh/km ;
+0_00:55:13	B4	B2	14kWh	190Wh/km ;
+-
+0_00:41:13	B3	B4	17kWh	237Wh/km ;
+0_00:13:56	B2	B4	20kWh	247Wh/km ;
+-
+0_00:56:49	B1	B2	10kWh	229Wh/km ;
+0_00:24:50	B4	B2	18kWh	175Wh/km ;
+-
+0_00:03:43	B2	B4	16kWh	209Wh/km ;
+0_00:12:48	B4	B2	12kWh	168Wh/km ;
+-
+0_00:54:37	B4	B3	13kWh	211Wh/km ;
+0_00:38:03	B2	B4	16kWh	202Wh/km ;
+-
+0_00:22:01	B4	B2	21kWh	223Wh/km ;
+0_00:15:03	B4	B2	18kWh	229Wh/km ;
+-
+0_00:50:04	B3	B4	17kWh	199Wh/km ;
+0_00:24:55	B2	B4	16kWh	156Wh/km ;
+-
+0_00:17:04	B4	B3	20kWh	245Wh/km ;
+0_00:03:40	B2	B4	19kWh	212Wh/km ;
+-
+0_00:39:04	B1	B2	13kWh	240Wh/km ;
+0_00:31:31	B2	B1	8kWh	183Wh/km ;
+-
+0_00:30:41	B2	B4	13kWh	218Wh/km ;
+0_00:46:58	B2	B4	24kWh	241Wh/km ;
+-
+0_00:42:00	B4	B3	15kWh	211Wh/km ;
+0_00:18:03	B2	B4	9kWh	181Wh/km ;
+-
+0_00:49:22	B3	B4	12kWh	219Wh/km ;
+0_00:17:13	B2	B4	23kWh	217Wh/km ;
+-
+0_00:03:48	B2	B4	18kWh	234Wh/km ;
+0_00:09:03	B4	B2	11kWh	158Wh/km ;
+-
+0_00:16:33	B2	B4	20kWh	201Wh/km ;
+0_00:09:30	B2	B4	11kWh	158Wh/km ;
+-
+0_00:27:41	B4	B2	9kWh	163Wh/km ;
+0_00:41:16	B4	B2	22kWh	233Wh/km ;
+-
+0_00:18:43	B2	B4	20kWh	248Wh/km ;
+0_00:33:21	B4	B2	22kWh	204Wh/km ;
+-
+0_00:09:58	B2	B4	20kWh	213Wh/km ;
+0_00:11:36	B2	B4	19kWh	232Wh/km ;
+-
+0_00:33:16	B2	B4	17kWh	198Wh/km ;
+0_00:35:52	B2	B4	17kWh	250Wh/km ;
+-
+0_00:36:12	B3	B4	17kWh	249Wh/km ;
+0_00:26:28	B3	B4	16kWh	226Wh/km ;
+-
+0_00:19:59	B4	B2	19kWh	227Wh/km ;
+0_00:07:16	B4	B2	21kWh	216Wh/km ;
+-
+0_00:49:53	B4	B2	15kWh	185Wh/km ;
+0_00:47:02	B4	B2	13kWh	246Wh/km ;
+-
+0_00:51:32	B2	B4	16kWh	155Wh/km ;
+0_00:25:36	B2	B4	15kWh	247Wh/km ;
+-
+0_00:33:47	B4	B2	13kWh	161Wh/km ;
+0_00:28:24	B4	B2	23kWh	227Wh/km ;
+-
+0_00:33:40	B2	B4	18kWh	219Wh/km ;
+0_00:43:05	B4	B2	15kWh	186Wh/km ;
+-
+0_00:05:19	B4	B2	12kWh	236Wh/km ;
+0_00:19:51	B4	B2	25kWh	240Wh/km ;
+-
+0_00:14:43	B4	B2	14kWh	195Wh/km ;
+0_00:46:37	B1	B2	10kWh	172Wh/km ;
+-
+0_00:32:48	B2	B4	14kWh	186Wh/km ;
+0_00:50:17	B3	B4	17kWh	212Wh/km ;
+-
+0_00:08:20	B4	B3	15kWh	209Wh/km ;
+0_00:11:45	B3	B4	12kWh	159Wh/km ;
+-
+0_00:40:19	B2	B4	11kWh	215Wh/km ;
+0_00:36:51	B2	B4	13kWh	220Wh/km ;
+-
+0_00:23:51	B4	B2	13kWh	155Wh/km ;
+0_00:15:55	B4	B2	24kWh	235Wh/km ;
+-
+0_00:13:04	B2	B4	20kWh	240Wh/km ;
+0_00:18:03	B4	B2	16kWh	218Wh/km ;
+-
+0_00:49:49	B4	B2	17kWh	193Wh/km ;
+0_00:53:00	B4	B2	16kWh	202Wh/km ;
+-
+0_00:57:39	B4	B3	11kWh	166Wh/km ;
+0_00:46:23	B4	B3	18kWh	233Wh/km ;
+-
+0_00:18:45	B2	B1	9kWh	192Wh/km ;
+0_00:12:12	B2	B1	8kWh	174Wh/km ;
+-
+0_00:06:08	B2	B4	16kWh	194Wh/km ;
+0_00:19:03	B4	B2	20kWh	201Wh/km ;
+-
+0_00:10:55	B2	B4	14kWh	232Wh/km ;
+0_00:43:15	B4	B2	10kWh	157Wh/km ;
+-
+0_00:51:35	B4	B2	16kWh	192Wh/km ;
+0_00:40:46	B4	B2	15kWh	167Wh/km ;
+-
+0_00:59:54	B2	B4	18kWh	186Wh/km ;
+0_00:31:40	B2	B4	14kWh	235Wh/km ;
+-
+0_00:16:30	B3	B4	18kWh	230Wh/km ;
+0_00:02:22	B4	B2	17kWh	182Wh/km ;
+-
+0_00:30:27	B2	B4	22kWh	227Wh/km ;
+0_00:39:37	B4	B2	15kWh	166Wh/km ;
+-
+0_00:36:36	B1	B2	15kWh	248Wh/km ;
+0_00:28:02	B1	B2	13kWh	214Wh/km ;
+-
+0_00:21:45	B4	B2	14kWh	239Wh/km ;
+0_00:37:18	B4	B2	17kWh	198Wh/km ;
+-
+0_00:21:55	B2	B4	21kWh	210Wh/km ;
+0_00:24:47	B4	B2	13kWh	172Wh/km ;
+-
+0_00:58:11	B4	B3	15kWh	227Wh/km ;
+0_00:52:07	B4	B3	13kWh	155Wh/km ;
+-
+0_00:09:34	B4	B2	18kWh	208Wh/km ;
+0_00:06:18	B4	B2	14kWh	185Wh/km ;
+-
+0_00:15:42	B2	B4	18kWh	216Wh/km ;
+0_00:10:13	B2	B4	17kWh	184Wh/km ;
+-
+0_00:36:20	B2	B4	14kWh	191Wh/km ;
+0_00:38:13	B2	B4	17kWh	249Wh/km ;
+-
+0_00:28:59	B4	B2	21kWh	212Wh/km ;
+0_00:23:53	B4	B2	12kWh	171Wh/km ;
+-
+0_00:43:43	B4	B2	13kWh	182Wh/km ;
+0_00:39:44	B4	B2	15kWh	191Wh/km ;
+-
+0_00:06:01	B2	B4	14kWh	212Wh/km ;
+0_00:11:27	B4	B2	16kWh	200Wh/km ;
+-
+0_00:41:29	B4	B2	27kWh	245Wh/km ;
+0_00:41:02	B4	B2	16kWh	199Wh/km ;
+-
+0_00:56:40	B4	B2	16kWh	182Wh/km ;
+0_00:53:16	B4	B2	19kWh	243Wh/km ;
+-
+0_00:49:43	B2	B4	16kWh	230Wh/km ;
+0_00:34:28	B2	B4	15kWh	228Wh/km ;
+-
+0_00:18:02	B2	B4	19kWh	209Wh/km ;
+0_00:06:09	B2	B4	18kWh	197Wh/km ;
+-
+0_00:54:22	B1	B2	10kWh	192Wh/km ;
+0_00:18:30	B4	B2	19kWh	184Wh/km ;
+-
+0_00:20:41	B1	B2	10kWh	193Wh/km ;
+0_00:14:32	B2	B1	6kWh	155Wh/km ;
+-
+0_00:52:43	B4	B3	19kWh	233Wh/km ;
+0_00:47:18	B2	B4	11kWh	154Wh/km ;
+-
+0_00:23:25	B4	B3	19kWh	233Wh/km ;
+0_00:36:44	B3	B4	12kWh	208Wh/km ;
+-
+0_00:42:22	B4	B2	8kWh	150Wh/km ;
+0_00:29:23	B4	B2	14kWh	231Wh/km ;
+-
+0_00:27:30	B2	B1	12kWh	233Wh/km ;
+0_00:22:51	B1	B2	9kWh	234Wh/km ;
+-
+0_00:14:44	B2	B1	12kWh	250Wh/km ;
+0_00:12:36	B2	B1	13kWh	246Wh/km ;
+-
+0_00:19:18	B4	B2	22kWh	216Wh/km ;
+0_00:18:43	B4	B2	16kWh	211Wh/km ;
+-
+0_00:55:41	B4	B3	19kWh	224Wh/km ;
+0_00:42:37	B4	B3	14kWh	229Wh/km ;
+-
+0_00:07:15	B2	B4	17kWh	224Wh/km ;
+0_00:08:12	B4	B2	18kWh	167Wh/km ;
+-
+0_00:44:32	B2	B4	13kWh	239Wh/km ;
+0_00:54:37	B2	B4	20kWh	223Wh/km ;
+-
+0_00:21:12	B4	B3	16kWh	244Wh/km ;
+0_00:33:53	B3	B4	15kWh	238Wh/km ;
+-
+0_00:06:05	B2	B4	14kWh	216Wh/km ;
+0_00:20:57	B3	B4	19kWh	244Wh/km ;
+-
+0_00:00:31	B2	B4	24kWh	245Wh/km ;
+0_00:07:43	B4	B2	24kWh	235Wh/km ;
+-
+0_00:50:26	B2	B4	14kWh	219Wh/km ;
+0_00:56:26	B4	B2	22kWh	204Wh/km ;
+-
+0_00:22:47	B2	B1	7kWh	173Wh/km ;
+0_00:20:10	B2	B1	8kWh	201Wh/km ;
+-
+0_00:32:59	B4	B2	25kWh	239Wh/km ;
+0_00:21:34	B4	B2	23kWh	235Wh/km ;
+-
+0_00:28:48	B4	B3	20kWh	250Wh/km ;
+0_00:18:14	B2	B4	15kWh	190Wh/km ;
+-
+0_00:44:22	B4	B2	12kWh	242Wh/km ;
+0_00:39:12	B4	B2	16kWh	205Wh/km ;
+-
+0_00:30:33	B2	B4	23kWh	218Wh/km ;
+0_00:26:09	B2	B4	15kWh	241Wh/km ;
+-
+0_00:11:35	B1	B2	8kWh	153Wh/km ;
+0_00:15:06	B2	B1	14kWh	229Wh/km ;
+-
+0_00:34:14	B3	B4	10kWh	184Wh/km ;
+0_00:25:49	B3	B4	14kWh	237Wh/km ;
+-
+0_00:06:03	B4	B2	26kWh	236Wh/km ;
+0_00:29:30	B1	B2	11kWh	248Wh/km ;
+-
+0_00:25:20	B1	B2	12kWh	194Wh/km ;
+0_00:20:25	B2	B1	11kWh	193Wh/km ;
+-
+0_00:46:02	B3	B4	16kWh	225Wh/km ;
+0_00:09:17	B2	B4	20kWh	228Wh/km ;
+-
+0_00:20:31	B2	B4	16kWh	157Wh/km ;
+0_00:17:08	B2	B4	13kWh	198Wh/km ;
+-
+0_00:42:33	B2	B4	16kWh	227Wh/km ;
+0_00:48:54	B4	B2	15kWh	223Wh/km ;
+-
+0_00:14:37	B2	B1	9kWh	170Wh/km ;
+0_00:08:55	B1	B2	7kWh	150Wh/km ;
+-
+0_00:46:22	B3	B4	17kWh	223Wh/km ;
+0_00:22:45	B2	B4	19kWh	178Wh/km ;
+-
+0_00:12:46	B4	B3	11kWh	221Wh/km ;
+0_00:10:19	B4	B3	16kWh	223Wh/km ;
+-
+0_00:46:34	B4	B2	9kWh	167Wh/km ;
+0_00:44:02	B4	B2	12kWh	194Wh/km ;
+-
+0_00:29:30	B4	B2	15kWh	190Wh/km ;
+0_00:03:38	B4	B2	11kWh	187Wh/km ;
+-
+0_00:24:20	B4	B2	18kWh	206Wh/km ;
+0_00:25:18	B4	B2	13kWh	168Wh/km ;
+-
+0_00:36:03	B3	B4	12kWh	160Wh/km ;
+0_00:22:48	B3	B4	11kWh	221Wh/km ;
+-
+0_00:26:43	B2	B4	20kWh	219Wh/km ;
+0_00:25:31	B4	B2	18kWh	245Wh/km ;
+-
+0_00:04:00	B2	B4	16kWh	218Wh/km ;
+0_00:14:19	B4	B2	18kWh	189Wh/km ;
+-
+0_00:41:57	B2	B4	16kWh	171Wh/km ;
+0_00:30:50	B2	B4	16kWh	185Wh/km ;
+-
+0_00:41:18	B2	B4	14kWh	236Wh/km ;
+0_00:55:53	B2	B4	19kWh	202Wh/km ;
+-
+0_00:31:58	B3	B4	12kWh	183Wh/km ;
+0_00:32:31	B3	B4	13kWh	158Wh/km ;
+-
+0_00:29:46	B2	B4	21kWh	220Wh/km ;
+0_00:40:19	B4	B2	18kWh	168Wh/km ;
+-
+0_00:19:10	B2	B4	17kWh	235Wh/km ;
+0_00:18:46	B4	B2	26kWh	247Wh/km ;
+-
+0_00:28:23	B2	B4	19kWh	244Wh/km ;
+0_00:15:06	B2	B4	18kWh	222Wh/km ;
+-
+0_00:38:40	B4	B3	15kWh	217Wh/km ;
+0_00:29:27	B2	B4	19kWh	176Wh/km ;
+-
+0_00:48:02	B2	B1	10kWh	166Wh/km ;
+0_00:40:32	B1	B2	8kWh	189Wh/km ;
+-
+0_00:21:15	B4	B3	16kWh	188Wh/km ;
+0_00:15:07	B4	B3	12kWh	212Wh/km ;
+-
+0_00:26:30	B2	B4	11kWh	173Wh/km ;
+0_00:12:04	B2	B4	18kWh	247Wh/km ;
+-
+0_00:20:57	B2	B4	11kWh	197Wh/km ;
+0_00:27:13	B2	B4	21kWh	242Wh/km ;
+-
+0_00:05:05	B2	B4	23kWh	244Wh/km ;
+0_00:16:03	B4	B2	17kWh	229Wh/km ;
+-
+0_00:19:17	B2	B4	21kWh	224Wh/km ;
+0_00:00:30	B2	B4	12kWh	197Wh/km ;
+-
+0_00:19:31	B1	B2	12kWh	208Wh/km ;
+0_00:18:17	B2	B1	9kWh	220Wh/km ;
+-
+0_00:07:11	B4	B3	17kWh	200Wh/km ;
+0_00:19:05	B3	B4	14kWh	163Wh/km ;
+-
+0_00:58:53	B2	B4	17kWh	199Wh/km ;
+0_00:51:41	B2	B4	16kWh	248Wh/km ;
+-
+0_00:18:37	B4	B2	21kWh	231Wh/km ;
+0_00:05:06	B4	B2	13kWh	205Wh/km ;
+-
+0_00:49:55	B4	B3	14kWh	169Wh/km ;
+0_00:44:45	B4	B3	15kWh	250Wh/km ;
+-
+0_00:24:52	B2	B4	21kWh	226Wh/km ;
+0_00:32:48	B4	B2	17kWh	176Wh/km ;
+-
+0_00:15:35	B4	B3	17kWh	229Wh/km ;
+0_00:10:41	B4	B3	16kWh	239Wh/km ;
+-
+0_00:12:41	B4	B3	16kWh	248Wh/km ;
+0_00:08:51	B2	B4	17kWh	162Wh/km ;
+-
+0_00:32:55	B1	B2	12kWh	213Wh/km ;
+0_00:27:33	B1	B2	12kWh	223Wh/km ;
+-
+0_00:55:23	B2	B4	18kWh	221Wh/km ;
+0_00:45:00	B2	B4	13kWh	199Wh/km ;
+-
+0_00:26:45	B2	B4	23kWh	214Wh/km ;
+0_00:17:41	B2	B4	19kWh	231Wh/km ;
+-
+0_00:56:55	B4	B2	21kWh	214Wh/km ;
+0_00:53:28	B4	B2	10kWh	188Wh/km ;
+-
+0_00:08:52	B4	B2	13kWh	151Wh/km ;
+0_00:37:01	B1	B2	7kWh	168Wh/km ;
+-
+0_00:49:14	B4	B3	12kWh	229Wh/km ;
+0_00:36:12	B4	B3	13kWh	247Wh/km ;
+-
+0_00:44:14	B4	B3	14kWh	232Wh/km ;
+0_00:58:49	B3	B4	10kWh	167Wh/km ;
+-
+0_00:14:02	B4	B3	15kWh	242Wh/km ;
+0_00:18:53	B3	B4	19kWh	237Wh/km ;
+-
+0_00:48:48	B2	B4	26kWh	236Wh/km ;
+0_00:48:36	B4	B2	14kWh	195Wh/km ;
+-
+0_00:40:56	B2	B4	23kWh	220Wh/km ;
+0_00:58:07	B3	B4	13kWh	237Wh/km ;
+-
+0_00:32:33	B4	B3	10kWh	187Wh/km ;
+0_00:45:27	B3	B4	12kWh	165Wh/km ;
+-
+0_00:10:12	B4	B2	11kWh	208Wh/km ;
+0_00:26:41	B4	B2	16kWh	183Wh/km ;
+-
+0_00:54:59	B4	B3	11kWh	218Wh/km ;
+0_00:53:21	B4	B3	20kWh	239Wh/km ;
+-
+0_00:51:58	B3	B4	12kWh	194Wh/km ;
+0_00:45:17	B3	B4	15kWh	226Wh/km ;
+-
+0_00:29:12	B4	B3	15kWh	232Wh/km ;
+0_00:37:21	B3	B4	9kWh	177Wh/km ;
+-
+0_00:19:02	B2	B4	18kWh	226Wh/km ;
+0_00:31:37	B4	B2	14kWh	220Wh/km ;
+-
+0_00:53:52	B3	B4	16kWh	212Wh/km ;
+0_00:44:28	B3	B4	12kWh	197Wh/km ;
+-
+0_00:54:06	B1	B2	9kWh	213Wh/km ;
+0_00:48:24	B1	B2	10kWh	174Wh/km ;
+-
+0_00:42:14	B2	B4	22kWh	237Wh/km ;
+0_00:51:20	B4	B2	17kWh	244Wh/km ;
+-
+0_00:15:31	B4	B2	25kWh	239Wh/km ;
+0_00:07:55	B4	B2	25kWh	234Wh/km ;
+-
+0_00:24:55	B4	B2	19kWh	208Wh/km ;
+0_00:27:58	B4	B2	16kWh	200Wh/km ;
+-
+0_00:46:48	B3	B4	14kWh	176Wh/km ;
+0_00:20:11	B2	B4	21kWh	207Wh/km ;
+-
+0_00:47:25	B3	B4	15kWh	240Wh/km ;
+0_00:39:08	B3	B4	16kWh	239Wh/km ;
+-
+0_00:47:54	B4	B3	16kWh	223Wh/km ;
+0_00:36:43	B2	B4	17kWh	227Wh/km ;
+-
+0_00:10:10	B4	B3	9kWh	160Wh/km ;
+0_00:08:59	B4	B3	13kWh	192Wh/km ;
+-
+0_00:33:06	B4	B3	13kWh	233Wh/km ;
+0_00:21:00	B2	B4	20kWh	208Wh/km ;
+-
+0_00:51:24	B4	B2	20kWh	182Wh/km ;
+0_00:34:31	B4	B2	21kWh	230Wh/km ;
+-
+0_00:36:18	B2	B4	22kWh	231Wh/km ;
+0_00:37:08	B2	B4	17kWh	233Wh/km ;
+-
+0_00:08:32	B1	B2	8kWh	154Wh/km ;
+0_00:08:13	B1	B2	14kWh	236Wh/km ;
+-
+0_00:44:43	B3	B4	14kWh	225Wh/km ;
+0_00:05:35	B2	B4	10kWh	177Wh/km ;
+-
+0_00:53:43	B1	B2	13kWh	225Wh/km ;
+0_00:45:07	B2	B1	15kWh	249Wh/km ;
+-
+0_00:04:27	B2	B4	18kWh	171Wh/km ;
+0_00:01:10	B2	B4	21kWh	236Wh/km ;
+-
+0_00:35:31	B4	B2	12kWh	210Wh/km ;
+0_00:54:31	B4	B2	20kWh	188Wh/km ;
+-
+0_00:50:50	B2	B4	15kWh	192Wh/km ;
+0_00:50:47	B4	B3	17kWh	239Wh/km ;
+-
+0_00:43:09	B2	B4	23kWh	218Wh/km ;
+0_00:59:56	B3	B4	18kWh	243Wh/km ;
+-
+0_00:45:52	B2	B4	16kWh	215Wh/km ;
+0_00:47:20	B4	B2	16kWh	154Wh/km ;
+-
+0_00:28:23	B2	B4	17kWh	216Wh/km ;
+0_00:16:39	B2	B4	25kWh	227Wh/km ;
+-
+0_00:37:00	B4	B2	26kWh	240Wh/km ;
+0_00:41:50	B4	B2	15kWh	216Wh/km ;
+-
+0_00:53:48	B4	B3	13kWh	234Wh/km ;
+0_00:36:12	B2	B4	26kWh	247Wh/km ;
+-
+0_00:32:56	B2	B1	7kWh	155Wh/km ;
+0_00:30:46	B1	B2	8kWh	152Wh/km ;
+-
+0_00:19:47	B2	B4	19kWh	223Wh/km ;
+0_00:33:24	B4	B2	19kWh	178Wh/km ;
+-
+0_00:50:39	B1	B2	9kWh	209Wh/km ;
+0_00:00:30	B4	B2	16kWh	224Wh/km ;
+-
+0_00:38:55	B2	B4	10kWh	185Wh/km ;
+0_00:48:18	B2	B4	23kWh	250Wh/km ;
+-
+0_00:55:53	B3	B4	9kWh	172Wh/km ;
+0_00:23:41	B2	B4	16kWh	200Wh/km ;
+-
+0_00:39:59	B2	B4	19kWh	200Wh/km ;
+0_00:36:03	B2	B4	16kWh	157Wh/km ;
+-
+0_00:32:54	B4	B3	14kWh	213Wh/km ;
+0_00:54:21	B3	B4	13kWh	200Wh/km ;
+-
+0_00:33:03	B2	B4	18kWh	191Wh/km ;
+0_00:54:24	B3	B4	13kWh	182Wh/km ;
+-
+0_00:59:21	B4	B2	22kWh	208Wh/km ;
+0_00:57:24	B4	B2	14kWh	214Wh/km ;
+-
+0_00:50:34	B3	B4	11kWh	170Wh/km ;
+0_00:26:03	B2	B4	19kWh	190Wh/km ;
+-
+0_00:45:30	B3	B4	9kWh	156Wh/km ;
+0_00:22:39	B2	B4	16kWh	240Wh/km ;
+-
+0_00:02:42	B4	B3	15kWh	244Wh/km ;
+0_00:02:46	B2	B4	20kWh	242Wh/km ;
+-
+0_00:06:07	B2	B4	21kWh	191Wh/km ;
+0_00:21:08	B3	B4	11kWh	176Wh/km ;
+-
+0_00:11:35	B2	B4	11kWh	176Wh/km ;
+0_00:30:54	B3	B4	11kWh	195Wh/km ;
+-
+0_00:33:39	B2	B1	10kWh	199Wh/km ;
+0_00:26:33	B2	B1	9kWh	189Wh/km ;
+-
+0_00:54:56	B1	B2	8kWh	198Wh/km ;
+0_00:11:37	B4	B2	20kWh	212Wh/km ;
+-
+0_00:55:42	B4	B3	14kWh	219Wh/km ;
+0_00:45:44	B2	B4	14kWh	175Wh/km ;
+-
+0_00:40:07	B2	B4	22kWh	202Wh/km ;
+0_00:35:56	B2	B4	18kWh	164Wh/km ;
+-
+0_00:47:06	B1	B2	9kWh	203Wh/km ;
+0_00:45:46	B1	B2	10kWh	246Wh/km ;
+-
+0_00:49:50	B3	B4	9kWh	161Wh/km ;
+0_00:24:21	B2	B4	16kWh	175Wh/km ;
+-
+0_00:34:47	B1	B2	12kWh	246Wh/km ;
+0_00:02:13	B4	B2	17kWh	204Wh/km ;
+-
+0_00:19:55	B4	B3	11kWh	203Wh/km ;
+0_00:12:39	B2	B4	14kWh	169Wh/km ;
+-
+0_00:47:03	B1	B2	9kWh	230Wh/km ;
+0_00:42:06	B2	B1	9kWh	150Wh/km ;
+-
+0_00:05:54	B2	B4	17kWh	163Wh/km ;
+0_00:25:34	B3	B4	16kWh	226Wh/km ;
+-
+0_00:16:57	B2	B4	21kWh	193Wh/km ;
+0_00:14:28	B4	B3	15kWh	219Wh/km ;
+-
+0_00:30:18	B2	B4	20kWh	209Wh/km ;
+0_00:29:12	B2	B4	22kWh	247Wh/km ;
+-
+0_00:31:19	B2	B4	14kWh	179Wh/km ;
+0_00:27:39	B2	B4	18kWh	248Wh/km ;
+-
+0_00:17:53	B2	B4	26kWh	242Wh/km ;
+0_00:33:17	B3	B4	15kWh	215Wh/km ;
+-
+0_00:21:19	B4	B3	17kWh	233Wh/km ;
+0_00:21:20	B2	B4	20kWh	210Wh/km ;
+-
+0_00:45:52	B3	B4	14kWh	218Wh/km ;
+0_00:42:51	B3	B4	15kWh	197Wh/km ;
+-
+0_00:05:29	B4	B3	11kWh	176Wh/km ;
+0_00:02:24	B4	B3	10kWh	159Wh/km ;
+-
+0_00:30:15	B4	B2	12kWh	179Wh/km ;
+0_00:18:20	B4	B2	13kWh	247Wh/km ;
+-
+0_00:20:56	B4	B2	15kWh	198Wh/km ;
+0_00:13:08	B4	B2	17kWh	231Wh/km ;
+-
+0_00:18:42	B2	B4	14kWh	207Wh/km ;
+0_00:08:04	B2	B4	13kWh	195Wh/km ;
+-
+0_00:43:41	B3	B4	16kWh	188Wh/km ;
+0_00:42:18	B3	B4	12kWh	160Wh/km ;
+-
+0_00:25:57	B2	B4	22kWh	228Wh/km ;
+0_00:40:09	B4	B2	18kWh	216Wh/km ;
+-
+0_00:55:08	B1	B2	9kWh	232Wh/km ;
+0_00:46:33	B1	B2	9kWh	231Wh/km ;
+-
+0_00:57:22	B1	B2	12kWh	246Wh/km ;
+0_00:22:19	B4	B2	14kWh	196Wh/km ;
+-
+0_00:05:25	B4	B2	12kWh	223Wh/km ;
+0_00:04:00	B4	B2	21kWh	236Wh/km ;
+-
+0_00:27:50	B4	B2	16kWh	174Wh/km ;
+0_00:13:40	B4	B2	17kWh	249Wh/km ;
+-
+0_00:08:48	B2	B4	17kWh	154Wh/km ;
+0_00:01:11	B2	B4	16kWh	188Wh/km ;
+-
+0_00:43:46	B3	B4	14kWh	233Wh/km ;
+0_00:38:49	B3	B4	14kWh	213Wh/km ;
+-
+0_00:12:22	B4	B2	13kWh	201Wh/km ;
+0_00:03:51	B4	B2	11kWh	207Wh/km ;
+-
+0_00:37:30	B2	B4	18kWh	205Wh/km ;
+0_00:26:55	B2	B4	24kWh	248Wh/km ;
+-
+0_00:37:37	B2	B4	24kWh	248Wh/km ;
+0_00:37:20	B4	B2	16kWh	213Wh/km ;
+-
+0_00:53:23	B4	B3	14kWh	204Wh/km ;
+0_00:48:30	B4	B3	16kWh	217Wh/km ;
+-
+0_00:59:30	B4	B3	17kWh	226Wh/km ;
+0_00:34:40	B2	B4	20kWh	227Wh/km ;
+-
+0_00:26:55	B2	B4	19kWh	194Wh/km ;
+0_00:38:41	B3	B4	12kWh	219Wh/km ;
+-
+0_00:24:44	B4	B3	14kWh	239Wh/km ;
+0_00:14:32	B2	B4	19kWh	178Wh/km ;
+-
+0_00:38:42	B2	B4	25kWh	250Wh/km ;
+0_00:59:06	B4	B2	12kWh	166Wh/km ;
+-
+0_00:27:02	B4	B3	13kWh	243Wh/km ;
+0_00:26:47	B3	B4	19kWh	221Wh/km ;
+-
+0_00:36:31	B4	B3	10kWh	187Wh/km ;
+0_00:28:19	B4	B3	14kWh	227Wh/km ;
+-
+0_00:13:42	B2	B4	25kWh	238Wh/km ;
+0_00:15:19	B4	B2	12kWh	191Wh/km ;
+-
+0_00:43:43	B2	B4	23kWh	234Wh/km ;
+0_00:34:56	B2	B4	14kWh	224Wh/km ;
+-
+0_00:16:25	B2	B4	25kWh	249Wh/km ;
+0_00:30:14	B4	B2	16kWh	172Wh/km ;
+-
+0_00:54:43	B4	B3	17kWh	219Wh/km ;
+0_00:29:26	B2	B4	11kWh	204Wh/km ;
+-
+0_00:24:04	B2	B4	17kWh	204Wh/km ;
+0_00:19:27	B2	B4	14kWh	176Wh/km ;
+-
+0_00:09:13	B4	B3	12kWh	219Wh/km ;
+0_00:27:31	B3	B4	9kWh	157Wh/km ;
+-
+0_00:05:55	B2	B4	21kWh	214Wh/km ;
+0_00:05:23	B4	B2	17kWh	187Wh/km ;
+-
+0_00:40:54	B2	B4	16kWh	232Wh/km ;
+0_00:22:22	B2	B4	12kWh	239Wh/km ;
+-
+0_00:43:30	B4	B2	12kWh	241Wh/km ;
+0_00:38:15	B4	B2	15kWh	240Wh/km ;
+-
+0_00:23:13	B4	B2	18kWh	175Wh/km ;
+0_00:07:46	B4	B2	17kWh	250Wh/km ;
+-
+0_00:32:18	B2	B1	11kWh	221Wh/km ;
+0_00:27:24	B1	B2	9kWh	231Wh/km ;
+-
+0_00:56:35	B4	B3	15kWh	191Wh/km ;
+0_00:52:44	B4	B3	10kWh	199Wh/km ;
+-
+0_00:50:39	B4	B2	18kWh	222Wh/km ;
+0_00:37:14	B4	B2	18kWh	216Wh/km ;
+-
+0_00:31:36	B2	B4	16kWh	153Wh/km ;
+0_00:22:44	B2	B4	23kWh	216Wh/km ;
+-
+0_00:09:36	B2	B4	22kWh	218Wh/km ;
+0_00:14:15	B4	B2	16kWh	173Wh/km ;
+-
+0_00:27:22	B4	B3	13kWh	216Wh/km ;
+0_00:22:02	B4	B3	11kWh	214Wh/km ;
+-
+0_00:25:17	B2	B4	18kWh	219Wh/km ;
+0_00:35:13	B4	B2	13kWh	186Wh/km ;
+-
+0_00:17:24	B2	B4	18kWh	237Wh/km ;
+0_00:06:04	B2	B4	16kWh	223Wh/km ;
+-
+0_00:54:21	B3	B4	12kWh	174Wh/km ;
+0_00:21:11	B2	B4	25kWh	231Wh/km ;
+-
+0_00:51:49	B4	B2	14kWh	216Wh/km ;
+0_00:42:20	B4	B2	25kWh	232Wh/km ;
+-
+0_00:06:22	B2	B4	12kWh	194Wh/km ;
+0_00:43:02	B3	B4	11kWh	219Wh/km ;
+-
+0_00:37:41	B2	B4	22kWh	238Wh/km ;
+0_00:26:24	B2	B4	23kWh	225Wh/km ;
+-
+0_00:26:03	B2	B4	17kWh	227Wh/km ;
+0_00:36:47	B4	B2	18kWh	235Wh/km ;
+-
+0_00:15:40	B4	B2	15kWh	231Wh/km ;
+0_00:13:43	B4	B2	13kWh	154Wh/km ;
+-
+0_00:57:09	B4	B2	17kWh	225Wh/km ;
+0_00:49:01	B4	B2	23kWh	213Wh/km ;
+-
+0_00:53:01	B3	B4	10kWh	152Wh/km ;
+0_00:39:18	B3	B4	18kWh	226Wh/km ;
+-
+0_00:47:20	B2	B4	24kWh	248Wh/km ;
+0_00:50:33	B4	B2	15kWh	162Wh/km ;
+-
+0_00:16:07	B4	B2	20kWh	240Wh/km ;
+0_00:09:41	B4	B2	20kWh	192Wh/km ;
+-
+0_00:48:53	B4	B2	12kWh	208Wh/km ;
+0_00:39:27	B4	B2	16kWh	189Wh/km ;
+-
+0_00:04:15	B4	B3	8kWh	160Wh/km ;
+0_00:05:37	B4	B3	15kWh	224Wh/km ;
+-
+0_00:34:25	B3	B4	14kWh	167Wh/km ;
+0_00:11:34	B2	B4	16kWh	162Wh/km ;
+-
+0_00:25:05	B4	B2	18kWh	222Wh/km ;
+0_00:18:54	B4	B2	15kWh	158Wh/km ;
+-
+0_00:11:18	B3	B4	15kWh	226Wh/km ;
+0_00:00:00	B3	B4	14kWh	221Wh/km ;
+-
+0_00:22:58	B1	B2	8kWh	203Wh/km ;
+0_00:22:59	B2	B1	10kWh	211Wh/km ;
+-
+0_00:38:19	B1	B2	10kWh	180Wh/km ;
+0_00:00:59	B4	B2	17kWh	171Wh/km ;
+-
+0_00:34:30	B2	B4	24kWh	244Wh/km ;
+0_00:24:26	B2	B4	14kWh	213Wh/km ;
+-
+0_00:44:33	B4	B3	13kWh	218Wh/km ;
+0_00:32:58	B2	B4	20kWh	192Wh/km ;
+-
+0_00:00:31	B4	B2	17kWh	204Wh/km ;
+0_00:31:14	B1	B2	11kWh	185Wh/km ;
+-
+0_00:43:42	B2	B4	20kWh	203Wh/km ;
+0_00:29:00	B2	B4	18kWh	217Wh/km ;
+-
+0_00:55:14	B3	B4	8kWh	155Wh/km ;
+0_00:10:56	B2	B4	22kWh	240Wh/km ;
+-
+0_00:21:43	B4	B2	22kWh	201Wh/km ;
+0_00:19:43	B4	B2	13kWh	230Wh/km ;
+-
+0_00:52:45	B4	B3	12kWh	234Wh/km ;
+0_00:42:41	B2	B4	21kWh	206Wh/km ;
+-
+0_00:34:22	B2	B4	17kWh	197Wh/km ;
+0_00:30:53	B2	B4	17kWh	216Wh/km ;
+-
+0_00:50:52	B2	B1	9kWh	202Wh/km ;
+0_00:44:32	B1	B2	9kWh	222Wh/km ;
+-
+0_00:33:15	B4	B3	13kWh	237Wh/km ;
+0_00:34:36	B3	B4	14kWh	249Wh/km ;
+-
+0_00:21:51	B4	B2	17kWh	161Wh/km ;
+0_00:22:30	B4	B2	17kWh	240Wh/km ;
+-
+0_00:44:49	B3	B4	13kWh	167Wh/km ;
+0_00:14:38	B2	B4	22kWh	233Wh/km ;
+-
+0_00:43:32	B3	B4	15kWh	226Wh/km ;
+0_00:16:40	B2	B4	22kWh	244Wh/km ;
+-
+0_00:45:38	B3	B4	19kWh	246Wh/km ;
+0_00:06:27	B2	B4	18kWh	243Wh/km ;
+-
+0_00:30:35	B2	B4	11kWh	215Wh/km ;
+0_00:57:38	B4	B2	13kWh	151Wh/km ;
+-
+0_00:50:11	B4	B2	15kWh	163Wh/km ;
+0_00:51:29	B4	B2	19kWh	214Wh/km ;
+-
+0_00:06:06	B4	B2	25kWh	229Wh/km ;
+0_00:03:01	B4	B2	14kWh	178Wh/km ;
+-
+0_00:41:00	B2	B4	18kWh	183Wh/km ;
+0_00:29:22	B2	B4	19kWh	239Wh/km ;
+-
+0_00:55:54	B3	B4	14kWh	193Wh/km ;
+0_00:21:33	B2	B4	22kWh	232Wh/km ;
+-
+0_00:53:16	B4	B3	12kWh	168Wh/km ;
+0_00:49:31	B4	B3	11kWh	190Wh/km ;
+-
+0_00:11:33	B2	B4	14kWh	241Wh/km ;
+0_00:47:03	B4	B2	11kWh	159Wh/km ;
+-
+0_00:27:28	B4	B2	20kWh	242Wh/km ;
+0_00:19:08	B4	B2	16kWh	242Wh/km ;
+-
+0_00:36:55	B4	B3	16kWh	208Wh/km ;
+0_00:21:15	B2	B4	17kWh	200Wh/km ;
+-
+0_00:34:57	B4	B2	20kWh	199Wh/km ;
+0_00:26:29	B4	B2	16kWh	215Wh/km ;
+-
+0_00:19:41	B4	B3	19kWh	249Wh/km ;
+0_00:12:35	B2	B4	16kWh	206Wh/km ;
+-
+0_00:54:31	B4	B2	18kWh	222Wh/km ;
+0_00:47:25	B4	B2	11kWh	203Wh/km ;
+-
+0_00:41:25	B4	B2	12kWh	196Wh/km ;
+0_00:39:54	B4	B2	16kWh	241Wh/km ;
+-
+0_00:22:24	B3	B4	15kWh	237Wh/km ;
+0_00:24:21	B3	B4	15kWh	191Wh/km ;
+-
+0_00:28:38	B2	B4	12kWh	191Wh/km ;
+0_00:21:36	B2	B4	16kWh	247Wh/km ;
+-
+0_00:50:37	B4	B3	20kWh	236Wh/km ;
+0_00:46:41	B4	B3	13kWh	206Wh/km ;
+-
+0_00:46:09	B2	B4	15kWh	223Wh/km ;
+0_00:53:15	B4	B2	21kWh	207Wh/km ;
+-
+0_00:10:59	B4	B3	13kWh	223Wh/km ;
+0_00:02:44	B4	B3	17kWh	220Wh/km ;
+-
+0_00:44:15	B3	B4	9kWh	155Wh/km ;
+0_00:25:49	B4	B3	14kWh	235Wh/km ;
+-
+0_00:40:22	B2	B4	12kWh	182Wh/km ;
+0_00:28:34	B2	B4	22kWh	222Wh/km ;
+-
+0_00:32:29	B4	B2	14kWh	151Wh/km ;
+0_00:57:59	B1	B2	8kWh	177Wh/km ;
+-
+0_00:03:48	B4	B2	21kWh	230Wh/km ;
+0_00:35:39	B1	B2	8kWh	162Wh/km ;
+-
+0_00:19:14	B4	B3	12kWh	238Wh/km ;
+0_00:16:01	B4	B3	12kWh	183Wh/km ;
+-
+0_00:00:16	B4	B2	19kWh	209Wh/km ;
+0_00:24:28	B1	B2	9kWh	233Wh/km ;
+-
+0_00:09:56	B2	B4	25kWh	246Wh/km ;
+0_00:25:50	B4	B2	14kWh	174Wh/km ;
+-
+0_00:03:22	B2	B4	16kWh	181Wh/km ;
+0_00:00:10	B4	B3	15kWh	249Wh/km ;
+-
+0_00:34:11	B3	B4	19kWh	222Wh/km ;
+0_00:03:50	B2	B4	14kWh	215Wh/km ;
+-
+0_00:39:26	B2	B4	14kWh	207Wh/km ;
+0_00:26:16	B2	B4	21kWh	234Wh/km ;
+-
+0_00:19:43	B4	B3	14kWh	250Wh/km ;
+0_00:16:56	B4	B3	15kWh	175Wh/km ;
+-
+0_00:50:49	B4	B3	19kWh	228Wh/km ;
+0_00:49:13	B4	B3	15kWh	236Wh/km ;
+-
+0_00:23:06	B4	B2	16kWh	180Wh/km ;
+0_00:11:33	B4	B2	14kWh	208Wh/km ;
+-
+0_00:38:10	B2	B4	22kWh	203Wh/km ;
+0_00:48:08	B3	B4	18kWh	233Wh/km ;
+-
+0_00:28:22	B4	B2	16kWh	226Wh/km ;
+0_00:53:25	B1	B2	10kWh	214Wh/km ;
+-
+0_00:37:17	B3	B4	13kWh	241Wh/km ;
+0_00:34:26	B3	B4	12kWh	163Wh/km ;
+-
+0_00:46:31	B4	B3	16kWh	245Wh/km ;
+0_00:23:20	B2	B4	15kWh	202Wh/km ;
+-
+0_00:26:40	B2	B4	20kWh	208Wh/km ;
+0_00:41:28	B4	B2	14kWh	171Wh/km ;
+-
+0_00:21:50	B4	B3	12kWh	204Wh/km ;
+0_00:14:17	B4	B3	9kWh	162Wh/km ;
+-
+0_00:19:46	B4	B2	14kWh	155Wh/km ;
+0_00:18:07	B4	B2	21kWh	225Wh/km ;
+-
+0_00:36:15	B2	B4	14kWh	151Wh/km ;
+0_00:28:56	B2	B4	15kWh	163Wh/km ;
+-
+0_00:54:51	B3	B4	13kWh	169Wh/km ;
+0_00:23:14	B2	B4	19kWh	179Wh/km ;
+-
+0_00:37:16	B4	B3	14kWh	234Wh/km ;
+0_00:37:23	B3	B4	18kWh	218Wh/km ;
+-
+0_00:34:31	B2	B4	20kWh	217Wh/km ;
+0_00:19:07	B2	B4	20kWh	237Wh/km ;
+-
+0_00:14:42	B4	B3	11kWh	209Wh/km ;
+0_00:28:13	B3	B4	11kWh	178Wh/km ;
+-
+0_00:26:48	B4	B3	10kWh	183Wh/km ;
+0_00:26:19	B4	B3	17kWh	226Wh/km ;
+-
+0_00:32:44	B4	B2	16kWh	182Wh/km ;
+0_00:33:17	B4	B2	12kWh	218Wh/km ;
+-
+0_00:52:53	B3	B4	10kWh	191Wh/km ;
+0_00:20:11	B2	B4	16kWh	166Wh/km ;
+-
+0_00:43:09	B3	B4	20kWh	240Wh/km ;
+0_00:30:15	B4	B2	15kWh	175Wh/km ;
+-
+0_00:14:51	B4	B2	21kWh	227Wh/km ;
+0_00:14:34	B4	B2	13kWh	203Wh/km ;
+-
+0_00:21:38	B2	B4	26kWh	240Wh/km ;
+0_00:25:52	B4	B2	23kWh	234Wh/km ;
+-
+0_00:52:47	B3	B4	15kWh	240Wh/km ;
+0_00:31:47	B4	B2	20kWh	192Wh/km ;
+-
+0_00:12:07	B2	B4	24kWh	231Wh/km ;
+0_00:23:44	B4	B2	18kWh	181Wh/km ;
+-
+0_00:08:59	B4	B2	17kWh	177Wh/km ;
+0_00:32:05	B1	B2	10kWh	204Wh/km ;
+-
+0_00:55:41	B4	B2	13kWh	249Wh/km ;
+0_00:49:55	B4	B2	17kWh	227Wh/km ;
+-
+0_00:21:15	B4	B2	21kWh	227Wh/km ;
+0_00:44:06	B1	B2	15kWh	246Wh/km ;
+-
+0_00:23:10	B4	B2	23kWh	226Wh/km ;
+0_00:07:29	B4	B2	22kWh	234Wh/km ;
+-
+0_00:30:42	B4	B2	15kWh	206Wh/km ;
+0_00:25:02	B4	B2	12kWh	193Wh/km ;
+-
+0_00:52:12	B3	B4	9kWh	170Wh/km ;
+0_00:18:40	B2	B4	17kWh	196Wh/km ;
+-
+0_00:45:38	B3	B4	13kWh	203Wh/km ;
+0_00:40:10	B3	B4	13kWh	231Wh/km ;
+-
+0_00:59:49	B3	B4	16kWh	246Wh/km ;
+0_00:53:01	B4	B2	11kWh	160Wh/km ;
+-
+0_00:46:46	B1	B2	10kWh	174Wh/km ;
+0_00:03:27	B4	B2	14kWh	196Wh/km ;
+-
+0_00:43:20	B1	B2	7kWh	159Wh/km ;
+0_00:43:00	B2	B1	12kWh	226Wh/km ;
+-
+0_00:24:53	B4	B3	17kWh	229Wh/km ;
+0_00:28:04	B3	B4	17kWh	210Wh/km ;
+-
+0_00:51:33	B2	B4	24kWh	234Wh/km ;
+0_00:40:24	B2	B4	17kWh	226Wh/km ;
+-
+0_00:33:52	B4	B2	16kWh	199Wh/km ;
+0_00:29:38	B4	B2	11kWh	165Wh/km ;
+-
+0_00:15:15	B2	B4	20kWh	215Wh/km ;
+0_00:14:37	B4	B2	16kWh	223Wh/km ;
+-
+0_00:21:26	B1	B2	12kWh	210Wh/km ;
+0_00:17:04	B1	B2	10kWh	187Wh/km ;
+-
+0_00:37:30	B4	B3	13kWh	240Wh/km ;
+0_00:53:26	B3	B4	13kWh	231Wh/km ;
+-
+0_00:48:00	B1	B2	7kWh	180Wh/km ;
+0_00:02:49	B4	B2	16kWh	249Wh/km ;
+-
+0_00:02:03	B4	B3	8kWh	159Wh/km ;
+0_00:03:56	B4	B3	15kWh	242Wh/km ;
+-
+0_00:30:42	B4	B2	14kWh	156Wh/km ;
+0_00:15:26	B4	B2	23kWh	237Wh/km ;
+-
+0_00:59:29	B4	B2	21kWh	231Wh/km ;
+0_00:35:20	B4	B2	15kWh	248Wh/km ;
+-
+0_00:25:10	B2	B4	10kWh	155Wh/km ;
+0_00:36:08	B3	B4	12kWh	228Wh/km ;
+-
+0_00:23:24	B4	B2	17kWh	174Wh/km ;
+0_00:03:09	B4	B2	22kWh	240Wh/km ;
+-
+0_00:41:10	B3	B4	16kWh	189Wh/km ;
+0_00:20:29	B4	B3	14kWh	217Wh/km ;
+-
+0_00:25:44	B4	B2	18kWh	191Wh/km ;
+0_00:13:41	B4	B2	19kWh	248Wh/km ;
+-
+0_00:16:38	B3	B4	10kWh	182Wh/km ;
+0_00:06:30	B3	B4	19kWh	247Wh/km ;
+-
+0_00:33:53	B2	B4	19kWh	226Wh/km ;
+0_00:21:57	B2	B4	17kWh	223Wh/km ;
+-
+0_00:46:21	B2	B1	10kWh	234Wh/km ;
+0_00:45:27	B2	B1	8kWh	191Wh/km ;
+-
+0_00:41:59	B1	B2	12kWh	196Wh/km ;
+0_00:34:39	B2	B1	11kWh	204Wh/km ;
+-
+0_00:33:45	B2	B4	17kWh	231Wh/km ;
+0_00:48:45	B3	B4	11kWh	207Wh/km ;
+-
+0_00:38:56	B3	B4	18kWh	226Wh/km ;
+0_00:14:11	B2	B4	25kWh	234Wh/km ;
+-
+0_00:32:11	B4	B2	14kWh	150Wh/km ;
+0_00:34:13	B4	B2	13kWh	185Wh/km ;
+-
+0_00:27:39	B3	B4	11kWh	200Wh/km ;
+0_00:01:35	B2	B4	15kWh	212Wh/km ;
+-
+0_00:25:08	B2	B4	13kWh	192Wh/km ;
+0_00:37:19	B3	B4	14kWh	232Wh/km ;
+-
+0_00:57:02	B3	B4	12kWh	182Wh/km ;
+0_00:44:56	B3	B4	13kWh	220Wh/km ;
+-
+0_00:41:49	B2	B4	15kWh	211Wh/km ;
+0_00:28:47	B2	B4	19kWh	217Wh/km ;
+-
+0_00:45:07	B3	B4	16kWh	236Wh/km ;
+0_00:33:08	B4	B2	15kWh	190Wh/km ;
+-
+0_00:51:16	B3	B4	15kWh	179Wh/km ;
+0_00:45:07	B3	B4	19kWh	250Wh/km ;
+-
+0_00:58:35	B4	B2	17kWh	220Wh/km ;
+0_00:54:23	B4	B2	13kWh	237Wh/km ;
+-
+0_00:20:47	B2	B4	16kWh	235Wh/km ;
+0_00:22:15	B4	B2	17kWh	195Wh/km ;
+-
+0_00:45:04	B4	B3	15kWh	185Wh/km ;
+0_00:38:00	B4	B3	12kWh	178Wh/km ;
+-
+0_00:53:22	B3	B4	12kWh	224Wh/km ;
+0_00:22:27	B2	B4	17kWh	157Wh/km ;
+-
+0_00:32:06	B4	B2	14kWh	230Wh/km ;
+0_00:49:50	B4	B2	16kWh	167Wh/km ;
+-
+0_00:40:28	B2	B4	14kWh	237Wh/km ;
+0_00:50:18	B2	B4	10kWh	160Wh/km ;
+-
+0_00:54:22	B4	B3	15kWh	229Wh/km ;
+0_00:55:07	B2	B4	16kWh	219Wh/km ;
+-
+0_00:48:02	B2	B1	10kWh	233Wh/km ;
+0_00:44:37	B1	B2	11kWh	185Wh/km ;
+-
+0_00:48:44	B1	B2	10kWh	212Wh/km ;
+0_00:38:56	B1	B2	11kWh	218Wh/km ;
+-
+0_00:31:19	B2	B4	19kWh	202Wh/km ;
+0_00:22:04	B2	B4	20kWh	183Wh/km ;
+-
+0_00:24:28	B4	B2	22kWh	215Wh/km ;
+0_00:18:30	B4	B2	11kWh	177Wh/km ;
+-
+0_00:24:02	B4	B2	21kWh	211Wh/km ;
+0_00:16:17	B4	B2	17kWh	201Wh/km ;
+-
+0_00:42:59	B3	B4	17kWh	220Wh/km ;
+0_00:20:17	B4	B3	18kWh	235Wh/km ;
+-
+0_00:53:00	B4	B3	12kWh	160Wh/km ;
+0_00:50:31	B4	B3	17kWh	235Wh/km ;
+-
+0_00:18:27	B4	B2	20kWh	224Wh/km ;
+0_00:01:25	B4	B2	22kWh	241Wh/km ;
+-
+0_00:22:37	B4	B2	19kWh	195Wh/km ;
+0_00:05:52	B4	B2	19kWh	250Wh/km ;
+-
+0_00:13:05	B2	B4	17kWh	211Wh/km ;
+0_00:15:55	B4	B2	12kWh	159Wh/km ;
+-
+0_00:35:04	B2	B4	13kWh	205Wh/km ;
+0_00:42:32	B4	B2	15kWh	227Wh/km ;
+-
+0_00:43:43	B3	B4	13kWh	173Wh/km ;
+0_00:36:56	B3	B4	14kWh	203Wh/km ;
+-
+0_00:18:13	B4	B2	24kWh	227Wh/km ;
+0_00:48:45	B1	B2	12kWh	203Wh/km ;
+-
+0_00:28:05	B3	B4	13kWh	249Wh/km ;
+0_00:17:12	B4	B2	20kWh	210Wh/km ;
+-
+0_00:39:38	B2	B4	25kWh	235Wh/km ;
+0_00:33:40	B2	B4	21kWh	201Wh/km ;
+-
+0_00:07:48	B1	B2	9kWh	169Wh/km ;
+0_00:10:31	B2	B1	11kWh	205Wh/km ;
+-
+0_00:16:31	B3	B4	13kWh	225Wh/km ;
+0_00:13:03	B3	B4	16kWh	192Wh/km ;
+-
+0_00:57:16	B2	B4	14kWh	193Wh/km ;
+0_00:44:11	B2	B4	17kWh	205Wh/km ;
+-
+0_00:16:34	B2	B4	19kWh	219Wh/km ;
+0_00:07:51	B2	B4	14kWh	164Wh/km ;
+-
+0_00:38:59	B4	B2	13kWh	218Wh/km ;
+0_00:26:40	B4	B2	14kWh	209Wh/km ;
+-
+0_00:43:29	B2	B4	13kWh	247Wh/km ;
+0_00:45:07	B2	B4	9kWh	170Wh/km ;
+-
+0_00:54:57	B4	B2	20kWh	223Wh/km ;
+0_00:58:20	B4	B2	21kWh	214Wh/km ;
+-
+0_00:48:37	B4	B2	14kWh	220Wh/km ;
+0_00:39:20	B4	B2	17kWh	234Wh/km ;
+-
+0_00:06:13	B4	B3	15kWh	234Wh/km ;
+0_00:22:06	B3	B4	21kWh	245Wh/km ;
+-
+0_00:37:42	B4	B2	14kWh	180Wh/km ;
+0_00:29:18	B4	B2	15kWh	225Wh/km ;
+-
+0_00:44:04	B4	B3	8kWh	156Wh/km ;
+0_00:27:49	B4	B3	13kWh	249Wh/km ;
+-
+0_00:17:59	B2	B1	10kWh	235Wh/km ;
+0_00:09:41	B1	B2	9kWh	221Wh/km ;
+-
+0_00:47:21	B2	B1	9kWh	189Wh/km ;
+0_00:45:13	B1	B2	10kWh	171Wh/km ;
+-
+0_00:06:05	B4	B2	22kWh	232Wh/km ;
+0_00:42:14	B1	B2	7kWh	173Wh/km ;
+-
+0_00:46:30	B2	B4	15kWh	227Wh/km ;
+0_00:49:12	B4	B2	16kWh	181Wh/km ;
+-
+0_00:45:47	B4	B3	12kWh	215Wh/km ;
+0_00:34:18	B2	B4	14kWh	208Wh/km ;
+-
+0_00:20:15	B2	B4	16kWh	217Wh/km ;
+0_00:23:12	B4	B2	23kWh	245Wh/km ;
+-
+0_00:45:52	B4	B3	19kWh	247Wh/km ;
+0_00:38:21	B2	B4	17kWh	190Wh/km ;
+-
+0_00:31:25	B4	B2	21kWh	219Wh/km ;
+0_00:57:36	B1	B2	12kWh	196Wh/km ;
+-
+0_00:40:49	B4	B2	14kWh	158Wh/km ;
+0_00:38:50	B4	B2	25kWh	240Wh/km ;
+-
+0_00:52:06	B4	B2	13kWh	214Wh/km ;
+0_00:45:16	B4	B2	22kWh	222Wh/km ;
+-
+0_00:13:22	B4	B2	17kWh	210Wh/km ;
+0_00:03:06	B4	B2	19kWh	235Wh/km ;
+-
+0_00:49:29	B2	B4	15kWh	241Wh/km ;
+0_00:54:12	B4	B2	19kWh	199Wh/km ;
+-
+0_00:49:17	B2	B4	18kWh	191Wh/km ;
+0_00:40:15	B2	B4	24kWh	243Wh/km ;
+-
+0_00:19:05	B4	B2	17kWh	156Wh/km ;
+0_00:10:14	B4	B2	14kWh	155Wh/km ;
+-
+0_00:26:11	B2	B4	16kWh	163Wh/km ;
+0_00:26:07	B4	B3	12kWh	219Wh/km ;
+-
+0_00:28:34	B2	B1	8kWh	209Wh/km ;
+0_00:22:24	B1	B2	10kWh	193Wh/km ;
+-
+0_00:38:22	B3	B4	14kWh	230Wh/km ;
+0_00:02:15	B2	B4	26kWh	250Wh/km ;
+-
+0_00:20:43	B1	B2	10kWh	173Wh/km ;
+0_00:20:05	B1	B2	8kWh	208Wh/km ;
+-
+0_00:48:33	B1	B2	14kWh	235Wh/km ;
+0_00:44:48	B1	B2	9kWh	216Wh/km ;
+-
+0_00:23:08	B2	B4	23kWh	234Wh/km ;
+0_00:37:38	B3	B4	11kWh	174Wh/km ;
+-
+0_00:38:36	B2	B4	20kWh	182Wh/km ;
+0_00:24:29	B2	B4	25kWh	229Wh/km ;
+-
+0_00:31:33	B2	B1	9kWh	189Wh/km ;
+0_00:25:56	B1	B2	10kWh	166Wh/km ;
+-
+0_00:43:52	B4	B2	11kWh	175Wh/km ;
+0_00:31:05	B4	B2	18kWh	237Wh/km ;
+-
+0_00:09:57	B4	B2	19kWh	185Wh/km ;
+0_00:00:52	B4	B2	16kWh	233Wh/km ;
+-
+0_00:29:03	B2	B1	10kWh	240Wh/km ;
+0_00:23:11	B2	B1	8kWh	179Wh/km ;
+-
+0_00:50:17	B1	B2	10kWh	188Wh/km ;
+0_00:09:47	B4	B2	14kWh	162Wh/km ;
+-
+0_00:53:08	B2	B1	10kWh	203Wh/km ;
+0_00:48:27	B1	B2	13kWh	218Wh/km ;
+-
+0_00:21:45	B4	B2	21kWh	196Wh/km ;
+0_00:12:14	B4	B2	12kWh	159Wh/km ;
+-
+0_00:33:23	B3	B4	15kWh	193Wh/km ;
+0_00:04:14	B2	B4	16kWh	239Wh/km ;
+-
+0_00:46:15	B4	B2	17kWh	231Wh/km ;
+0_00:40:43	B4	B2	17kWh	154Wh/km ;
+-
+0_00:38:18	B1	B2	7kWh	181Wh/km ;
+0_00:28:30	B2	B1	10kWh	250Wh/km ;
+-
+0_00:56:45	B4	B3	20kWh	249Wh/km ;
+0_00:46:30	B2	B4	15kWh	174Wh/km ;
+-
+0_00:47:40	B3	B4	11kWh	170Wh/km ;
+0_00:23:08	B2	B4	16kWh	229Wh/km ;
+-
+0_00:38:41	B1	B2	10kWh	194Wh/km ;
+0_00:04:31	B4	B2	21kWh	202Wh/km ;
+-
+0_00:34:21	B2	B1	11kWh	221Wh/km ;
+0_00:29:01	B1	B2	9kWh	180Wh/km ;
+-
+0_00:27:44	B2	B4	17kWh	167Wh/km ;
+0_00:41:01	B3	B4	13kWh	205Wh/km ;
+-
+0_00:20:54	B3	B4	21kWh	247Wh/km ;
+0_00:11:17	B4	B2	19kWh	188Wh/km ;
+-
+0_00:44:37	B4	B3	11kWh	160Wh/km ;
+0_00:42:07	B4	B3	11kWh	203Wh/km ;
+-
+0_00:49:00	B2	B4	10kWh	152Wh/km ;
+0_00:45:52	B2	B4	20kWh	239Wh/km ;
+-
+0_00:53:27	B3	B4	12kWh	163Wh/km ;
+0_00:13:35	B2	B4	10kWh	169Wh/km ;
+-
+0_00:21:58	B2	B4	11kWh	219Wh/km ;
+0_00:57:19	B3	B4	15kWh	213Wh/km ;
+-
+0_00:22:31	B4	B2	14kWh	167Wh/km ;
+0_00:21:55	B4	B2	18kWh	175Wh/km ;
+-
+0_00:00:42	B2	B4	22kWh	235Wh/km ;
+0_00:16:04	B4	B2	12kWh	163Wh/km ;
+-
+0_00:15:31	B2	B4	12kWh	173Wh/km ;
+0_00:17:45	B2	B4	17kWh	224Wh/km ;
+-
+0_00:17:33	B2	B4	17kWh	208Wh/km ;
+0_00:18:10	B4	B2	12kWh	174Wh/km ;
+-
+0_00:45:27	B4	B2	21kWh	194Wh/km ;
+0_00:39:49	B4	B2	17kWh	242Wh/km ;
+-
+0_00:26:04	B3	B4	14kWh	246Wh/km ;
+0_00:26:38	B3	B4	14kWh	164Wh/km ;
+-
+0_00:25:18	B2	B4	17kWh	200Wh/km ;
+0_00:41:58	B4	B2	15kWh	154Wh/km ;
+-
+0_00:32:12	B2	B4	20kWh	212Wh/km ;
+0_00:55:07	B3	B4	17kWh	242Wh/km ;
+-
+0_00:06:35	B2	B4	15kWh	250Wh/km ;
+0_00:24:59	B2	B4	19kWh	192Wh/km ;
+-
+0_00:28:38	B2	B4	15kWh	153Wh/km ;
+0_00:15:55	B2	B4	14kWh	196Wh/km ;
+-
+0_00:03:30	B4	B2	11kWh	156Wh/km ;
+0_00:03:04	B3	B4	21kWh	245Wh/km ;
+-
+0_00:49:56	B4	B3	20kWh	235Wh/km ;
+0_00:40:46	B2	B4	19kWh	202Wh/km ;
+-
+0_00:29:28	B3	B4	17kWh	223Wh/km ;
+0_00:06:13	B2	B4	19kWh	235Wh/km ;
+-
+0_00:29:02	B4	B3	16kWh	233Wh/km ;
+0_00:30:25	B3	B4	11kWh	206Wh/km ;
+-
+0_00:27:42	B4	B3	12kWh	236Wh/km ;
+0_00:43:14	B3	B4	10kWh	167Wh/km ;
+-
+0_00:42:48	B4	B2	13kWh	187Wh/km ;
+0_00:25:24	B4	B2	19kWh	224Wh/km ;
+-
+0_00:35:44	B4	B2	10kWh	179Wh/km ;
+0_00:33:18	B4	B2	18kWh	179Wh/km ;
+-
+0_00:37:28	B3	B4	12kWh	158Wh/km ;
+0_00:05:05	B2	B4	13kWh	179Wh/km ;
+-
+0_00:36:22	B2	B4	18kWh	205Wh/km ;
+0_00:27:09	B2	B4	17kWh	209Wh/km ;
+-
+0_00:44:52	B2	B4	23kWh	246Wh/km ;
+0_00:34:42	B2	B4	17kWh	202Wh/km ;
+-
+0_00:40:58	B3	B4	16kWh	213Wh/km ;
+0_00:41:20	B3	B4	14kWh	167Wh/km ;
+-
+0_00:17:42	B4	B2	18kWh	227Wh/km ;
+0_00:01:16	B4	B2	20kWh	240Wh/km ;
+-
+0_00:18:19	B2	B4	14kWh	182Wh/km ;
+0_00:38:43	B3	B4	11kWh	162Wh/km ;
+-
+0_00:51:58	B4	B2	12kWh	206Wh/km ;
+0_00:46:31	B4	B2	15kWh	202Wh/km ;
+-
+0_00:41:39	B4	B2	19kWh	219Wh/km ;
+0_00:29:13	B4	B2	23kWh	226Wh/km ;
+-
+0_00:58:30	B4	B2	20kWh	230Wh/km ;
+0_00:52:20	B4	B2	18kWh	224Wh/km ;
+-
+0_00:50:53	B3	B4	10kWh	175Wh/km ;
+0_00:17:23	B2	B4	17kWh	206Wh/km ;
+-
+0_00:14:50	B2	B4	17kWh	177Wh/km ;
+0_00:09:52	B2	B4	16kWh	180Wh/km ;
+-
+0_00:59:37	B3	B4	17kWh	235Wh/km ;
+0_00:35:49	B2	B4	15kWh	227Wh/km ;
+-
+0_00:08:47	B2	B4	17kWh	154Wh/km ;
+0_00:04:38	B2	B4	13kWh	180Wh/km ;
+-
+0_00:53:35	B2	B4	25kWh	231Wh/km ;
+0_00:46:56	B2	B4	21kWh	226Wh/km ;
+-
+0_00:37:18	B1	B2	10kWh	240Wh/km ;
+0_00:28:21	B2	B1	10kWh	215Wh/km ;
+-
+0_00:27:00	B4	B2	11kWh	195Wh/km ;
+0_00:24:21	B4	B2	11kWh	155Wh/km ;
+-
+0_00:22:50	B4	B3	14kWh	221Wh/km ;
+0_00:03:40	B2	B4	20kWh	209Wh/km ;
+-
+0_00:46:20	B4	B3	17kWh	209Wh/km ;
+0_00:34:44	B4	B3	10kWh	201Wh/km ;
+-
+0_00:10:21	B4	B3	17kWh	232Wh/km ;
+0_00:00:32	B4	B3	15kWh	209Wh/km ;
+-
+0_00:14:06	B2	B4	12kWh	166Wh/km ;
+0_00:23:55	B3	B4	21kWh	244Wh/km ;
+-
+0_00:54:08	B4	B2	15kWh	183Wh/km ;
+0_00:50:29	B4	B2	13kWh	192Wh/km ;
+-
+0_00:41:41	B2	B4	21kWh	207Wh/km ;
+0_00:52:54	B4	B2	16kWh	202Wh/km ;
+-
+0_00:42:21	B4	B3	13kWh	202Wh/km ;
+0_00:33:40	B2	B4	11kWh	168Wh/km ;
+-
+0_00:31:02	B4	B3	14kWh	250Wh/km ;
+0_00:21:29	B2	B4	21kWh	214Wh/km ;
+-
+0_00:16:40	B3	B4	10kWh	180Wh/km ;
+0_00:04:55	B3	B4	12kWh	214Wh/km ;
+-
+0_00:41:03	B4	B2	17kWh	233Wh/km ;
+0_00:33:54	B4	B2	18kWh	171Wh/km ;
+-
+0_00:01:00	B4	B2	22kWh	209Wh/km ;
+0_00:31:55	B1	B2	11kWh	211Wh/km ;
+-
+0_00:16:17	B2	B4	13kWh	168Wh/km ;
+0_00:36:49	B3	B4	14kWh	178Wh/km ;
+-
+0_00:33:46	B2	B1	9kWh	157Wh/km ;
+0_00:28:02	B1	B2	8kWh	156Wh/km ;
+-
+0_00:18:50	B2	B4	10kWh	178Wh/km ;
+0_00:35:12	B4	B3	16kWh	225Wh/km ;
+-
+0_00:14:15	B4	B2	10kWh	181Wh/km ;
+0_00:25:54	B4	B2	18kWh	187Wh/km ;
+-
+0_00:32:02	B2	B4	12kWh	171Wh/km ;
+0_00:28:43	B2	B4	17kWh	192Wh/km ;
+-
+0_00:51:55	B4	B2	18kWh	213Wh/km ;
+0_00:45:54	B4	B2	9kWh	152Wh/km ;
+-
+0_00:07:09	B2	B4	19kWh	201Wh/km ;
+0_00:27:15	B3	B4	10kWh	177Wh/km ;
+-
+0_00:47:45	B3	B4	13kWh	248Wh/km ;
+0_00:39:40	B3	B4	19kWh	245Wh/km ;
+-
+0_00:00:19	B2	B4	18kWh	241Wh/km ;
+0_00:03:15	B4	B2	18kWh	195Wh/km ;
+-
+0_00:21:11	B2	B4	13kWh	156Wh/km ;
+0_00:43:32	B3	B4	19kWh	250Wh/km ;
+-
+0_00:35:28	B4	B3	12kWh	234Wh/km ;
+0_00:33:34	B4	B3	19kWh	246Wh/km ;
+-
+0_00:26:25	B4	B3	12kWh	212Wh/km ;
+0_00:17:36	B4	B3	18kWh	244Wh/km ;
+-
+0_00:07:52	B3	B4	16kWh	212Wh/km ;
+0_00:06:19	B3	B4	12kWh	233Wh/km ;
+-
+0_00:23:26	B4	B2	18kWh	231Wh/km ;
+0_00:19:24	B4	B2	13kWh	169Wh/km ;
+-
+0_00:49:15	B4	B2	18kWh	171Wh/km ;
+0_00:48:29	B4	B2	15kWh	180Wh/km ;
+-
+0_00:37:48	B2	B4	17kWh	241Wh/km ;
+0_00:26:19	B2	B4	12kWh	155Wh/km ;
+-
+0_00:16:16	B2	B4	17kWh	219Wh/km ;
+0_00:24:58	B4	B2	13kWh	185Wh/km ;
+-
+0_00:16:26	B1	B2	11kWh	209Wh/km ;
+0_00:09:27	B1	B2	7kWh	162Wh/km ;
+-
+0_00:38:22	B4	B3	15kWh	225Wh/km ;
+0_00:45:49	B3	B4	11kWh	194Wh/km ;
+-
+0_00:24:49	B4	B3	13kWh	212Wh/km ;
+0_00:23:51	B2	B4	11kWh	172Wh/km ;
+-
+0_00:36:38	B4	B3	13kWh	235Wh/km ;
+0_00:14:03	B2	B4	8kWh	157Wh/km ;
+-
+0_00:14:09	B2	B1	9kWh	156Wh/km ;
+0_00:10:40	B1	B2	7kWh	160Wh/km ;
+-
+0_00:04:07	B2	B4	12kWh	193Wh/km ;
+0_00:19:10	B3	B4	11kWh	189Wh/km ;
+-
+0_00:35:44	B4	B2	17kWh	173Wh/km ;
+0_00:21:28	B4	B2	21kWh	204Wh/km ;
+-
+0_00:30:51	B2	B4	20kWh	208Wh/km ;
+0_00:39:49	B4	B2	11kWh	171Wh/km ;
+-
+0_00:27:02	B4	B3	13kWh	244Wh/km ;
+0_00:17:42	B2	B4	12kWh	173Wh/km ;
+-
+0_00:06:43	B4	B2	10kWh	165Wh/km ;
+0_00:01:33	B4	B2	17kWh	169Wh/km ;
+-
+0_00:09:57	B3	B4	11kWh	161Wh/km ;
+0_00:04:29	B3	B4	10kWh	156Wh/km ;
+-
+0_00:54:57	B2	B4	16kWh	164Wh/km ;
+0_00:42:06	B2	B4	14kWh	210Wh/km ;
+-
+0_00:47:49	B3	B4	14kWh	195Wh/km ;
+0_00:40:27	B3	B4	15kWh	181Wh/km ;
+-
+0_00:25:34	B2	B4	13kWh	243Wh/km ;
+0_00:41:04	B2	B4	19kWh	209Wh/km ;
+-
+0_00:18:29	B4	B2	25kWh	243Wh/km ;
+0_00:02:40	B4	B2	17kWh	240Wh/km ;
+-
+0_00:34:44	B4	B2	10kWh	185Wh/km ;
+0_00:25:24	B4	B2	17kWh	234Wh/km ;
+-
+0_00:35:23	B2	B4	25kWh	229Wh/km ;
+0_00:36:37	B2	B4	19kWh	221Wh/km ;
+-
+0_00:14:57	B4	B2	15kWh	241Wh/km ;
+0_00:07:52	B4	B2	18kWh	250Wh/km ;
+-
+0_00:52:54	B4	B3	14kWh	232Wh/km ;
+0_00:50:43	B2	B4	18kWh	238Wh/km ;
+-
+0_00:35:45	B4	B3	16kWh	243Wh/km ;
+0_00:50:30	B3	B4	12kWh	198Wh/km ;
+-
+0_00:49:01	B4	B3	17kWh	204Wh/km ;
+0_00:43:52	B2	B4	14kWh	195Wh/km ;
+-
+0_00:18:12	B2	B4	16kWh	200Wh/km ;
+0_00:11:04	B2	B4	10kWh	151Wh/km ;
+-
+0_00:21:07	B3	B4	14kWh	213Wh/km ;
+0_00:11:03	B3	B4	12kWh	203Wh/km ;
+-
+0_00:47:04	B3	B4	16kWh	218Wh/km ;
+0_00:36:34	B4	B2	14kWh	155Wh/km ;
+-
+0_00:34:19	B2	B4	15kWh	177Wh/km ;
+0_00:34:22	B2	B4	24kWh	229Wh/km ;
+-
+0_00:18:27	B4	B3	9kWh	154Wh/km ;
+0_00:15:48	B4	B3	9kWh	180Wh/km ;
+-
+0_00:31:44	B4	B2	10kWh	169Wh/km ;
+0_00:22:10	B4	B2	12kWh	185Wh/km ;
+-
+0_00:40:09	B3	B4	18kWh	249Wh/km ;
+0_00:24:52	B4	B2	19kWh	205Wh/km ;
+-
+0_00:10:00	B4	B2	11kWh	205Wh/km ;
+0_00:54:25	B1	B2	9kWh	224Wh/km ;
+-
+0_00:52:49	B2	B1	8kWh	200Wh/km ;
+0_00:47:55	B1	B2	7kWh	159Wh/km ;
+-
+0_00:38:14	B3	B4	12kWh	225Wh/km ;
+0_00:06:24	B2	B4	17kWh	242Wh/km ;
+-
+0_00:43:25	B3	B4	18kWh	232Wh/km ;
+0_00:20:36	B2	B4	17kWh	174Wh/km ;
+-
+0_00:25:26	B2	B4	25kWh	248Wh/km ;
+0_00:31:53	B4	B2	16kWh	153Wh/km ;
+-
+0_00:59:35	B3	B4	16kWh	222Wh/km ;
+0_00:32:53	B2	B4	16kWh	248Wh/km ;
+-
+0_00:54:29	B2	B1	10kWh	167Wh/km ;
+0_00:48:14	B2	B1	9kWh	227Wh/km ;
+-
+0_00:22:29	B3	B4	14kWh	186Wh/km ;
+0_00:20:20	B3	B4	10kWh	159Wh/km ;
+-
+0_00:40:16	B4	B3	19kWh	232Wh/km ;
+0_00:18:20	B2	B4	21kWh	234Wh/km ;
+-
+0_00:53:15	B4	B2	12kWh	164Wh/km ;
+0_00:43:50	B4	B2	19kWh	238Wh/km ;
+-
+0_00:54:26	B4	B3	14kWh	224Wh/km ;
+0_00:48:59	B4	B3	16kWh	230Wh/km ;
+-
+0_00:56:25	B3	B4	17kWh	238Wh/km ;
+0_00:31:47	B2	B4	23kWh	213Wh/km ;
+-
+0_00:56:12	B4	B2	18kWh	172Wh/km ;
+0_00:59:13	B4	B2	19kWh	196Wh/km ;
+-
+0_00:27:10	B4	B3	15kWh	237Wh/km ;
+0_00:34:01	B3	B4	15kWh	210Wh/km ;
+-
+0_00:41:37	B3	B4	14kWh	250Wh/km ;
+0_00:38:37	B3	B4	15kWh	198Wh/km ;
+-
+0_00:50:18	B4	B3	18kWh	247Wh/km ;
+0_00:56:11	B3	B4	19kWh	237Wh/km ;
+-
+0_00:22:44	B2	B4	13kWh	208Wh/km ;
+0_00:41:59	B4	B2	13kWh	152Wh/km ;
+-
+0_00:59:56	B3	B4	18kWh	217Wh/km ;
+0_00:57:12	B3	B4	17kWh	248Wh/km ;
+-
+0_00:46:43	B4	B3	17kWh	217Wh/km ;
+0_00:22:04	B2	B4	21kWh	195Wh/km ;
+-
+0_00:51:28	B3	B4	10kWh	167Wh/km ;
+0_00:07:46	B2	B4	12kWh	203Wh/km ;
+-
+0_00:43:39	B1	B2	10kWh	173Wh/km ;
+0_00:43:16	B2	B1	10kWh	249Wh/km ;
+-
+0_00:21:48	B4	B2	22kWh	240Wh/km ;
+0_00:15:52	B4	B2	13kWh	238Wh/km ;
+-
+0_00:45:11	B1	B2	10kWh	165Wh/km ;
+0_00:03:34	B4	B2	17kWh	179Wh/km ;
+-
+0_00:12:05	B3	B4	15kWh	210Wh/km ;
+0_00:08:44	B3	B4	11kWh	207Wh/km ;
+-
+0_00:11:32	B4	B3	18kWh	215Wh/km ;
+0_00:03:53	B4	B3	20kWh	241Wh/km ;
+-
+0_00:11:47	B4	B3	17kWh	234Wh/km ;
+0_00:01:05	B2	B4	22kWh	204Wh/km ;
+-
+0_00:08:08	B2	B4	12kWh	235Wh/km ;
+0_00:49:01	B3	B4	15kWh	227Wh/km ;
+-
+0_00:19:58	B2	B1	11kWh	178Wh/km ;
+0_00:12:37	B1	B2	10kWh	195Wh/km ;
+-
+0_00:25:06	B4	B3	15kWh	244Wh/km ;
+0_00:37:48	B3	B4	15kWh	249Wh/km ;
+-
+0_00:13:10	B2	B4	19kWh	185Wh/km ;
+0_00:35:00	B3	B4	13kWh	207Wh/km ;
+-
+0_00:36:59	B1	B2	9kWh	185Wh/km ;
+0_00:29:50	B1	B2	7kWh	172Wh/km ;
+-
+0_00:49:50	B4	B3	17kWh	247Wh/km ;
+0_00:22:40	B2	B4	24kWh	239Wh/km ;
+-
+0_00:25:53	B2	B4	22kWh	232Wh/km ;
+0_00:17:43	B2	B4	20kWh	189Wh/km ;
+-
+0_00:47:41	B2	B4	13kWh	194Wh/km ;
+0_00:45:44	B4	B3	20kWh	249Wh/km ;
+-
+0_00:14:34	B4	B3	12kWh	155Wh/km ;
+0_00:06:39	B4	B3	15kWh	208Wh/km ;
+-
+0_00:36:26	B3	B4	13kWh	198Wh/km ;
+0_00:33:47	B3	B4	14kWh	200Wh/km ;
+-
+0_00:06:06	B2	B4	24kWh	227Wh/km ;
+0_00:16:05	B4	B2	20kWh	237Wh/km ;
+-
+0_00:32:00	B2	B1	9kWh	235Wh/km ;
+0_00:25:57	B1	B2	8kWh	200Wh/km ;
+-
+0_00:54:24	B4	B3	10kWh	191Wh/km ;
+0_00:25:16	B2	B4	9kWh	160Wh/km ;
+-
+0_00:44:40	B2	B4	13kWh	155Wh/km ;
+0_00:25:16	B2	B4	19kWh	238Wh/km ;
+-
+0_00:53:22	B4	B3	11kWh	194Wh/km ;
+0_00:43:08	B2	B4	13kWh	176Wh/km ;
+-
+0_00:17:13	B2	B4	19kWh	206Wh/km ;
+0_00:08:38	B2	B4	11kWh	169Wh/km ;
+-
+0_00:46:02	B4	B3	10kWh	194Wh/km ;
+0_00:38:01	B2	B4	15kWh	158Wh/km ;
+-
+0_00:45:07	B4	B2	19kWh	246Wh/km ;
+0_00:40:05	B4	B2	14kWh	219Wh/km ;
+-
+0_00:23:10	B4	B3	14kWh	234Wh/km ;
+0_00:19:52	B2	B4	19kWh	211Wh/km ;
+-
+0_00:51:20	B4	B2	14kWh	220Wh/km ;
+0_00:21:47	B4	B2	12kWh	214Wh/km ;
+-
+0_00:52:53	B3	B4	12kWh	219Wh/km ;
+0_00:49:49	B3	B4	15kWh	249Wh/km ;
+-
+0_00:27:59	B1	B2	6kWh	154Wh/km ;
+0_00:29:31	B2	B1	8kWh	192Wh/km ;
+-
+0_00:35:44	B4	B2	14kWh	229Wh/km ;
+0_00:31:01	B4	B2	12kWh	210Wh/km ;
+-
+0_00:58:31	B4	B3	16kWh	229Wh/km ;
+0_00:55:18	B2	B4	18kWh	224Wh/km ;
+-
+0_00:56:32	B3	B4	15kWh	223Wh/km ;
+0_00:23:34	B2	B4	12kWh	175Wh/km ;
+-
+0_00:30:17	B2	B4	13kWh	168Wh/km ;
+0_00:51:49	B3	B4	9kWh	157Wh/km ;
+-
+0_00:51:41	B2	B1	8kWh	184Wh/km ;
+0_00:49:19	B2	B1	11kWh	180Wh/km ;
+-
+0_00:48:57	B2	B4	16kWh	242Wh/km ;
+0_00:57:49	B4	B2	18kWh	166Wh/km ;
+-
+0_00:34:04	B2	B4	18kWh	214Wh/km ;
+0_00:26:27	B2	B4	18kWh	178Wh/km ;
+-
+0_00:48:17	B4	B2	15kWh	192Wh/km ;
+0_00:45:13	B4	B2	10kWh	201Wh/km ;
+-
+0_00:10:19	B2	B4	13kWh	192Wh/km ;
+0_00:25:23	B3	B4	12kWh	237Wh/km ;
+-
+0_00:18:59	B2	B4	20kWh	208Wh/km ;
+0_00:08:09	B2	B4	15kWh	212Wh/km ;
+-
+0_00:18:10	B2	B4	16kWh	161Wh/km ;
+0_00:00:44	B2	B4	26kWh	247Wh/km ;
+-
+0_00:47:47	B3	B4	14kWh	215Wh/km ;
+0_00:03:04	B2	B4	12kWh	207Wh/km ;
+-
+0_00:05:19	B2	B4	22kWh	237Wh/km ;
+0_00:03:25	B4	B2	24kWh	230Wh/km ;
+-
+0_00:18:58	B1	B2	10kWh	185Wh/km ;
+0_00:21:23	B2	B1	10kWh	240Wh/km ;
+-
+0_00:14:04	B2	B4	18kWh	168Wh/km ;
+0_00:10:59	B4	B3	15kWh	239Wh/km ;
+-
+0_00:20:53	B2	B4	20kWh	184Wh/km ;
+0_00:34:10	B3	B4	8kWh	157Wh/km ;
+-
+0_00:07:46	B4	B3	11kWh	218Wh/km ;
+0_00:04:33	B2	B4	20kWh	199Wh/km ;
+-
+0_00:50:14	B2	B4	23kWh	215Wh/km ;
+0_00:49:24	B4	B2	23kWh	225Wh/km ;
+-
+0_00:12:58	B4	B2	11kWh	218Wh/km ;
+0_00:08:06	B4	B2	14kWh	203Wh/km ;
+-
+0_00:46:56	B3	B4	9kWh	151Wh/km ;
+0_00:44:40	B3	B4	10kWh	155Wh/km ;
+-
+0_00:33:55	B4	B2	14kWh	198Wh/km ;
+0_00:31:30	B4	B2	13kWh	207Wh/km ;
+-
+0_00:45:48	B3	B4	16kWh	209Wh/km ;
+0_00:02:07	B2	B4	21kWh	249Wh/km ;
+-
+0_00:14:12	B3	B4	10kWh	169Wh/km ;
+0_00:07:29	B3	B4	12kWh	151Wh/km ;
+-
+0_00:33:25	B4	B3	21kWh	245Wh/km ;
+0_00:08:28	B2	B4	15kWh	210Wh/km ;
+-
+0_00:51:13	B4	B2	16kWh	172Wh/km ;
+0_00:37:59	B4	B2	16kWh	202Wh/km ;
+-
+0_00:27:19	B4	B2	19kWh	184Wh/km ;
+0_00:53:05	B1	B2	9kWh	176Wh/km ;
+-
+0_00:48:40	B2	B4	17kWh	170Wh/km ;
+0_00:40:09	B2	B4	21kWh	223Wh/km ;
+-
+0_00:49:07	B1	B2	7kWh	155Wh/km ;
+0_00:42:14	B1	B2	9kWh	162Wh/km ;
+-
+0_00:58:34	B2	B4	15kWh	206Wh/km ;
+0_00:47:14	B2	B4	16kWh	191Wh/km ;
+-
+0_00:58:30	B3	B4	14kWh	244Wh/km ;
+0_00:57:42	B4	B2	14kWh	184Wh/km ;
+-
+0_00:54:58	B2	B4	14kWh	169Wh/km ;
+0_00:49:35	B2	B4	18kWh	166Wh/km ;
+-
+0_00:36:49	B2	B4	22kWh	206Wh/km ;
+0_00:38:56	B4	B2	16kWh	154Wh/km ;
+-
+0_00:57:30	B2	B1	10kWh	188Wh/km ;
+0_00:55:57	B2	B1	10kWh	249Wh/km ;
+-
+0_00:37:45	B4	B2	16kWh	234Wh/km ;
+0_00:07:14	B4	B2	15kWh	243Wh/km ;
+-
+0_00:36:03	B4	B3	12kWh	204Wh/km ;
+0_00:31:52	B4	B3	11kWh	150Wh/km ;
+-
+0_00:52:26	B2	B4	16kWh	190Wh/km ;
+0_00:57:30	B4	B2	11kWh	151Wh/km ;
+-
+0_00:16:25	B3	B4	14kWh	240Wh/km ;
+0_00:07:09	B4	B2	19kWh	180Wh/km ;
+-
+0_00:33:29	B3	B4	17kWh	216Wh/km ;
+0_00:05:53	B2	B4	17kWh	207Wh/km ;
+-
+0_00:22:03	B4	B3	13kWh	239Wh/km ;
+0_00:16:11	B4	B3	21kWh	250Wh/km ;
+-
+0_00:57:39	B3	B4	13kWh	228Wh/km ;
+0_00:44:32	B3	B4	18kWh	233Wh/km ;
+-
+0_00:23:32	B3	B4	12kWh	239Wh/km ;
+0_00:14:39	B3	B4	15kWh	243Wh/km ;
+-
+0_00:58:02	B2	B4	15kWh	174Wh/km ;
+0_00:44:25	B2	B4	15kWh	222Wh/km ;
+-
+0_00:16:10	B1	B2	8kWh	193Wh/km ;
+0_00:09:49	B1	B2	8kWh	177Wh/km ;
+-
+0_00:08:38	B4	B3	20kWh	232Wh/km ;
+0_00:03:04	B4	B3	14kWh	216Wh/km ;
+-
+0_00:52:18	B4	B2	12kWh	191Wh/km ;
+0_00:36:29	B4	B2	19kWh	220Wh/km ;
+-
+0_00:32:23	B4	B2	22kWh	216Wh/km ;
+0_00:32:24	B4	B2	12kWh	183Wh/km ;
+-
+0_00:52:46	B1	B2	14kWh	233Wh/km ;
+0_00:17:40	B4	B2	18kWh	232Wh/km ;
+-
+0_00:37:01	B2	B4	22kWh	211Wh/km ;
+0_00:45:44	B4	B2	18kWh	166Wh/km ;
+-
+0_00:24:07	B4	B3	13kWh	154Wh/km ;
+0_00:15:55	B4	B3	11kWh	204Wh/km ;
+-
+0_00:45:28	B2	B4	12kWh	170Wh/km ;
+0_00:21:48	B2	B4	10kWh	162Wh/km ;
+-
+0_00:54:51	B4	B2	24kWh	250Wh/km ;
+0_00:46:07	B4	B2	12kWh	189Wh/km ;
+-
+0_00:26:58	B4	B3	18kWh	244Wh/km ;
+0_00:10:54	B2	B4	15kWh	226Wh/km ;
+-
+0_00:33:23	B4	B2	21kWh	240Wh/km ;
+0_00:20:32	B4	B2	13kWh	220Wh/km ;
+-
+0_00:28:37	B1	B2	8kWh	203Wh/km ;
+0_00:30:48	B2	B1	14kWh	230Wh/km ;
+-
+0_00:44:16	B2	B1	10kWh	173Wh/km ;
+0_00:42:09	B2	B1	9kWh	218Wh/km ;
+-
+0_00:45:07	B4	B3	16kWh	231Wh/km ;
+0_00:21:09	B2	B4	10kWh	173Wh/km ;
+-
+0_00:09:47	B2	B4	19kWh	217Wh/km ;
+0_00:13:55	B4	B2	14kWh	162Wh/km ;
+-
+0_00:59:01	B4	B3	16kWh	189Wh/km ;
+0_00:33:13	B2	B4	9kWh	161Wh/km ;
+-
+0_00:15:09	B4	B2	15kWh	238Wh/km ;
+0_00:10:57	B4	B2	17kWh	201Wh/km ;
+-
+0_00:35:56	B4	B3	10kWh	164Wh/km ;
+0_00:26:11	B4	B3	9kWh	176Wh/km ;
+-
+0_00:54:28	B3	B4	15kWh	188Wh/km ;
+0_00:52:37	B3	B4	14kWh	176Wh/km ;
+-
+0_00:16:16	B4	B3	14kWh	198Wh/km ;
+0_00:18:23	B3	B4	15kWh	176Wh/km ;
+-
+0_00:49:22	B4	B3	15kWh	241Wh/km ;
+0_00:21:41	B2	B4	13kWh	217Wh/km ;
+-
+0_00:32:04	B4	B3	19kWh	227Wh/km ;
+0_00:49:47	B3	B4	12kWh	181Wh/km ;
+-
+0_00:23:25	B2	B4	21kWh	214Wh/km ;
+0_00:34:25	B4	B2	18kWh	213Wh/km ;
+-
+0_00:12:46	B4	B2	21kWh	218Wh/km ;
+0_00:08:14	B4	B2	14kWh	168Wh/km ;
+-
+0_00:04:30	B4	B3	16kWh	227Wh/km ;
+0_00:21:22	B3	B4	16kWh	207Wh/km ;
+-
+0_00:57:29	B2	B4	17kWh	236Wh/km ;
+0_00:59:27	B4	B2	23kWh	215Wh/km ;
+-
+0_00:39:58	B3	B4	12kWh	209Wh/km ;
+0_00:05:29	B2	B4	15kWh	203Wh/km ;
+-
+0_00:47:21	B4	B3	19kWh	244Wh/km ;
+0_00:43:17	B4	B3	17kWh	241Wh/km ;
+-
+0_00:50:52	B2	B4	12kWh	168Wh/km ;
+0_00:49:58	B4	B3	16kWh	220Wh/km ;
+-
+0_00:57:38	B3	B4	13kWh	156Wh/km ;
+0_00:53:42	B3	B4	16kWh	190Wh/km ;
+-
+0_00:51:44	B2	B1	11kWh	189Wh/km ;
+0_00:49:10	B2	B1	10kWh	191Wh/km ;
+-
+0_00:33:00	B4	B3	15kWh	194Wh/km ;
+0_00:37:19	B3	B4	10kWh	150Wh/km ;
+-
+0_00:01:28	B4	B2	16kWh	224Wh/km ;
+0_00:03:13	B4	B2	15kWh	250Wh/km ;
+-
+0_00:07:50	B2	B4	18kWh	222Wh/km ;
+0_00:16:56	B4	B2	17kWh	191Wh/km ;
+-
+0_00:21:06	B2	B4	17kWh	177Wh/km ;
+0_00:40:38	B3	B4	10kWh	177Wh/km ;
+-
+0_00:40:23	B2	B4	20kWh	214Wh/km ;
+0_00:28:12	B2	B4	18kWh	228Wh/km ;
+-
+0_00:12:38	B2	B4	15kWh	174Wh/km ;
+0_00:24:05	B3	B4	18kWh	232Wh/km ;
+-
+0_00:03:24	B2	B4	13kWh	247Wh/km ;
+0_00:36:31	B3	B4	16kWh	236Wh/km ;
+-
+0_00:40:40	B3	B4	19kWh	223Wh/km ;
+0_00:16:27	B2	B4	15kWh	230Wh/km ;
+-
+0_00:42:27	B2	B4	17kWh	224Wh/km ;
+0_00:44:24	B4	B2	15kWh	238Wh/km ;
+-
+0_00:39:31	B4	B3	11kWh	179Wh/km ;
+0_00:32:54	B4	B3	17kWh	200Wh/km ;
+-
+0_00:04:24	B4	B3	17kWh	231Wh/km ;
+0_00:10:21	B3	B4	18kWh	221Wh/km ;
+-
+0_00:30:56	B4	B2	10kWh	164Wh/km ;
+0_00:42:00	B4	B2	15kWh	212Wh/km ;
+-
+0_00:17:39	B2	B4	12kWh	229Wh/km ;
+0_00:30:27	B2	B4	19kWh	248Wh/km ;
+-
+0_00:34:47	B2	B4	11kWh	154Wh/km ;
+0_00:48:36	B3	B4	10kWh	197Wh/km ;
+-
+0_00:17:47	B2	B4	22kWh	242Wh/km ;
+0_00:39:57	B4	B2	11kWh	156Wh/km ;
+-
+0_00:15:07	B4	B2	22kWh	230Wh/km ;
+0_00:10:17	B4	B2	10kWh	180Wh/km ;
+-
+0_00:29:57	B4	B3	13kWh	193Wh/km ;
+0_00:13:24	B2	B4	18kWh	166Wh/km ;
+-
+0_00:32:44	B2	B4	9kWh	178Wh/km ;
+0_00:45:29	B2	B4	19kWh	195Wh/km ;
+-
+0_00:46:24	B3	B4	14kWh	216Wh/km ;
+0_00:37:59	B3	B4	16kWh	250Wh/km ;
+-
+0_00:47:39	B3	B4	11kWh	152Wh/km ;
+0_00:09:09	B2	B4	25kWh	245Wh/km ;
+-
+0_00:04:26	B4	B3	8kWh	155Wh/km ;
+0_00:03:10	B4	B3	14kWh	183Wh/km ;
+-
+0_00:19:25	B1	B2	8kWh	206Wh/km ;
+0_00:08:36	B1	B2	12kWh	245Wh/km ;
+-
+0_00:09:23	B3	B4	18kWh	225Wh/km ;
+0_00:08:37	B3	B4	12kWh	226Wh/km ;
+-
+0_00:35:57	B3	B4	16kWh	229Wh/km ;
+0_00:09:33	B2	B4	12kWh	184Wh/km ;
+-
+0_00:41:24	B2	B4	19kWh	226Wh/km ;
+0_00:27:50	B2	B4	21kWh	247Wh/km ;
+-
+0_00:28:18	B2	B4	13kWh	163Wh/km ;
+0_00:01:13	B2	B4	10kWh	184Wh/km ;
+-
+0_00:33:19	B3	B4	12kWh	230Wh/km ;
+0_00:18:42	B4	B2	14kWh	157Wh/km ;
+-
+0_00:26:54	B2	B4	22kWh	202Wh/km ;
+0_00:37:00	B4	B2	14kWh	208Wh/km ;
+-
+0_00:38:15	B4	B2	22kWh	247Wh/km ;
+0_00:28:45	B4	B2	16kWh	208Wh/km ;
+-
+0_00:20:43	B2	B4	11kWh	182Wh/km ;
+0_00:48:32	B3	B4	17kWh	216Wh/km ;
+-
+0_00:54:18	B2	B1	9kWh	164Wh/km ;
+0_00:47:40	B2	B1	10kWh	232Wh/km ;
+-
+0_00:51:38	B2	B1	6kWh	150Wh/km ;
+0_00:43:19	B2	B1	11kWh	182Wh/km ;
+-
+0_00:18:06	B2	B4	18kWh	234Wh/km ;
+0_00:40:04	B4	B2	19kWh	187Wh/km ;
+-
+0_00:24:10	B3	B4	14kWh	172Wh/km ;
+0_00:21:20	B3	B4	17kWh	217Wh/km ;
+-
+0_00:50:09	B4	B3	12kWh	205Wh/km ;
+0_00:46:11	B2	B4	15kWh	190Wh/km ;
+-
+0_00:06:24	B2	B4	15kWh	231Wh/km ;
+0_00:04:53	B4	B2	21kWh	246Wh/km ;
+-
+0_00:48:35	B2	B4	16kWh	178Wh/km ;
+0_00:48:55	B2	B4	22kWh	230Wh/km ;
+-
+0_00:37:02	B2	B4	24kWh	223Wh/km ;
+0_00:33:31	B2	B4	12kWh	150Wh/km ;
+-
+0_00:19:01	B2	B4	22kWh	218Wh/km ;
+0_00:21:48	B4	B2	11kWh	171Wh/km ;
+-
+0_00:54:18	B2	B4	16kWh	234Wh/km ;
+0_00:56:58	B4	B2	16kWh	234Wh/km ;
+-
+0_00:33:19	B4	B2	15kWh	246Wh/km ;
+0_00:49:16	B4	B2	20kWh	219Wh/km ;
+-
+0_00:39:51	B2	B4	16kWh	177Wh/km ;
+0_00:53:24	B3	B4	16kWh	240Wh/km ;
+-
+0_00:43:10	B3	B4	10kWh	154Wh/km ;
+0_00:14:32	B2	B4	11kWh	170Wh/km ;
+-
+0_00:18:32	B3	B4	20kWh	232Wh/km ;
+0_00:15:06	B3	B4	18kWh	240Wh/km ;
+-
+0_00:49:17	B3	B4	16kWh	227Wh/km ;
+0_00:24:34	B2	B4	21kWh	219Wh/km ;
+-
+0_00:35:16	B4	B3	10kWh	191Wh/km ;
+0_00:54:34	B3	B4	10kWh	155Wh/km ;
+-
+0_00:20:21	B4	B2	15kWh	159Wh/km ;
+0_00:22:33	B4	B2	22kWh	240Wh/km ;
+-
+0_00:53:42	B2	B4	18kWh	192Wh/km ;
+0_00:58:59	B4	B2	20kWh	188Wh/km ;
+-
+0_00:59:38	B4	B3	12kWh	165Wh/km ;
+0_00:52:30	B4	B3	11kWh	158Wh/km ;
+-
+0_00:22:02	B3	B4	13kWh	228Wh/km ;
+0_00:17:52	B3	B4	9kWh	157Wh/km ;
+-
+0_00:47:56	B3	B4	16kWh	225Wh/km ;
+0_00:14:31	B2	B4	14kWh	183Wh/km ;
+-
+0_00:17:50	B4	B2	16kWh	162Wh/km ;
+0_00:18:13	B3	B4	18kWh	234Wh/km ;
+-
+0_00:28:07	B4	B2	19kWh	243Wh/km ;
+0_00:29:51	B4	B2	16kWh	195Wh/km ;
+-
+0_00:10:54	B4	B2	12kWh	175Wh/km ;
+0_00:35:20	B1	B2	11kWh	207Wh/km ;
+-
+0_00:10:30	B4	B2	11kWh	172Wh/km ;
+0_00:03:44	B4	B2	16kWh	173Wh/km ;
+-
+0_00:22:17	B4	B2	14kWh	231Wh/km ;
+0_00:19:30	B4	B2	16kWh	214Wh/km ;
+-
+0_00:09:53	B4	B3	12kWh	226Wh/km ;
+0_00:01:19	B4	B3	9kWh	176Wh/km ;
+-
+0_00:42:30	B1	B2	9kWh	156Wh/km ;
+0_00:42:06	B1	B2	11kWh	222Wh/km ;
+-
+0_00:29:13	B2	B4	18kWh	177Wh/km ;
+0_00:14:37	B2	B4	15kWh	239Wh/km ;
+-
+0_00:35:49	B4	B2	11kWh	178Wh/km ;
+0_00:34:18	B4	B2	15kWh	221Wh/km ;
+-
+0_00:43:11	B1	B2	9kWh	168Wh/km ;
+0_00:43:05	B1	B2	12kWh	225Wh/km ;
+-
+0_00:21:06	B4	B2	8kWh	154Wh/km ;
+0_00:31:33	B4	B2	18kWh	172Wh/km ;
+-
+0_00:34:38	B4	B2	11kWh	150Wh/km ;
+0_00:34:52	B4	B2	11kWh	183Wh/km ;
+-
+0_00:38:33	B3	B4	13kWh	174Wh/km ;
+0_00:13:39	B2	B4	16kWh	222Wh/km ;
+-
+0_00:56:55	B4	B2	15kWh	235Wh/km ;
+0_00:52:33	B4	B2	20kWh	241Wh/km ;
+-
+0_00:22:07	B4	B2	22kWh	248Wh/km ;
+0_00:29:33	B4	B2	16kWh	195Wh/km ;
+-
+0_00:19:20	B2	B4	20kWh	210Wh/km ;
+0_00:12:00	B2	B4	12kWh	182Wh/km ;
+-
+0_00:47:30	B3	B4	17kWh	220Wh/km ;
+0_00:14:49	B2	B4	19kWh	216Wh/km ;
+-
+0_00:55:51	B3	B4	18kWh	247Wh/km ;
+0_00:26:59	B2	B4	20kWh	248Wh/km ;
+-
+0_00:30:33	B4	B3	18kWh	227Wh/km ;
+0_00:36:08	B3	B4	10kWh	159Wh/km ;
+-
+0_00:49:27	B3	B4	12kWh	194Wh/km ;
+0_00:21:19	B2	B4	13kWh	159Wh/km ;
+-
+0_00:22:28	B2	B4	20kWh	222Wh/km ;
+0_00:40:47	B3	B4	16kWh	229Wh/km ;
+-
+0_00:06:52	B4	B3	13kWh	204Wh/km ;
+0_00:09:10	B3	B4	16kWh	197Wh/km ;
+-
+0_00:56:58	B4	B2	18kWh	180Wh/km ;
+0_00:47:55	B4	B2	16kWh	242Wh/km ;
+-
+0_00:11:38	B2	B4	16kWh	235Wh/km ;
+0_00:21:20	B4	B2	20kWh	188Wh/km ;
+-
+0_00:58:26	B2	B4	12kWh	225Wh/km ;
+0_00:50:28	B2	B4	10kWh	179Wh/km ;
+-
+0_00:08:17	B3	B4	12kWh	237Wh/km ;
+0_00:05:25	B3	B4	14kWh	195Wh/km ;
+-
+0_00:24:54	B2	B4	13kWh	193Wh/km ;
+0_00:13:43	B2	B4	18kWh	250Wh/km ;
+-
+0_00:18:31	B2	B4	13kWh	249Wh/km ;
+0_00:27:21	B2	B4	16kWh	209Wh/km ;
+-
+0_00:40:07	B2	B1	9kWh	230Wh/km ;
+0_00:40:14	B2	B1	8kWh	189Wh/km ;
+-
+0_00:33:09	B4	B2	15kWh	192Wh/km ;
+0_00:23:33	B4	B2	10kWh	201Wh/km ;
+-
+0_00:31:15	B2	B4	19kWh	204Wh/km ;
+0_00:30:04	B4	B3	18kWh	231Wh/km ;
+-
+0_00:26:41	B4	B3	10kWh	185Wh/km ;
+0_00:24:50	B4	B3	13kWh	243Wh/km ;
+-
+0_00:42:58	B2	B4	20kWh	232Wh/km ;
+0_00:46:26	B4	B2	12kWh	159Wh/km ;
+-
+0_00:32:53	B3	B4	12kWh	211Wh/km ;
+0_00:09:23	B2	B4	16kWh	217Wh/km ;
+-
+0_00:25:46	B2	B4	13kWh	185Wh/km ;
+0_00:38:07	B3	B4	12kWh	241Wh/km ;
+-
+0_00:56:16	B4	B2	16kWh	182Wh/km ;
+0_00:48:59	B4	B2	26kWh	240Wh/km ;
+-
+0_00:56:38	B3	B4	13kWh	195Wh/km ;
+0_00:23:54	B2	B4	18kWh	199Wh/km ;
+-
+0_00:19:29	B4	B2	11kWh	161Wh/km ;
+0_00:11:29	B4	B2	17kWh	191Wh/km ;
+-
+0_00:56:39	B2	B4	14kWh	156Wh/km ;
+0_00:44:04	B2	B4	16kWh	186Wh/km ;
+-
+0_00:47:36	B4	B3	11kWh	192Wh/km ;
+0_00:37:37	B2	B4	19kWh	174Wh/km ;
+-
+0_00:08:01	B2	B1	10kWh	231Wh/km ;
+0_00:05:34	B2	B1	14kWh	249Wh/km ;
+-
+0_00:35:30	B3	B4	16kWh	215Wh/km ;
+0_00:00:27	B2	B4	14kWh	208Wh/km ;
+-
+0_00:50:20	B4	B3	18kWh	213Wh/km ;
+0_00:46:23	B2	B4	11kWh	160Wh/km ;
+-
+0_00:25:56	B2	B4	20kWh	235Wh/km ;
+0_00:21:57	B2	B4	16kWh	219Wh/km ;
+-
+0_00:44:20	B1	B2	13kWh	240Wh/km ;
+0_00:39:54	B1	B2	7kWh	164Wh/km ;
+-
+0_00:16:34	B2	B4	17kWh	192Wh/km ;
+0_00:15:38	B2	B4	19kWh	222Wh/km ;
+-
+0_00:51:59	B1	B2	9kWh	200Wh/km ;
+0_00:15:44	B4	B2	17kWh	178Wh/km ;
+-
+0_00:54:48	B3	B4	11kWh	159Wh/km ;
+0_00:35:06	B4	B3	16kWh	224Wh/km ;
+-
+0_00:11:26	B4	B3	11kWh	157Wh/km ;
+0_00:06:23	B4	B3	15kWh	177Wh/km ;
+-
+0_00:31:32	B4	B2	17kWh	192Wh/km ;
+0_00:31:21	B4	B2	17kWh	225Wh/km ;
+-
+0_00:15:43	B2	B4	19kWh	247Wh/km ;
+0_00:21:29	B4	B2	14kWh	203Wh/km ;
+-
+0_00:50:55	B2	B4	9kWh	173Wh/km ;
+0_00:51:26	B2	B4	23kWh	216Wh/km ;
+-
+0_00:46:04	B2	B4	20kWh	227Wh/km ;
+0_00:58:59	B3	B4	11kWh	166Wh/km ;
+-
+0_00:36:06	B2	B4	13kWh	232Wh/km ;
+0_00:45:21	B2	B4	25kWh	238Wh/km ;
+-
+0_00:39:19	B3	B4	21kWh	247Wh/km ;
+0_00:11:21	B2	B4	20kWh	248Wh/km ;
+-
+0_00:10:35	B2	B4	15kWh	235Wh/km ;
+0_00:06:01	B2	B4	15kWh	219Wh/km ;
+-
+0_00:45:49	B2	B4	27kWh	248Wh/km ;
+0_00:40:11	B2	B4	16kWh	164Wh/km ;
+-
+0_00:44:55	B3	B4	19kWh	250Wh/km ;
+0_00:39:19	B3	B4	13kWh	227Wh/km ;
+-
+0_00:20:33	B2	B4	11kWh	206Wh/km ;
+0_00:05:22	B2	B4	12kWh	233Wh/km ;
+-
+0_00:39:03	B3	B4	19kWh	228Wh/km ;
+0_00:35:37	B3	B4	16kWh	208Wh/km ;
+-
+0_00:52:48	B4	B2	22kWh	203Wh/km ;
+0_00:43:30	B4	B2	16kWh	158Wh/km ;
+-
+0_00:13:44	B2	B4	16kWh	245Wh/km ;
+0_00:03:06	B2	B4	15kWh	179Wh/km ;
+-
+0_00:48:45	B4	B3	19kWh	244Wh/km ;
+0_00:20:57	B2	B4	23kWh	250Wh/km ;
+-
+0_00:29:35	B2	B4	16kWh	177Wh/km ;
+0_00:17:29	B2	B4	19kWh	181Wh/km ;
+-
+0_00:38:21	B4	B2	14kWh	214Wh/km ;
+0_00:33:46	B4	B2	11kWh	195Wh/km ;
+-
+0_00:55:51	B2	B1	9kWh	189Wh/km ;
+0_00:51:40	B2	B1	8kWh	168Wh/km ;
+-
+0_00:51:49	B1	B2	13kWh	232Wh/km ;
+0_00:11:37	B4	B2	19kWh	178Wh/km ;
+-
+0_00:26:07	B1	B2	7kWh	152Wh/km ;
+0_00:29:37	B2	B1	10kWh	211Wh/km ;
+-
+0_00:27:32	B2	B4	13kWh	169Wh/km ;
+0_00:24:55	B2	B4	15kWh	187Wh/km ;
+-
+0_00:07:15	B4	B2	12kWh	153Wh/km ;
+0_00:00:37	B4	B2	11kWh	175Wh/km ;
+-
+0_00:23:48	B2	B4	15kWh	221Wh/km ;
+0_00:44:32	B3	B4	9kWh	169Wh/km ;
+-
+0_00:54:07	B4	B3	15kWh	231Wh/km ;
+0_00:34:54	B2	B4	15kWh	226Wh/km ;
+-
+0_00:55:38	B2	B4	23kWh	211Wh/km ;
+0_00:44:26	B2	B4	20kWh	204Wh/km ;
+-
+0_00:46:19	B3	B4	12kWh	185Wh/km ;
+0_00:17:46	B2	B4	11kWh	171Wh/km ;
+-
+0_00:46:02	B2	B4	19kWh	182Wh/km ;
+0_00:38:15	B2	B4	18kWh	178Wh/km ;
+-
+0_00:09:18	B4	B2	21kWh	206Wh/km ;
+0_00:02:26	B4	B2	14kWh	173Wh/km ;
+-
+0_00:31:29	B2	B4	16kWh	214Wh/km ;
+0_00:30:51	B4	B2	14kWh	200Wh/km ;
+-
+0_00:45:49	B4	B2	15kWh	181Wh/km ;
+0_00:37:17	B4	B2	17kWh	220Wh/km ;
+-
+0_00:29:26	B4	B2	20kWh	249Wh/km ;
+0_00:55:11	B1	B2	12kWh	238Wh/km ;
+-
+0_00:16:02	B1	B2	9kWh	198Wh/km ;
+0_00:10:58	B1	B2	8kWh	207Wh/km ;
+-
+0_00:42:37	B2	B4	19kWh	196Wh/km ;
+0_00:35:04	B2	B4	17kWh	221Wh/km ;
+-
+0_00:44:54	B4	B2	27kWh	245Wh/km ;
+0_00:39:23	B4	B2	11kWh	156Wh/km ;
+-
+0_00:57:52	B3	B4	13kWh	152Wh/km ;
+0_00:13:45	B2	B4	21kWh	232Wh/km ;
+-
+0_00:17:08	B2	B4	16kWh	234Wh/km ;
+0_00:10:41	B2	B4	16kWh	192Wh/km ;
+-

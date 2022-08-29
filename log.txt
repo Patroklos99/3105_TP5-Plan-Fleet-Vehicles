@@ -1,0 +1,23 @@
+Date: 20220829_123616
+#CPU : Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
+#Limite de 120 secondes par test
+
+
+#Fichier-Test	CPU	Mém(k)	N1	N2	N3	/	NbRes	/	/NbReq
+uqam-req0.txt	0.00	3588	2	1	1	/	2	/	2
+ipe-req1.txt	0.01	3688	1000	1000	1000	/	1000	/	1000
+ipe-req2.txt	0.01	3584	1000	0	0	/	1000	/	1000
+ipe-req3.txt	0.02	3552	1000	0	0	/	1000	/	1000
+ipe-req4.txt	0.03	3640	1000	0	0	/	1000	/	1000
+ipe-req5.txt	0.04	3540	1000	0	0	/	1000	/	1000
+ipe-req6.txt	0.04	3640	1000	0	0	/	1000	/	1000
+ipe-req7.txt	0.05	3564	1000	0	0	/	1000	/	1000
+ipe-req8.txt	0.06	3644	1000	0	0	/	1000	/	1000
+maritimes-req1.txt	0.06	3648	1000	1000	1000	/	1000	/	1000
+maritimes-req2.txt	0.10	3660	1000	0	0	/	1000	/	1000
+maritimes-req3.txt	0.17	3648	1000	0	0	/	1000	/	1000
+maritimes-req4.txt	0.21	3544	1000	0	0	/	1000	/	1000
+maritimes-req5.txt	0.27	3572	1000	0	0	/	1000	/	1000
+maritimes-req6.txt	0.33	3648	1000	0	0	/	1000	/	1000
+maritimes-req7.txt	0.38	3660	1000	0	0	/	1000	/	1000
+maritimes-req8.txt	0.43	3660	1000	0	0	/	1000	/	1000

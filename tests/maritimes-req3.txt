@@ -1,0 +1,4000 @@
+0_00:38:08	Chandler	Dégelis	43kWh	246Wh/km ;
+0_00:11:45	Mont-Joli-Normandin	Percé	36kWh	206Wh/km ;
+0_00:21:24	Gaspé	Dégelis	34kWh	214Wh/km ;
+-
+0_00:26:09	Pointe-à-la-Croix	Chandler	19kWh	176Wh/km ;
+0_00:14:22	New_Richmond	Dégelis	47kWh	224Wh/km ;
+0_00:03:03	Carleton-sur-Mer	Dégelis	36kWh	176Wh/km ;
+-
+0_00:59:55	Percé	Mont-Joli-Normandin	47kWh	180Wh/km ;
+0_00:38:17	Carleton-sur-Mer	Rimouski	44kWh	237Wh/km ;
+0_00:57:53	Percé	Mont-Joli-Normandin	46kWh	153Wh/km ;
+-
+0_00:19:45	Dégelis	Amqui	17kWh	176Wh/km ;
+0_00:09:38	Matane	Percé	48kWh	193Wh/km ;
+0_00:41:28	Mont-Joli-Normandin	Percé	28kWh	160Wh/km ;
+-
+0_00:14:19	Mont-Joli-Normandin	Percé	31kWh	182Wh/km ;
+0_00:02:35	Amqui	Chandler	37kWh	242Wh/km ;
+0_00:58:18	Dégelis	Carleton-sur-Mer	43kWh	183Wh/km ;
+-
+0_00:08:32	Murdochville	Percé	24kWh	192Wh/km ;
+0_00:16:29	Murdochville	Chandler	35kWh	199Wh/km ;
+0_00:43:21	New_Richmond	Gaspé	40kWh	245Wh/km ;
+-
+0_00:34:35	Pointe-à-la-Croix	Percé	29kWh	175Wh/km ;
+0_00:24:26	Mont-Joli-Normandin	Gaspé	50kWh	157Wh/km ;
+0_00:40:57	Matane	Gaspé	46kWh	187Wh/km ;
+-
+0_00:56:53	Paspébiac	Rimouski	39kWh	242Wh/km ;
+0_00:48:33	Gaspé	Pointe-à-la-Croix	37kWh	189Wh/km ;
+0_00:54:38	Rimouski	Chandler	46kWh	166Wh/km ;
+-
+0_00:51:47	Amqui	Chandler	49kWh	206Wh/km ;
+0_00:16:47	Dégelis	Paspébiac	39kWh	174Wh/km ;
+0_00:36:08	Matane	Chandler	46kWh	231Wh/km ;
+-
+0_00:24:32	Murdochville	Chandler	30kWh	234Wh/km ;
+0_00:47:04	Gaspé	New_Richmond	26kWh	232Wh/km ;
+0_00:39:04	Amqui	Dégelis	24kWh	217Wh/km ;
+-
+0_00:53:43	Murdochville	Percé	30kWh	153Wh/km ;
+0_00:16:37	Mont-Joli-Normandin	Chandler	27kWh	162Wh/km ;
+0_00:52:52	Amqui	Chandler	44kWh	223Wh/km ;
+-
+0_00:32:03	Chandler	Pointe-à-la-Croix	28kWh	212Wh/km ;
+0_00:02:38	Dégelis	Matane	21kWh	198Wh/km ;
+0_00:11:45	Chandler	Pointe-à-la-Croix	27kWh	213Wh/km ;
+-
+0_00:44:28	Dégelis	Chandler	49kWh	239Wh/km ;
+0_00:26:07	Paspébiac	Mont-Joli-Normandin	37kWh	225Wh/km ;
+0_00:30:14	Matane	Chandler	26kWh	171Wh/km ;
+-
+0_00:02:24	Amqui	Dégelis	26kWh	212Wh/km ;
+0_00:14:29	Chandler	Matane	48kWh	192Wh/km ;
+0_00:33:50	Rimouski	Paspébiac	48kWh	229Wh/km ;
+-
+0_00:29:54	Paspébiac	Amqui	38kWh	196Wh/km ;
+0_00:47:53	Matane	Percé	42kWh	228Wh/km ;
+0_00:34:25	Amqui	Gaspé	32kWh	214Wh/km ;
+-
+0_00:12:49	Rimouski	Chandler	40kWh	150Wh/km ;
+0_00:05:07	Pointe-à-la-Croix	Percé	20kWh	199Wh/km ;
+0_00:24:07	Mont-Joli-Normandin	Chandler	42kWh	211Wh/km ;
+-
+0_00:08:09	Gaspé	Pointe-à-la-Croix	29kWh	185Wh/km ;
+0_00:28:16	Rimouski	Carleton-sur-Mer	40kWh	217Wh/km ;
+0_00:30:18	Dégelis	New_Richmond	41kWh	202Wh/km ;
+-
+0_00:52:49	Dégelis	Gaspé	44kWh	181Wh/km ;
+0_00:46:06	Murdochville	Gaspé	23kWh	199Wh/km ;
+0_00:27:12	Dégelis	Chandler	41kWh	196Wh/km ;
+-
+0_00:56:11	Chandler	Murdochville	26kWh	246Wh/km ;
+0_00:10:53	Rimouski	Paspébiac	48kWh	154Wh/km ;
+0_00:41:59	Mont-Joli-Normandin	Paspébiac	28kWh	158Wh/km ;
+-
+0_00:23:07	Percé	Carleton-sur-Mer	26kWh	155Wh/km ;
+0_00:27:40	New_Richmond	Chandler	29kWh	228Wh/km ;
+0_00:12:42	Chandler	Carleton-sur-Mer	25kWh	237Wh/km ;
+-
+0_00:33:46	Chandler	Carleton-sur-Mer	19kWh	188Wh/km ;
+0_00:01:42	Carleton-sur-Mer	Matane	33kWh	180Wh/km ;
+0_00:53:40	Chandler	Murdochville	18kWh	159Wh/km ;
+-
+0_00:01:43	Gaspé	Matane	33kWh	200Wh/km ;
+0_00:33:21	Percé	New_Richmond	33kWh	234Wh/km ;
+0_00:46:08	Chandler	Matane	47kWh	168Wh/km ;
+-
+0_00:35:39	Matane	Percé	34kWh	179Wh/km ;
+0_00:47:48	Murdochville	Chandler	24kWh	217Wh/km ;
+0_00:14:06	Amqui	Percé	43kWh	233Wh/km ;
+-
+0_00:41:53	Paspébiac	Matane	34kWh	172Wh/km ;
+0_00:32:32	Dégelis	Paspébiac	41kWh	188Wh/km ;
+0_00:14:06	Rimouski	Paspébiac	48kWh	219Wh/km ;
+-
+0_00:46:52	Mont-Joli-Normandin	Chandler	28kWh	155Wh/km ;
+0_00:10:56	Matane	Percé	23kWh	153Wh/km ;
+0_00:59:19	Paspébiac	Dégelis	28kWh	163Wh/km ;
+-
+0_00:50:11	Matane	Chandler	39kWh	180Wh/km ;
+0_00:17:48	Mont-Joli-Normandin	Percé	48kWh	234Wh/km ;
+0_00:33:15	Mont-Joli-Normandin	Carleton-sur-Mer	41kWh	221Wh/km ;
+-
+0_00:51:39	Percé	Mont-Joli-Normandin	30kWh	181Wh/km ;
+0_00:17:10	Paspébiac	Dégelis	38kWh	211Wh/km ;
+0_00:43:59	Percé	Matane	29kWh	180Wh/km ;
+-
+0_00:51:18	Amqui	New_Richmond	40kWh	211Wh/km ;
+0_00:11:50	Gaspé	Pointe-à-la-Croix	43kWh	210Wh/km ;
+0_00:50:43	Amqui	New_Richmond	43kWh	229Wh/km ;
+-
+0_00:55:40	Murdochville	Amqui	33kWh	197Wh/km ;
+0_00:19:24	Dégelis	Carleton-sur-Mer	44kWh	244Wh/km ;
+0_00:33:21	Dégelis	Carleton-sur-Mer	26kWh	161Wh/km ;
+-
+0_00:36:54	Gaspé	Matane	35kWh	162Wh/km ;
+0_00:59:31	Carleton-sur-Mer	Gaspé	35kWh	216Wh/km ;
+0_00:22:07	Chandler	Matane	46kWh	190Wh/km ;
+-
+0_00:03:01	Amqui	Carleton-sur-Mer	44kWh	242Wh/km ;
+0_00:54:21	Mont-Joli-Normandin	Chandler	44kWh	202Wh/km ;
+0_00:02:01	Rimouski	Chandler	28kWh	154Wh/km ;
+-
+0_00:54:28	Chandler	Mont-Joli-Normandin	24kWh	151Wh/km ;
+0_00:21:32	Chandler	Mont-Joli-Normandin	39kWh	214Wh/km ;
+0_00:39:40	Rimouski	Paspébiac	32kWh	204Wh/km ;
+-
+0_00:59:43	Chandler	Amqui	42kWh	162Wh/km ;
+0_00:11:57	Dégelis	Chandler	49kWh	177Wh/km ;
+0_00:32:20	Percé	Amqui	30kWh	186Wh/km ;
+-
+0_00:38:24	Gaspé	Matane	38kWh	208Wh/km ;
+0_00:38:41	Percé	Matane	48kWh	233Wh/km ;
+0_00:18:35	New_Richmond	Chandler	19kWh	155Wh/km ;
+-
+0_00:18:52	Percé	Mont-Joli-Normandin	42kWh	225Wh/km ;
+0_00:01:48	New_Richmond	Dégelis	34kWh	166Wh/km ;
+0_00:10:03	Chandler	Mont-Joli-Normandin	50kWh	220Wh/km ;
+-
+0_00:15:00	Pointe-à-la-Croix	Chandler	16kWh	173Wh/km ;
+0_00:52:16	Amqui	Carleton-sur-Mer	38kWh	229Wh/km ;
+0_00:32:48	Murdochville	Chandler	26kWh	165Wh/km ;
+-
+0_00:39:29	Pointe-à-la-Croix	Percé	24kWh	200Wh/km ;
+0_00:40:32	New_Richmond	Gaspé	36kWh	213Wh/km ;
+0_00:35:56	Pointe-à-la-Croix	Chandler	24kWh	250Wh/km ;
+-
+0_00:52:59	Paspébiac	Rimouski	42kWh	241Wh/km ;
+0_00:26:54	Matane	Chandler	31kWh	192Wh/km ;
+0_00:43:35	Amqui	Carleton-sur-Mer	26kWh	176Wh/km ;
+-
+0_00:54:14	Chandler	Carleton-sur-Mer	40kWh	248Wh/km ;
+0_00:35:15	Paspébiac	Murdochville	15kWh	150Wh/km ;
+0_00:29:52	Chandler	Carleton-sur-Mer	25kWh	239Wh/km ;
+-
+0_00:50:05	Pointe-à-la-Croix	Percé	49kWh	249Wh/km ;
+0_00:53:12	Pointe-à-la-Croix	Percé	49kWh	240Wh/km ;
+0_00:46:42	Gaspé	Murdochville	17kWh	185Wh/km ;
+-
+0_00:35:17	Dégelis	New_Richmond	47kWh	209Wh/km ;
+0_00:18:56	Dégelis	Murdochville	47kWh	235Wh/km ;
+0_00:31:39	Chandler	Pointe-à-la-Croix	31kWh	204Wh/km ;
+-
+0_00:51:18	Matane	Chandler	39kWh	156Wh/km ;
+0_00:29:32	Rimouski	Chandler	38kWh	165Wh/km ;
+0_00:39:40	Matane	Dégelis	30kWh	237Wh/km ;
+-
+0_00:13:00	Murdochville	Gaspé	28kWh	216Wh/km ;
+0_00:19:42	Carleton-sur-Mer	Gaspé	36kWh	217Wh/km ;
+0_00:55:53	Percé	New_Richmond	19kWh	187Wh/km ;
+-
+0_00:16:27	Gaspé	Rimouski	30kWh	186Wh/km ;
+0_00:23:48	Rimouski	Gaspé	33kWh	188Wh/km ;
+0_00:20:21	Percé	Pointe-à-la-Croix	44kWh	247Wh/km ;
+-
+0_00:40:05	Gaspé	Amqui	35kWh	154Wh/km ;
+0_00:22:25	Percé	Amqui	31kWh	155Wh/km ;
+0_00:07:43	New_Richmond	Percé	19kWh	199Wh/km ;
+-
+0_00:49:10	Rimouski	Murdochville	28kWh	172Wh/km ;
+0_00:40:41	Dégelis	Murdochville	40kWh	180Wh/km ;
+0_00:05:11	Dégelis	Carleton-sur-Mer	42kWh	195Wh/km ;
+-
+0_00:18:59	New_Richmond	Matane	28kWh	180Wh/km ;
+0_00:16:06	Percé	New_Richmond	23kWh	160Wh/km ;
+0_00:48:16	Murdochville	Mont-Joli-Normandin	36kWh	201Wh/km ;
+-
+0_00:16:47	Gaspé	Pointe-à-la-Croix	34kWh	217Wh/km ;
+0_00:19:27	Mont-Joli-Normandin	Dégelis	28kWh	245Wh/km ;
+0_00:01:22	Chandler	Pointe-à-la-Croix	39kWh	208Wh/km ;
+-
+0_00:54:39	Chandler	Dégelis	33kWh	161Wh/km ;
+0_00:00:03	Rimouski	Gaspé	49kWh	244Wh/km ;
+0_00:16:03	Mont-Joli-Normandin	Gaspé	42kWh	233Wh/km ;
+-
+0_00:35:12	Rimouski	Matane	17kWh	185Wh/km ;
+0_00:19:28	Dégelis	Paspébiac	34kWh	226Wh/km ;
+0_00:34:55	Gaspé	Matane	33kWh	204Wh/km ;
+-
+0_00:29:56	Percé	Pointe-à-la-Croix	17kWh	188Wh/km ;
+0_00:20:20	Percé	Pointe-à-la-Croix	40kWh	178Wh/km ;
+0_00:15:51	Gaspé	Pointe-à-la-Croix	25kWh	217Wh/km ;
+-
+0_00:26:45	Amqui	Percé	43kWh	244Wh/km ;
+0_00:04:49	Pointe-à-la-Croix	Rimouski	40kWh	221Wh/km ;
+0_00:34:38	Mont-Joli-Normandin	Percé	33kWh	193Wh/km ;
+-
+0_00:10:17	Murdochville	New_Richmond	8kWh	244Wh/km ;
+0_00:51:09	Rimouski	Carleton-sur-Mer	30kWh	203Wh/km ;
+0_00:06:54	Dégelis	New_Richmond	40kWh	231Wh/km ;
+-
+0_00:33:06	Mont-Joli-Normandin	Chandler	38kWh	223Wh/km ;
+0_00:16:34	New_Richmond	Gaspé	28kWh	182Wh/km ;
+0_00:55:47	Dégelis	Chandler	41kWh	183Wh/km ;
+-
+0_00:12:19	Gaspé	New_Richmond	31kWh	195Wh/km ;
+0_00:17:18	Chandler	Murdochville	29kWh	194Wh/km ;
+0_00:36:17	Chandler	Murdochville	17kWh	153Wh/km ;
+-
+0_00:34:17	Murdochville	Gaspé	18kWh	162Wh/km ;
+0_00:11:47	Paspébiac	Carleton-sur-Mer	22kWh	214Wh/km ;
+0_00:14:58	Murdochville	Chandler	34kWh	220Wh/km ;
+-
+0_00:43:48	Mont-Joli-Normandin	Paspébiac	31kWh	165Wh/km ;
+0_00:29:16	Rimouski	New_Richmond	32kWh	203Wh/km ;
+0_00:11:46	Matane	Paspébiac	45kWh	191Wh/km ;
+-
+0_00:28:00	Murdochville	Gaspé	30kWh	196Wh/km ;
+0_00:39:07	Percé	Carleton-sur-Mer	39kWh	207Wh/km ;
+0_00:03:11	Chandler	Carleton-sur-Mer	19kWh	205Wh/km ;
+-
+0_00:03:53	New_Richmond	Rimouski	42kWh	170Wh/km ;
+0_00:53:02	Chandler	Matane	48kWh	212Wh/km ;
+0_00:55:58	Gaspé	Matane	47kWh	210Wh/km ;
+-
+0_00:35:25	Murdochville	Dégelis	37kWh	206Wh/km ;
+0_00:42:50	Rimouski	New_Richmond	39kWh	210Wh/km ;
+0_00:04:06	Dégelis	Carleton-sur-Mer	39kWh	240Wh/km ;
+-
+0_00:27:11	Dégelis	Matane	24kWh	182Wh/km ;
+0_00:40:21	Carleton-sur-Mer	Amqui	36kWh	240Wh/km ;
+0_00:32:23	Dégelis	Matane	19kWh	196Wh/km ;
+-
+0_00:58:49	Rimouski	Gaspé	34kWh	193Wh/km ;
+0_00:15:08	Matane	Percé	31kWh	188Wh/km ;
+0_00:33:18	Dégelis	Percé	25kWh	155Wh/km ;
+-
+0_00:34:12	Murdochville	Percé	32kWh	202Wh/km ;
+0_00:05:10	Percé	Carleton-sur-Mer	23kWh	167Wh/km ;
+0_00:01:11	Pointe-à-la-Croix	Chandler	28kWh	167Wh/km ;
+-
+0_00:08:25	Pointe-à-la-Croix	Chandler	43kWh	241Wh/km ;
+0_00:52:23	Percé	Carleton-sur-Mer	30kWh	196Wh/km ;
+0_00:41:15	Pointe-à-la-Croix	Chandler	23kWh	154Wh/km ;
+-
+0_00:50:55	Amqui	New_Richmond	41kWh	235Wh/km ;
+0_00:41:29	Matane	New_Richmond	44kWh	227Wh/km ;
+0_00:19:06	Carleton-sur-Mer	Pointe-à-la-Croix	8kWh	227Wh/km ;
+-
+0_00:33:38	Amqui	Chandler	43kWh	153Wh/km ;
+0_00:08:40	Pointe-à-la-Croix	Chandler	19kWh	178Wh/km ;
+0_00:03:38	Rimouski	Chandler	41kWh	152Wh/km ;
+-
+0_00:12:28	Dégelis	Murdochville	40kWh	200Wh/km ;
+0_00:59:59	Gaspé	Matane	31kWh	150Wh/km ;
+0_00:17:04	Chandler	Matane	48kWh	195Wh/km ;
+-
+0_00:45:39	Dégelis	Paspébiac	31kWh	151Wh/km ;
+0_00:25:38	Percé	Dégelis	36kWh	218Wh/km ;
+0_00:30:36	Percé	Dégelis	40kWh	236Wh/km ;
+-
+0_00:54:46	Matane	Percé	48kWh	167Wh/km ;
+0_00:48:49	Matane	Percé	32kWh	202Wh/km ;
+0_00:47:42	Murdochville	Rimouski	48kWh	249Wh/km ;
+-
+0_00:44:43	Rimouski	New_Richmond	33kWh	221Wh/km ;
+0_00:43:55	Percé	Rimouski	41kWh	160Wh/km ;
+0_00:30:57	Chandler	Rimouski	45kWh	214Wh/km ;
+-
+0_00:33:26	Chandler	Amqui	28kWh	155Wh/km ;
+0_00:25:15	Chandler	Amqui	38kWh	166Wh/km ;
+0_00:59:43	Murdochville	Paspébiac	24kWh	188Wh/km ;
+-
+0_00:10:42	Dégelis	Chandler	39kWh	185Wh/km ;
+0_00:18:19	Dégelis	Percé	48kWh	222Wh/km ;
+0_00:17:50	Dégelis	Paspébiac	47kWh	171Wh/km ;
+-
+0_00:59:04	Carleton-sur-Mer	Amqui	36kWh	219Wh/km ;
+0_00:58:23	Percé	Pointe-à-la-Croix	35kWh	159Wh/km ;
+0_00:37:28	Chandler	Pointe-à-la-Croix	20kWh	191Wh/km ;
+-
+0_00:05:01	Gaspé	Dégelis	40kWh	181Wh/km ;
+0_00:50:13	Matane	New_Richmond	36kWh	238Wh/km ;
+0_00:45:07	Gaspé	Dégelis	43kWh	165Wh/km ;
+-
+0_00:31:34	Chandler	Carleton-sur-Mer	35kWh	240Wh/km ;
+0_00:03:12	Carleton-sur-Mer	Chandler	19kWh	153Wh/km ;
+0_00:29:32	Percé	Murdochville	36kWh	235Wh/km ;
+-
+0_00:33:40	Gaspé	Amqui	39kWh	201Wh/km ;
+0_00:58:52	Percé	Amqui	46kWh	160Wh/km ;
+0_00:56:08	Chandler	Pointe-à-la-Croix	31kWh	190Wh/km ;
+-
+0_00:31:05	Rimouski	Percé	42kWh	221Wh/km ;
+0_00:01:32	Rimouski	Percé	44kWh	230Wh/km ;
+0_00:11:53	Murdochville	Chandler	41kWh	207Wh/km ;
+-
+0_00:03:50	Gaspé	Carleton-sur-Mer	47kWh	248Wh/km ;
+0_00:15:16	Chandler	Carleton-sur-Mer	40kWh	220Wh/km ;
+0_00:06:09	Gaspé	Carleton-sur-Mer	34kWh	219Wh/km ;
+-
+0_00:09:33	Percé	Amqui	38kWh	249Wh/km ;
+0_00:31:04	Gaspé	Murdochville	21kWh	215Wh/km ;
+0_00:21:23	Dégelis	Paspébiac	49kWh	236Wh/km ;
+-
+0_00:54:29	Gaspé	Dégelis	48kWh	216Wh/km ;
+0_00:37:00	Percé	Dégelis	37kWh	170Wh/km ;
+0_00:01:15	Gaspé	Rimouski	42kWh	181Wh/km ;
+-
+0_00:48:57	Mont-Joli-Normandin	Murdochville	28kWh	175Wh/km ;
+0_00:02:35	Pointe-à-la-Croix	Percé	27kWh	218Wh/km ;
+0_00:51:36	New_Richmond	Percé	34kWh	227Wh/km ;
+-
+0_00:21:39	Mont-Joli-Normandin	Gaspé	50kWh	182Wh/km ;
+0_00:15:11	Pointe-à-la-Croix	Chandler	34kWh	166Wh/km ;
+0_00:52:25	Amqui	Gaspé	46kWh	181Wh/km ;
+-
+0_00:05:17	Chandler	Mont-Joli-Normandin	31kWh	189Wh/km ;
+0_00:18:04	Chandler	Dégelis	28kWh	169Wh/km ;
+0_00:51:45	Gaspé	Dégelis	49kWh	224Wh/km ;
+-
+0_00:25:41	Rimouski	Gaspé	48kWh	200Wh/km ;
+0_00:49:15	Dégelis	Carleton-sur-Mer	47kWh	205Wh/km ;
+0_00:57:42	Amqui	Gaspé	34kWh	201Wh/km ;
+-
+0_00:41:19	Mont-Joli-Normandin	Carleton-sur-Mer	25kWh	153Wh/km ;
+0_00:54:03	Chandler	Murdochville	27kWh	218Wh/km ;
+0_00:47:26	Chandler	Murdochville	26kWh	246Wh/km ;
+-
+0_00:41:57	Gaspé	Pointe-à-la-Croix	24kWh	166Wh/km ;
+0_00:29:27	Percé	Pointe-à-la-Croix	31kWh	223Wh/km ;
+0_00:16:32	Dégelis	Carleton-sur-Mer	44kWh	220Wh/km ;
+-
+0_00:23:10	Matane	Percé	35kWh	188Wh/km ;
+0_00:23:35	Mont-Joli-Normandin	Percé	38kWh	206Wh/km ;
+0_00:11:47	Rimouski	Gaspé	41kWh	156Wh/km ;
+-
+0_00:01:39	Pointe-à-la-Croix	Gaspé	22kWh	184Wh/km ;
+0_00:06:17	Murdochville	Percé	27kWh	236Wh/km ;
+0_00:09:05	Carleton-sur-Mer	Rimouski	45kWh	230Wh/km ;
+-
+0_00:22:30	Chandler	Dégelis	27kWh	155Wh/km ;
+0_00:42:51	Paspébiac	Pointe-à-la-Croix	18kWh	160Wh/km ;
+0_00:56:56	Chandler	Dégelis	48kWh	217Wh/km ;
+-
+0_00:48:07	Paspébiac	Dégelis	43kWh	157Wh/km ;
+0_00:45:17	Dégelis	New_Richmond	33kWh	170Wh/km ;
+0_00:35:25	Dégelis	New_Richmond	38kWh	208Wh/km ;
+-
+0_00:14:35	New_Richmond	Rimouski	29kWh	153Wh/km ;
+0_00:23:51	Matane	Percé	31kWh	169Wh/km ;
+0_00:19:19	Matane	Percé	39kWh	224Wh/km ;
+-
+0_00:32:36	Murdochville	Rimouski	30kWh	172Wh/km ;
+0_00:18:55	Rimouski	Carleton-sur-Mer	31kWh	163Wh/km ;
+0_00:12:53	Murdochville	Rimouski	43kWh	240Wh/km ;
+-
+0_00:45:37	Murdochville	Gaspé	21kWh	182Wh/km ;
+0_00:51:08	Carleton-sur-Mer	Percé	33kWh	238Wh/km ;
+0_00:49:03	Carleton-sur-Mer	Matane	30kWh	186Wh/km ;
+-
+0_00:14:49	Murdochville	Chandler	42kWh	237Wh/km ;
+0_00:21:36	Murdochville	Chandler	33kWh	212Wh/km ;
+0_00:44:02	Percé	Carleton-sur-Mer	23kWh	173Wh/km ;
+-
+0_00:21:53	Matane	New_Richmond	49kWh	234Wh/km ;
+0_00:36:11	Chandler	Carleton-sur-Mer	28kWh	150Wh/km ;
+0_00:46:24	Matane	New_Richmond	24kWh	154Wh/km ;
+-
+0_00:00:43	Carleton-sur-Mer	Pointe-à-la-Croix	6kWh	192Wh/km ;
+0_00:27:08	Chandler	Carleton-sur-Mer	45kWh	246Wh/km ;
+0_00:40:56	Chandler	Carleton-sur-Mer	32kWh	210Wh/km ;
+-
+0_00:42:32	Carleton-sur-Mer	Mont-Joli-Normandin	36kWh	205Wh/km ;
+0_00:43:03	Murdochville	Mont-Joli-Normandin	39kWh	232Wh/km ;
+0_00:09:46	New_Richmond	Mont-Joli-Normandin	44kWh	222Wh/km ;
+-
+0_00:26:51	Chandler	New_Richmond	21kWh	194Wh/km ;
+0_00:53:09	Chandler	Amqui	39kWh	172Wh/km ;
+0_00:23:38	Amqui	Percé	47kWh	227Wh/km ;
+-
+0_00:03:53	Dégelis	Amqui	21kWh	173Wh/km ;
+0_00:43:16	Chandler	Pointe-à-la-Croix	40kWh	235Wh/km ;
+0_00:05:18	Chandler	Pointe-à-la-Croix	25kWh	236Wh/km ;
+-
+0_00:41:49	Chandler	New_Richmond	25kWh	189Wh/km ;
+0_00:29:11	New_Richmond	Percé	33kWh	238Wh/km ;
+0_00:18:25	Pointe-à-la-Croix	Paspébiac	22kWh	174Wh/km ;
+-
+0_00:56:54	Percé	Rimouski	47kWh	163Wh/km ;
+0_00:39:39	Paspébiac	Matane	49kWh	214Wh/km ;
+0_00:09:45	Gaspé	Dégelis	33kWh	162Wh/km ;
+-
+0_00:48:57	New_Richmond	Chandler	26kWh	211Wh/km ;
+0_00:32:46	Gaspé	Matane	36kWh	231Wh/km ;
+0_00:16:37	Gaspé	Amqui	35kWh	214Wh/km ;
+-
+0_00:45:18	Matane	Percé	50kWh	185Wh/km ;
+0_00:04:19	Rimouski	Chandler	31kWh	177Wh/km ;
+0_00:22:14	Rimouski	Chandler	44kWh	240Wh/km ;
+-
+0_00:17:21	Rimouski	Gaspé	44kWh	211Wh/km ;
+0_00:09:20	Murdochville	Percé	42kWh	241Wh/km ;
+0_00:38:10	Matane	Gaspé	34kWh	224Wh/km ;
+-
+0_00:24:51	Gaspé	Carleton-sur-Mer	19kWh	206Wh/km ;
+0_00:37:50	Percé	Pointe-à-la-Croix	30kWh	231Wh/km ;
+0_00:44:25	Dégelis	Pointe-à-la-Croix	38kWh	209Wh/km ;
+-
+0_00:07:41	Matane	Gaspé	36kWh	218Wh/km ;
+0_00:09:46	Amqui	Chandler	36kWh	212Wh/km ;
+0_00:07:48	Dégelis	New_Richmond	37kWh	203Wh/km ;
+-
+0_00:06:39	Percé	Murdochville	26kWh	188Wh/km ;
+0_00:09:24	New_Richmond	Gaspé	30kWh	195Wh/km ;
+0_00:25:34	Percé	Murdochville	31kWh	201Wh/km ;
+-
+0_00:17:21	Pointe-à-la-Croix	Gaspé	41kWh	194Wh/km ;
+0_00:08:41	Percé	Murdochville	27kWh	193Wh/km ;
+0_00:21:15	Murdochville	Gaspé	35kWh	243Wh/km ;
+-
+0_00:13:14	Dégelis	Murdochville	31kWh	150Wh/km ;
+0_00:37:12	New_Richmond	Percé	31kWh	189Wh/km ;
+0_00:15:23	Percé	Murdochville	22kWh	169Wh/km ;
+-
+0_00:13:19	Dégelis	Gaspé	38kWh	230Wh/km ;
+0_00:39:10	Rimouski	Percé	33kWh	205Wh/km ;
+0_00:01:05	Dégelis	New_Richmond	40kWh	230Wh/km ;
+-
+0_00:28:36	Gaspé	Mont-Joli-Normandin	44kWh	241Wh/km ;
+0_00:07:39	Percé	Mont-Joli-Normandin	41kWh	240Wh/km ;
+0_00:00:10	Carleton-sur-Mer	Mont-Joli-Normandin	39kWh	249Wh/km ;
+-
+0_00:25:31	Gaspé	Amqui	47kWh	218Wh/km ;
+0_00:59:27	Chandler	Amqui	41kWh	150Wh/km ;
+0_00:55:24	Amqui	Chandler	50kWh	151Wh/km ;
+-
+0_00:37:05	Dégelis	Percé	31kWh	154Wh/km ;
+0_00:06:21	Rimouski	Gaspé	40kWh	235Wh/km ;
+0_00:45:12	Chandler	Dégelis	39kWh	183Wh/km ;
+-
+0_00:24:03	Matane	Percé	38kWh	230Wh/km ;
+0_00:30:19	Paspébiac	Dégelis	35kWh	201Wh/km ;
+0_00:50:37	Gaspé	Rimouski	31kWh	160Wh/km ;
+-
+0_00:42:43	New_Richmond	Gaspé	28kWh	229Wh/km ;
+0_00:58:48	Amqui	Gaspé	42kWh	152Wh/km ;
+0_00:33:42	Mont-Joli-Normandin	Chandler	25kWh	158Wh/km ;
+-
+0_00:55:41	Rimouski	Percé	38kWh	163Wh/km ;
+0_00:52:10	Mont-Joli-Normandin	Gaspé	35kWh	199Wh/km ;
+0_00:18:26	Matane	Gaspé	41kWh	180Wh/km ;
+-
+0_00:39:02	Percé	Carleton-sur-Mer	33kWh	232Wh/km ;
+0_00:51:32	Gaspé	Mont-Joli-Normandin	35kWh	181Wh/km ;
+0_00:45:30	Chandler	Mont-Joli-Normandin	46kWh	234Wh/km ;
+-
+0_00:58:10	Gaspé	Rimouski	47kWh	153Wh/km ;
+0_00:37:03	Murdochville	Paspébiac	23kWh	210Wh/km ;
+0_00:56:51	Chandler	Rimouski	34kWh	165Wh/km ;
+-
+0_00:16:26	Chandler	Murdochville	34kWh	223Wh/km ;
+0_00:01:56	Dégelis	Chandler	48kWh	211Wh/km ;
+0_00:21:50	Mont-Joli-Normandin	Chandler	40kWh	219Wh/km ;
+-
+0_00:07:43	Dégelis	Gaspé	40kWh	218Wh/km ;
+0_00:57:09	Rimouski	Gaspé	39kWh	242Wh/km ;
+0_00:58:05	Chandler	Murdochville	46kWh	248Wh/km ;
+-
+0_00:47:17	Percé	Amqui	43kWh	228Wh/km ;
+0_00:28:08	Gaspé	Mont-Joli-Normandin	50kWh	155Wh/km ;
+0_00:51:14	Gaspé	Amqui	45kWh	179Wh/km ;
+-
+0_00:43:56	Chandler	Dégelis	38kWh	185Wh/km ;
+0_00:02:54	Paspébiac	Dégelis	41kWh	235Wh/km ;
+0_00:02:17	Dégelis	Gaspé	44kWh	216Wh/km ;
+-
+0_00:01:27	Carleton-sur-Mer	Gaspé	24kWh	227Wh/km ;
+0_00:59:30	Chandler	Carleton-sur-Mer	18kWh	179Wh/km ;
+0_00:29:06	Gaspé	Carleton-sur-Mer	22kWh	178Wh/km ;
+-
+0_00:58:16	Percé	Pointe-à-la-Croix	29kWh	179Wh/km ;
+0_00:05:46	Mont-Joli-Normandin	Percé	44kWh	195Wh/km ;
+0_00:15:44	Amqui	Gaspé	37kWh	198Wh/km ;
+-
+0_00:09:18	Matane	Gaspé	33kWh	211Wh/km ;
+0_00:19:48	Dégelis	Carleton-sur-Mer	43kWh	189Wh/km ;
+0_00:22:30	Matane	Percé	31kWh	187Wh/km ;
+-
+0_00:56:15	Amqui	Percé	40kWh	228Wh/km ;
+0_00:31:16	Matane	Percé	37kWh	229Wh/km ;
+0_00:04:29	Chandler	Matane	28kWh	156Wh/km ;
+-
+0_00:45:19	Matane	Gaspé	31kWh	195Wh/km ;
+0_00:53:59	Rimouski	Matane	15kWh	196Wh/km ;
+0_00:25:06	Amqui	Chandler	35kWh	206Wh/km ;
+-
+0_00:58:17	Dégelis	Pointe-à-la-Croix	38kWh	211Wh/km ;
+0_00:34:46	Dégelis	Murdochville	37kWh	249Wh/km ;
+0_00:27:35	Dégelis	Carleton-sur-Mer	26kWh	176Wh/km ;
+-
+0_00:45:39	Dégelis	Paspébiac	49kWh	207Wh/km ;
+0_00:59:23	Amqui	Percé	43kWh	247Wh/km ;
+0_00:55:45	Dégelis	Percé	43kWh	172Wh/km ;
+-
+0_00:33:24	Percé	Amqui	32kWh	170Wh/km ;
+0_00:33:40	Gaspé	Amqui	49kWh	154Wh/km ;
+0_00:26:00	Paspébiac	Mont-Joli-Normandin	40kWh	153Wh/km ;
+-
+0_00:01:35	Murdochville	Gaspé	26kWh	217Wh/km ;
+0_00:33:15	Matane	Mont-Joli-Normandin	16kWh	238Wh/km ;
+0_00:46:23	New_Richmond	Percé	22kWh	208Wh/km ;
+-
+0_00:44:31	Mont-Joli-Normandin	Chandler	43kWh	156Wh/km ;
+0_00:29:59	New_Richmond	Mont-Joli-Normandin	50kWh	243Wh/km ;
+0_00:44:27	Mont-Joli-Normandin	Chandler	44kWh	193Wh/km ;
+-
+0_00:03:58	Matane	Murdochville	32kWh	198Wh/km ;
+0_00:22:29	Carleton-sur-Mer	Gaspé	24kWh	229Wh/km ;
+0_00:19:04	Carleton-sur-Mer	Gaspé	33kWh	210Wh/km ;
+-
+0_00:51:16	Percé	Mont-Joli-Normandin	46kWh	234Wh/km ;
+0_00:41:53	Gaspé	Mont-Joli-Normandin	32kWh	186Wh/km ;
+0_00:59:34	Carleton-sur-Mer	Chandler	31kWh	240Wh/km ;
+-
+0_00:03:10	Percé	Mont-Joli-Normandin	43kWh	156Wh/km ;
+0_00:40:21	Paspébiac	Mont-Joli-Normandin	50kWh	247Wh/km ;
+0_00:16:06	Pointe-à-la-Croix	Gaspé	24kWh	177Wh/km ;
+-
+0_00:00:29	Mont-Joli-Normandin	Chandler	35kWh	208Wh/km ;
+0_00:02:15	Amqui	Percé	33kWh	208Wh/km ;
+0_00:56:01	Carleton-sur-Mer	Chandler	35kWh	202Wh/km ;
+-
+0_00:35:20	Mont-Joli-Normandin	Murdochville	42kWh	241Wh/km ;
+0_00:04:27	Murdochville	Gaspé	41kWh	241Wh/km ;
+0_00:09:39	Mont-Joli-Normandin	Carleton-sur-Mer	26kWh	159Wh/km ;
+-
+0_00:12:32	Amqui	Chandler	46kWh	237Wh/km ;
+0_00:00:32	Carleton-sur-Mer	Percé	32kWh	193Wh/km ;
+0_00:48:47	Mont-Joli-Normandin	Chandler	45kWh	234Wh/km ;
+-
+0_00:04:38	Dégelis	New_Richmond	39kWh	167Wh/km ;
+0_00:25:24	Chandler	Murdochville	30kWh	246Wh/km ;
+0_00:23:47	Chandler	Pointe-à-la-Croix	34kWh	239Wh/km ;
+-
+0_00:16:16	Pointe-à-la-Croix	Gaspé	26kWh	205Wh/km ;
+0_00:20:10	Pointe-à-la-Croix	Percé	17kWh	169Wh/km ;
+0_00:25:12	Pointe-à-la-Croix	Chandler	22kWh	199Wh/km ;
+-
+0_00:33:08	Matane	New_Richmond	32kWh	204Wh/km ;
+0_00:20:04	Mont-Joli-Normandin	New_Richmond	35kWh	208Wh/km ;
+0_00:12:40	Pointe-à-la-Croix	Percé	22kWh	242Wh/km ;
+-
+0_00:05:52	Percé	Rimouski	40kWh	215Wh/km ;
+0_00:14:47	Chandler	Rimouski	27kWh	153Wh/km ;
+0_00:27:35	Murdochville	Chandler	20kWh	171Wh/km ;
+-
+0_00:41:33	Chandler	Matane	41kWh	179Wh/km ;
+0_00:05:02	Percé	Matane	39kWh	226Wh/km ;
+0_00:05:51	Rimouski	Murdochville	39kWh	235Wh/km ;
+-
+0_00:36:18	Gaspé	Mont-Joli-Normandin	44kWh	165Wh/km ;
+0_00:48:47	Murdochville	Paspébiac	23kWh	190Wh/km ;
+0_00:06:31	Percé	Mont-Joli-Normandin	41kWh	235Wh/km ;
+-
+0_00:04:35	Percé	Rimouski	28kWh	168Wh/km ;
+0_00:40:34	New_Richmond	Matane	31kWh	194Wh/km ;
+0_00:30:55	Gaspé	Rimouski	47kWh	246Wh/km ;
+-
+0_00:53:10	Murdochville	Mont-Joli-Normandin	35kWh	208Wh/km ;
+0_00:37:43	Dégelis	Mont-Joli-Normandin	25kWh	222Wh/km ;
+0_00:53:35	Paspébiac	Pointe-à-la-Croix	23kWh	211Wh/km ;
+-
+0_00:39:48	Murdochville	Chandler	38kWh	191Wh/km ;
+0_00:08:55	Chandler	Carleton-sur-Mer	16kWh	157Wh/km ;
+0_00:07:57	Pointe-à-la-Croix	Chandler	30kWh	225Wh/km ;
+-
+0_00:27:07	Percé	Carleton-sur-Mer	26kWh	244Wh/km ;
+0_00:14:19	Chandler	Pointe-à-la-Croix	23kWh	174Wh/km ;
+0_00:33:05	Gaspé	Murdochville	32kWh	220Wh/km ;
+-
+0_00:26:18	Carleton-sur-Mer	Chandler	22kWh	166Wh/km ;
+0_00:09:03	Mont-Joli-Normandin	Murdochville	33kWh	196Wh/km ;
+0_00:20:01	New_Richmond	Gaspé	21kWh	231Wh/km ;
+-
+0_00:52:29	Murdochville	Amqui	38kWh	245Wh/km ;
+0_00:50:44	Percé	New_Richmond	35kWh	220Wh/km ;
+0_00:44:18	Murdochville	Matane	37kWh	250Wh/km ;
+-
+0_00:20:02	Pointe-à-la-Croix	Percé	23kWh	227Wh/km ;
+0_00:33:32	Murdochville	Gaspé	25kWh	170Wh/km ;
+0_00:08:57	Chandler	Carleton-sur-Mer	21kWh	150Wh/km ;
+-
+0_00:17:11	Dégelis	Percé	32kWh	157Wh/km ;
+0_00:45:56	Carleton-sur-Mer	Percé	31kWh	178Wh/km ;
+0_00:11:56	Mont-Joli-Normandin	Percé	37kWh	234Wh/km ;
+-
+0_00:34:41	Rimouski	Chandler	49kWh	203Wh/km ;
+0_00:42:06	Matane	Gaspé	39kWh	220Wh/km ;
+0_00:39:53	Gaspé	Dégelis	36kWh	151Wh/km ;
+-
+0_00:00:16	Percé	Pointe-à-la-Croix	41kWh	195Wh/km ;
+0_00:50:36	Matane	New_Richmond	37kWh	207Wh/km ;
+0_00:37:33	Rimouski	Murdochville	47kWh	232Wh/km ;
+-
+0_00:33:22	Carleton-sur-Mer	Paspébiac	25kWh	230Wh/km ;
+0_00:12:12	Amqui	Chandler	46kWh	171Wh/km ;
+0_00:18:32	Mont-Joli-Normandin	Chandler	43kWh	169Wh/km ;
+-
+0_00:06:27	Gaspé	New_Richmond	34kWh	229Wh/km ;
+0_00:17:48	Gaspé	Rimouski	32kWh	196Wh/km ;
+0_00:54:22	Dégelis	Gaspé	41kWh	187Wh/km ;
+-
+0_00:40:09	New_Richmond	Rimouski	33kWh	208Wh/km ;
+0_00:03:31	Chandler	Mont-Joli-Normandin	33kWh	203Wh/km ;
+0_00:03:48	Chandler	Mont-Joli-Normandin	48kWh	225Wh/km ;
+-
+0_00:31:18	Carleton-sur-Mer	Chandler	30kWh	235Wh/km ;
+0_00:15:53	Chandler	Matane	45kWh	236Wh/km ;
+0_00:58:04	Percé	Matane	31kWh	171Wh/km ;
+-
+0_00:40:37	Chandler	Pointe-à-la-Croix	45kWh	248Wh/km ;
+0_00:51:21	Chandler	Pointe-à-la-Croix	39kWh	211Wh/km ;
+0_00:25:10	Percé	Pointe-à-la-Croix	29kWh	213Wh/km ;
+-
+0_00:59:52	Amqui	New_Richmond	40kWh	235Wh/km ;
+0_00:33:04	Amqui	New_Richmond	40kWh	239Wh/km ;
+0_00:58:21	Chandler	Murdochville	47kWh	250Wh/km ;
+-
+0_00:54:23	Percé	Amqui	30kWh	198Wh/km ;
+0_00:35:19	Amqui	Percé	44kWh	246Wh/km ;
+0_00:51:53	Mont-Joli-Normandin	Percé	44kWh	240Wh/km ;
+-
+0_00:25:24	Amqui	Murdochville	33kWh	218Wh/km ;
+0_00:40:50	Dégelis	Murdochville	28kWh	162Wh/km ;
+0_00:31:13	Dégelis	Murdochville	35kWh	180Wh/km ;
+-
+0_00:25:51	Percé	Rimouski	37kWh	232Wh/km ;
+0_00:01:46	Matane	Percé	34kWh	198Wh/km ;
+0_00:35:31	Dégelis	Gaspé	49kWh	242Wh/km ;
+-
+0_00:45:54	Chandler	Amqui	49kWh	211Wh/km ;
+0_00:56:27	Chandler	Pointe-à-la-Croix	45kWh	209Wh/km ;
+0_00:30:55	Chandler	Mont-Joli-Normandin	39kWh	203Wh/km ;
+-
+0_00:23:32	Chandler	Pointe-à-la-Croix	46kWh	209Wh/km ;
+0_00:56:35	Gaspé	Matane	32kWh	161Wh/km ;
+0_00:22:57	Chandler	Matane	35kWh	171Wh/km ;
+-
+0_00:35:29	Chandler	Murdochville	23kWh	227Wh/km ;
+0_00:39:16	New_Richmond	Percé	26kWh	174Wh/km ;
+0_00:46:20	Gaspé	Murdochville	32kWh	198Wh/km ;
+-
+0_00:48:42	New_Richmond	Percé	19kWh	170Wh/km ;
+0_00:34:29	Gaspé	Pointe-à-la-Croix	35kWh	205Wh/km ;
+0_00:01:47	Dégelis	Pointe-à-la-Croix	30kWh	177Wh/km ;
+-
+0_00:38:04	Chandler	Dégelis	29kWh	163Wh/km ;
+0_00:07:21	Chandler	Matane	36kWh	151Wh/km ;
+0_00:10:58	Gaspé	Dégelis	30kWh	199Wh/km ;
+-
+0_00:08:55	Mont-Joli-Normandin	Percé	33kWh	156Wh/km ;
+0_00:14:34	Amqui	Percé	34kWh	164Wh/km ;
+0_00:09:35	Murdochville	Percé	34kWh	174Wh/km ;
+-
+0_00:35:23	Pointe-à-la-Croix	Gaspé	30kWh	185Wh/km ;
+0_00:19:58	Carleton-sur-Mer	Dégelis	44kWh	226Wh/km ;
+0_00:09:45	Murdochville	Dégelis	40kWh	238Wh/km ;
+-
+0_00:15:38	Dégelis	Paspébiac	50kWh	178Wh/km ;
+0_00:55:35	Matane	Paspébiac	47kWh	189Wh/km ;
+0_00:18:29	Gaspé	Murdochville	34kWh	204Wh/km ;
+-
+0_00:25:52	Gaspé	Dégelis	32kWh	211Wh/km ;
+0_00:38:58	Paspébiac	Pointe-à-la-Croix	22kWh	205Wh/km ;
+0_00:40:33	Mont-Joli-Normandin	Gaspé	36kWh	244Wh/km ;
+-
+0_00:54:03	Amqui	Percé	28kWh	160Wh/km ;
+0_00:31:01	Paspébiac	Dégelis	50kWh	170Wh/km ;
+0_00:30:05	Amqui	Gaspé	39kWh	216Wh/km ;
+-
+0_00:34:58	Gaspé	Pointe-à-la-Croix	38kWh	184Wh/km ;
+0_00:26:09	Percé	Pointe-à-la-Croix	40kWh	206Wh/km ;
+0_00:32:22	Percé	Pointe-à-la-Croix	39kWh	180Wh/km ;
+-
+0_00:46:26	Carleton-sur-Mer	Gaspé	35kWh	226Wh/km ;
+0_00:08:12	Percé	Pointe-à-la-Croix	32kWh	174Wh/km ;
+0_00:50:46	Chandler	Carleton-sur-Mer	29kWh	206Wh/km ;
+-
+0_00:21:19	Gaspé	Amqui	49kWh	205Wh/km ;
+0_00:53:16	Gaspé	Carleton-sur-Mer	22kWh	163Wh/km ;
+0_00:57:53	Amqui	Paspébiac	38kWh	231Wh/km ;
+-
+0_00:41:00	Gaspé	Rimouski	39kWh	248Wh/km ;
+0_00:14:48	Dégelis	Gaspé	32kWh	215Wh/km ;
+0_00:16:38	Pointe-à-la-Croix	Rimouski	41kWh	243Wh/km ;
+-
+0_00:46:07	Chandler	Carleton-sur-Mer	14kWh	155Wh/km ;
+0_00:40:16	Pointe-à-la-Croix	Gaspé	41kWh	203Wh/km ;
+0_00:03:50	Murdochville	Gaspé	39kWh	248Wh/km ;
+-
+0_00:34:46	Percé	Matane	49kWh	238Wh/km ;
+0_00:20:35	Percé	Pointe-à-la-Croix	18kWh	195Wh/km ;
+0_00:16:56	Chandler	Matane	45kWh	197Wh/km ;
+-
+0_00:48:22	Paspébiac	Amqui	39kWh	198Wh/km ;
+0_00:48:54	Percé	Carleton-sur-Mer	31kWh	202Wh/km ;
+0_00:12:17	Paspébiac	Amqui	48kWh	240Wh/km ;
+-
+0_00:10:01	Chandler	Pointe-à-la-Croix	34kWh	195Wh/km ;
+0_00:53:11	Matane	Rimouski	23kWh	230Wh/km ;
+0_00:24:18	Mont-Joli-Normandin	Pointe-à-la-Croix	32kWh	207Wh/km ;
+-
+0_00:11:54	Murdochville	Dégelis	38kWh	216Wh/km ;
+0_00:34:07	Chandler	Pointe-à-la-Croix	37kWh	226Wh/km ;
+0_00:27:01	Pointe-à-la-Croix	Dégelis	38kWh	249Wh/km ;
+-
+0_00:50:22	Murdochville	Gaspé	23kWh	211Wh/km ;
+0_00:53:42	New_Richmond	Gaspé	21kWh	212Wh/km ;
+0_00:50:26	Carleton-sur-Mer	Percé	22kWh	242Wh/km ;
+-
+0_00:52:06	Matane	Gaspé	25kWh	168Wh/km ;
+0_00:46:58	Dégelis	Chandler	46kWh	207Wh/km ;
+0_00:38:44	Murdochville	Paspébiac	20kWh	156Wh/km ;
+-
+0_00:24:04	Matane	Chandler	34kWh	226Wh/km ;
+0_00:16:22	Pointe-à-la-Croix	Paspébiac	33kWh	233Wh/km ;
+0_00:54:35	Mont-Joli-Normandin	Percé	41kWh	240Wh/km ;
+-
+0_00:45:32	Murdochville	Matane	36kWh	218Wh/km ;
+0_00:41:19	Murdochville	Gaspé	36kWh	241Wh/km ;
+0_00:36:52	Carleton-sur-Mer	Gaspé	34kWh	224Wh/km ;
+-
+0_00:28:48	Amqui	Paspébiac	43kWh	247Wh/km ;
+0_00:47:56	New_Richmond	Murdochville	7kWh	230Wh/km ;
+0_00:16:31	Mont-Joli-Normandin	Paspébiac	30kWh	155Wh/km ;
+-
+0_00:21:20	Carleton-sur-Mer	Percé	28kWh	191Wh/km ;
+0_00:59:59	Percé	Mont-Joli-Normandin	35kWh	187Wh/km ;
+0_00:52:44	Gaspé	Matane	40kWh	213Wh/km ;
+-
+0_01:00:00	Paspébiac	Rimouski	26kWh	150Wh/km ;
+0_00:08:14	Paspébiac	Rimouski	34kWh	228Wh/km ;
+0_00:36:39	Pointe-à-la-Croix	Paspébiac	26kWh	245Wh/km ;
+-
+0_00:46:56	Mont-Joli-Normandin	Paspébiac	35kWh	203Wh/km ;
+0_00:52:05	Chandler	Mont-Joli-Normandin	43kWh	212Wh/km ;
+0_00:06:17	Gaspé	Mont-Joli-Normandin	33kWh	205Wh/km ;
+-
+0_00:07:40	Pointe-à-la-Croix	Chandler	21kWh	188Wh/km ;
+0_00:17:34	Carleton-sur-Mer	Dégelis	43kWh	189Wh/km ;
+0_00:46:06	Carleton-sur-Mer	Chandler	28kWh	227Wh/km ;
+-
+0_00:49:39	Gaspé	Amqui	50kWh	216Wh/km ;
+0_00:28:47	Mont-Joli-Normandin	Dégelis	18kWh	205Wh/km ;
+0_00:53:21	Gaspé	Amqui	35kWh	153Wh/km ;
+-
+0_00:25:17	Carleton-sur-Mer	Chandler	15kWh	150Wh/km ;
+0_00:13:07	New_Richmond	Chandler	35kWh	222Wh/km ;
+0_00:37:11	Percé	New_Richmond	15kWh	166Wh/km ;
+-
+0_00:37:57	Chandler	Pointe-à-la-Croix	35kWh	198Wh/km ;
+0_00:45:59	Chandler	Pointe-à-la-Croix	36kWh	205Wh/km ;
+0_00:17:53	Gaspé	New_Richmond	40kWh	241Wh/km ;
+-
+0_00:10:49	Gaspé	New_Richmond	21kWh	151Wh/km ;
+0_00:52:09	Murdochville	Chandler	18kWh	201Wh/km ;
+0_00:28:37	Pointe-à-la-Croix	Percé	18kWh	199Wh/km ;
+-
+0_00:47:16	Amqui	Chandler	24kWh	161Wh/km ;
+0_00:18:23	Amqui	Gaspé	41kWh	249Wh/km ;
+0_00:05:31	Percé	Mont-Joli-Normandin	31kWh	174Wh/km ;
+-
+0_00:33:32	Carleton-sur-Mer	Chandler	23kWh	224Wh/km ;
+0_00:51:41	New_Richmond	Percé	26kWh	238Wh/km ;
+0_00:37:41	Carleton-sur-Mer	Paspébiac	15kWh	150Wh/km ;
+-
+0_00:55:04	Dégelis	Murdochville	35kWh	158Wh/km ;
+0_00:24:58	Carleton-sur-Mer	Rimouski	44kWh	226Wh/km ;
+0_00:39:30	Chandler	Murdochville	40kWh	247Wh/km ;
+-
+0_00:04:20	Murdochville	Gaspé	23kWh	244Wh/km ;
+0_00:14:52	Chandler	Matane	43kWh	250Wh/km ;
+0_00:42:14	Percé	Matane	47kWh	219Wh/km ;
+-
+0_00:11:23	Rimouski	Carleton-sur-Mer	32kWh	153Wh/km ;
+0_00:21:48	Chandler	Carleton-sur-Mer	40kWh	239Wh/km ;
+0_00:46:16	Murdochville	Mont-Joli-Normandin	36kWh	206Wh/km ;
+-
+0_00:53:54	Matane	Paspébiac	28kWh	154Wh/km ;
+0_00:25:22	Matane	Paspébiac	25kWh	162Wh/km ;
+0_00:43:11	Rimouski	Pointe-à-la-Croix	34kWh	209Wh/km ;
+-
+0_00:10:47	Dégelis	Carleton-sur-Mer	34kWh	214Wh/km ;
+0_00:04:34	Dégelis	Gaspé	44kWh	170Wh/km ;
+0_00:40:00	Rimouski	Gaspé	41kWh	165Wh/km ;
+-
+0_00:21:26	Matane	Paspébiac	44kWh	187Wh/km ;
+0_00:08:47	Murdochville	Gaspé	27kWh	223Wh/km ;
+0_00:06:44	Amqui	Paspébiac	37kWh	236Wh/km ;
+-
+0_00:46:53	Matane	Paspébiac	47kWh	239Wh/km ;
+0_00:49:03	Amqui	Carleton-sur-Mer	39kWh	237Wh/km ;
+0_00:39:02	Mont-Joli-Normandin	Paspébiac	47kWh	233Wh/km ;
+-
+0_00:21:55	Mont-Joli-Normandin	Percé	34kWh	156Wh/km ;
+0_00:31:56	Percé	Amqui	35kWh	233Wh/km ;
+0_00:31:36	Gaspé	Amqui	46kWh	180Wh/km ;
+-
+0_00:13:03	Mont-Joli-Normandin	New_Richmond	43kWh	232Wh/km ;
+0_00:09:33	Gaspé	Carleton-sur-Mer	18kWh	158Wh/km ;
+0_00:53:12	Gaspé	New_Richmond	23kWh	210Wh/km ;
+-
+0_00:10:39	Pointe-à-la-Croix	Rimouski	40kWh	237Wh/km ;
+0_00:24:40	Percé	Amqui	44kWh	239Wh/km ;
+0_00:42:22	Chandler	Amqui	28kWh	168Wh/km ;
+-
+0_00:49:59	Carleton-sur-Mer	Percé	24kWh	248Wh/km ;
+0_00:20:46	Dégelis	Percé	35kWh	174Wh/km ;
+0_00:37:10	Matane	Percé	32kWh	214Wh/km ;
+-
+0_00:26:16	New_Richmond	Percé	21kWh	199Wh/km ;
+0_00:08:14	Chandler	Mont-Joli-Normandin	33kWh	175Wh/km ;
+0_00:32:54	Chandler	Mont-Joli-Normandin	50kWh	160Wh/km ;
+-
+0_00:04:47	Percé	Rimouski	31kWh	173Wh/km ;
+0_00:34:12	Rimouski	Chandler	41kWh	207Wh/km ;
+0_00:16:05	Gaspé	Murdochville	31kWh	166Wh/km ;
+-
+0_00:14:55	Amqui	Chandler	33kWh	195Wh/km ;
+0_00:11:12	Rimouski	Gaspé	36kWh	160Wh/km ;
+0_00:14:04	Amqui	Chandler	36kWh	217Wh/km ;
+-
+0_00:38:29	Carleton-sur-Mer	Chandler	18kWh	169Wh/km ;
+0_00:33:19	Percé	Mont-Joli-Normandin	46kWh	188Wh/km ;
+0_00:17:33	Gaspé	Mont-Joli-Normandin	32kWh	186Wh/km ;
+-
+0_00:38:15	Dégelis	Carleton-sur-Mer	35kWh	166Wh/km ;
+0_00:20:54	Gaspé	Murdochville	23kWh	238Wh/km ;
+0_00:36:48	Chandler	Pointe-à-la-Croix	40kWh	218Wh/km ;
+-
+0_00:42:06	Amqui	Carleton-sur-Mer	33kWh	209Wh/km ;
+0_00:45:58	Murdochville	Gaspé	30kWh	204Wh/km ;
+0_00:55:00	Pointe-à-la-Croix	Gaspé	43kWh	218Wh/km ;
+-
+0_00:20:40	Rimouski	New_Richmond	47kWh	203Wh/km ;
+0_00:35:55	Matane	Chandler	38kWh	180Wh/km ;
+0_00:03:26	Matane	Chandler	36kWh	199Wh/km ;
+-
+0_00:46:07	Pointe-à-la-Croix	Percé	34kWh	224Wh/km ;
+0_00:30:36	Amqui	Gaspé	50kWh	187Wh/km ;
+0_00:07:23	Amqui	Chandler	38kWh	225Wh/km ;
+-
+0_00:17:46	Amqui	Percé	36kWh	201Wh/km ;
+0_00:00:50	Matane	Gaspé	36kWh	204Wh/km ;
+0_00:37:35	Matane	Murdochville	32kWh	196Wh/km ;
+-
+0_00:19:23	Paspébiac	Mont-Joli-Normandin	43kWh	249Wh/km ;
+0_00:02:57	Mont-Joli-Normandin	Percé	36kWh	224Wh/km ;
+0_00:15:15	Amqui	Percé	42kWh	233Wh/km ;
+-
+0_00:44:13	Rimouski	Chandler	42kWh	195Wh/km ;
+0_00:30:27	Percé	Rimouski	42kWh	193Wh/km ;
+0_00:40:32	Matane	Chandler	32kWh	210Wh/km ;
+-
+0_00:48:14	Gaspé	New_Richmond	34kWh	205Wh/km ;
+0_00:14:20	Mont-Joli-Normandin	Paspébiac	48kWh	241Wh/km ;
+0_00:19:27	Paspébiac	Matane	30kWh	182Wh/km ;
+-
+0_00:04:44	Percé	New_Richmond	24kWh	198Wh/km ;
+0_00:40:50	Percé	Murdochville	34kWh	207Wh/km ;
+0_00:43:33	Gaspé	Murdochville	23kWh	227Wh/km ;
+-
+0_00:54:41	Percé	Rimouski	26kWh	156Wh/km ;
+0_00:25:25	Gaspé	Rimouski	28kWh	171Wh/km ;
+0_00:31:24	Paspébiac	Carleton-sur-Mer	20kWh	192Wh/km ;
+-
+0_00:02:48	Dégelis	Gaspé	41kWh	228Wh/km ;
+0_00:46:40	Rimouski	Percé	37kWh	221Wh/km ;
+0_00:22:40	Rimouski	Gaspé	29kWh	187Wh/km ;
+-
+0_00:14:53	Dégelis	Matane	19kWh	150Wh/km ;
+0_00:44:56	Mont-Joli-Normandin	Paspébiac	44kWh	173Wh/km ;
+0_00:39:33	Mont-Joli-Normandin	Paspébiac	42kWh	155Wh/km ;
+-
+0_00:54:29	Paspébiac	Rimouski	43kWh	193Wh/km ;
+0_00:52:36	Gaspé	Dégelis	28kWh	165Wh/km ;
+0_00:33:17	Gaspé	Dégelis	29kWh	155Wh/km ;
+-
+0_00:29:15	Chandler	Pointe-à-la-Croix	32kWh	180Wh/km ;
+0_00:38:29	Gaspé	Murdochville	25kWh	157Wh/km ;
+0_00:28:20	Chandler	Pointe-à-la-Croix	36kWh	229Wh/km ;
+-
+0_00:49:50	Chandler	Pointe-à-la-Croix	24kWh	180Wh/km ;
+0_00:35:14	Matane	New_Richmond	47kWh	237Wh/km ;
+0_00:16:47	Dégelis	Pointe-à-la-Croix	27kWh	176Wh/km ;
+-
+0_00:58:23	Matane	Percé	40kWh	225Wh/km ;
+0_00:10:30	Carleton-sur-Mer	Mont-Joli-Normandin	30kWh	182Wh/km ;
+0_00:52:36	Rimouski	Percé	37kWh	188Wh/km ;
+-
+0_00:42:34	Chandler	Carleton-sur-Mer	32kWh	203Wh/km ;
+0_00:18:08	Amqui	Percé	40kWh	198Wh/km ;
+0_00:50:50	Mont-Joli-Normandin	Percé	43kWh	189Wh/km ;
+-
+0_00:35:13	Chandler	Amqui	24kWh	163Wh/km ;
+0_00:24:13	Percé	Amqui	50kWh	168Wh/km ;
+0_00:09:49	Dégelis	Amqui	19kWh	167Wh/km ;
+-
+0_00:05:42	Chandler	Amqui	31kWh	191Wh/km ;
+0_00:29:56	Dégelis	Chandler	37kWh	172Wh/km ;
+0_00:20:26	Mont-Joli-Normandin	Chandler	36kWh	230Wh/km ;
+-
+0_00:44:57	Paspébiac	Pointe-à-la-Croix	27kWh	250Wh/km ;
+0_00:08:53	Dégelis	Percé	36kWh	243Wh/km ;
+0_00:58:56	Percé	Dégelis	31kWh	207Wh/km ;
+-
+0_00:25:34	Dégelis	Chandler	29kWh	164Wh/km ;
+0_00:17:33	Dégelis	Carleton-sur-Mer	34kWh	227Wh/km ;
+0_00:31:32	Chandler	Rimouski	30kWh	187Wh/km ;
+-
+0_00:21:44	Rimouski	Percé	45kWh	213Wh/km ;
+0_00:25:34	Matane	Percé	35kWh	227Wh/km ;
+0_00:58:35	Matane	Gaspé	46kWh	181Wh/km ;
+-
+0_00:37:41	Pointe-à-la-Croix	Paspébiac	22kWh	202Wh/km ;
+0_00:32:03	Paspébiac	Matane	32kWh	185Wh/km ;
+0_00:38:02	Amqui	Paspébiac	35kWh	223Wh/km ;
+-
+0_00:30:11	Gaspé	Carleton-sur-Mer	23kWh	156Wh/km ;
+0_00:33:25	Gaspé	New_Richmond	35kWh	208Wh/km ;
+0_00:36:23	New_Richmond	Percé	20kWh	216Wh/km ;
+-
+0_00:45:04	Gaspé	Amqui	32kWh	186Wh/km ;
+0_00:53:55	Percé	Amqui	46kWh	156Wh/km ;
+0_00:56:38	Rimouski	Pointe-à-la-Croix	36kWh	199Wh/km ;
+-
+0_00:03:36	Chandler	Pointe-à-la-Croix	24kWh	209Wh/km ;
+0_00:30:57	Carleton-sur-Mer	Gaspé	32kWh	237Wh/km ;
+0_00:02:01	Chandler	Pointe-à-la-Croix	45kWh	222Wh/km ;
+-
+0_00:50:48	Matane	Gaspé	45kWh	244Wh/km ;
+0_00:19:10	Pointe-à-la-Croix	Paspébiac	21kWh	182Wh/km ;
+0_00:10:37	Dégelis	Percé	45kWh	220Wh/km ;
+-
+0_00:05:05	Chandler	Murdochville	45kWh	247Wh/km ;
+0_00:36:54	Percé	New_Richmond	18kWh	185Wh/km ;
+0_00:21:15	Chandler	Pointe-à-la-Croix	20kWh	224Wh/km ;
+-
+0_00:29:19	Murdochville	Gaspé	25kWh	208Wh/km ;
+0_00:59:11	Gaspé	Paspébiac	21kWh	235Wh/km ;
+0_00:59:19	Murdochville	Chandler	30kWh	199Wh/km ;
+-
+0_00:25:20	Gaspé	Carleton-sur-Mer	14kWh	156Wh/km ;
+0_00:35:56	Chandler	Murdochville	29kWh	249Wh/km ;
+0_00:16:39	Gaspé	Murdochville	29kWh	179Wh/km ;
+-
+0_00:33:34	Percé	Matane	42kWh	187Wh/km ;
+0_00:22:30	Gaspé	Matane	45kWh	244Wh/km ;
+0_00:49:25	Dégelis	Paspébiac	43kWh	215Wh/km ;
+-
+0_00:30:43	Mont-Joli-Normandin	New_Richmond	28kWh	167Wh/km ;
+0_00:35:07	Murdochville	Chandler	21kWh	177Wh/km ;
+0_00:51:36	Carleton-sur-Mer	Percé	18kWh	165Wh/km ;
+-
+0_00:15:38	Percé	Rimouski	40kWh	190Wh/km ;
+0_00:03:21	Percé	Rimouski	40kWh	209Wh/km ;
+0_00:25:04	Matane	Chandler	46kWh	209Wh/km ;
+-
+0_00:29:50	Matane	Paspébiac	47kWh	250Wh/km ;
+0_00:27:12	Pointe-à-la-Croix	Percé	37kWh	226Wh/km ;
+0_00:52:04	Paspébiac	Matane	31kWh	195Wh/km ;
+-
+0_00:24:03	New_Richmond	Dégelis	37kWh	228Wh/km ;
+0_00:17:12	Pointe-à-la-Croix	Paspébiac	23kWh	181Wh/km ;
+0_00:02:56	Paspébiac	Dégelis	44kWh	194Wh/km ;
+-
+0_00:52:34	Rimouski	Gaspé	30kWh	150Wh/km ;
+0_00:05:30	Dégelis	Percé	47kWh	229Wh/km ;
+0_00:02:37	Amqui	New_Richmond	48kWh	240Wh/km ;
+-
+0_00:58:12	Pointe-à-la-Croix	Chandler	26kWh	160Wh/km ;
+0_00:52:15	Pointe-à-la-Croix	Chandler	45kWh	238Wh/km ;
+0_00:36:50	Gaspé	Carleton-sur-Mer	36kWh	202Wh/km ;
+-
+0_00:30:42	Paspébiac	Dégelis	28kWh	189Wh/km ;
+0_00:24:29	Matane	Chandler	23kWh	155Wh/km ;
+0_00:34:23	Gaspé	Dégelis	46kWh	213Wh/km ;
+-
+0_00:14:47	Dégelis	Gaspé	50kWh	173Wh/km ;
+0_00:06:23	Dégelis	Pointe-à-la-Croix	40kWh	249Wh/km ;
+0_00:50:22	Mont-Joli-Normandin	Gaspé	36kWh	204Wh/km ;
+-
+0_00:15:56	Gaspé	Mont-Joli-Normandin	34kWh	186Wh/km ;
+0_00:44:26	Chandler	Dégelis	32kWh	196Wh/km ;
+0_00:52:20	Rimouski	Gaspé	37kWh	236Wh/km ;
+-
+0_00:19:23	Dégelis	Paspébiac	47kWh	230Wh/km ;
+0_00:30:18	Matane	New_Richmond	40kWh	199Wh/km ;
+0_00:22:57	Matane	Paspébiac	41kWh	240Wh/km ;
+-
+0_00:36:44	Gaspé	Murdochville	34kWh	188Wh/km ;
+0_00:40:29	Dégelis	Mont-Joli-Normandin	18kWh	195Wh/km ;
+0_00:05:35	Gaspé	Murdochville	17kWh	160Wh/km ;
+-
+0_00:17:42	Pointe-à-la-Croix	Gaspé	44kWh	222Wh/km ;
+0_00:02:15	Rimouski	Chandler	32kWh	154Wh/km ;
+0_00:28:10	Mont-Joli-Normandin	Gaspé	42kWh	240Wh/km ;
+-
+0_00:46:57	Mont-Joli-Normandin	Paspébiac	27kWh	157Wh/km ;
+0_00:35:54	Matane	Percé	29kWh	179Wh/km ;
+0_00:44:45	Amqui	Percé	33kWh	173Wh/km ;
+-
+0_00:21:46	Rimouski	Paspébiac	47kWh	160Wh/km ;
+0_00:32:13	Chandler	New_Richmond	28kWh	246Wh/km ;
+0_00:56:12	Paspébiac	Amqui	31kWh	187Wh/km ;
+-
+0_00:32:23	Pointe-à-la-Croix	Rimouski	34kWh	202Wh/km ;
+0_00:20:42	New_Richmond	Dégelis	35kWh	172Wh/km ;
+0_00:39:54	Carleton-sur-Mer	Dégelis	35kWh	161Wh/km ;
+-
+0_00:06:25	Paspébiac	Pointe-à-la-Croix	31kWh	241Wh/km ;
+0_00:08:26	Mont-Joli-Normandin	Paspébiac	49kWh	187Wh/km ;
+0_00:44:22	Mont-Joli-Normandin	Paspébiac	26kWh	154Wh/km ;
+-
+0_00:12:16	Murdochville	Gaspé	33kWh	222Wh/km ;
+0_00:22:18	Paspébiac	Dégelis	32kWh	198Wh/km ;
+0_00:24:31	Paspébiac	Dégelis	26kWh	150Wh/km ;
+-
+0_00:33:47	Amqui	Paspébiac	42kWh	244Wh/km ;
+0_00:58:52	Matane	Chandler	33kWh	180Wh/km ;
+0_00:18:31	Rimouski	Chandler	31kWh	158Wh/km ;
+-
+0_00:34:28	Paspébiac	Dégelis	45kWh	219Wh/km ;
+0_00:54:22	Matane	Percé	37kWh	201Wh/km ;
+0_00:49:32	New_Richmond	Dégelis	40kWh	223Wh/km ;
+-
+0_00:41:22	Gaspé	Carleton-sur-Mer	43kWh	229Wh/km ;
+0_00:56:58	New_Richmond	Chandler	25kWh	213Wh/km ;
+0_00:51:35	New_Richmond	Percé	33kWh	216Wh/km ;
+-
+0_00:33:45	Chandler	Dégelis	29kWh	161Wh/km ;
+0_00:29:29	Percé	New_Richmond	15kWh	161Wh/km ;
+0_00:21:20	Gaspé	Dégelis	41kWh	237Wh/km ;
+-
+0_00:35:50	Amqui	New_Richmond	36kWh	177Wh/km ;
+0_00:00:53	Murdochville	Chandler	30kWh	232Wh/km ;
+0_00:43:46	New_Richmond	Gaspé	29kWh	203Wh/km ;
+-
+0_00:32:26	Matane	Gaspé	33kWh	205Wh/km ;
+0_00:10:41	Dégelis	Gaspé	49kWh	180Wh/km ;
+0_00:45:16	Matane	Percé	44kWh	211Wh/km ;
+-
+0_00:23:06	Chandler	Murdochville	29kWh	192Wh/km ;
+0_00:05:22	Gaspé	Amqui	38kWh	165Wh/km ;
+0_00:06:00	Rimouski	Paspébiac	42kWh	201Wh/km ;
+-
+0_00:27:36	Rimouski	New_Richmond	49kWh	224Wh/km ;
+0_00:45:42	Rimouski	Carleton-sur-Mer	31kWh	151Wh/km ;
+0_00:12:30	Pointe-à-la-Croix	Chandler	22kWh	163Wh/km ;
+-
+0_00:30:38	Percé	Amqui	42kWh	248Wh/km ;
+0_00:47:03	Percé	Mont-Joli-Normandin	44kWh	157Wh/km ;
+0_00:33:36	Percé	Mont-Joli-Normandin	35kWh	169Wh/km ;
+-
+0_00:57:20	Murdochville	Percé	42kWh	207Wh/km ;
+0_00:24:43	Percé	Amqui	39kWh	228Wh/km ;
+0_00:53:58	Chandler	Amqui	46kWh	156Wh/km ;
+-
+0_00:56:35	Gaspé	Carleton-sur-Mer	18kWh	172Wh/km ;
+0_00:57:02	Matane	Carleton-sur-Mer	31kWh	188Wh/km ;
+0_00:26:27	Pointe-à-la-Croix	Carleton-sur-Mer	6kWh	209Wh/km ;
+-
+0_00:14:48	Pointe-à-la-Croix	Percé	31kWh	219Wh/km ;
+0_00:47:22	Amqui	Percé	44kWh	247Wh/km ;
+0_00:40:10	Dégelis	Gaspé	38kWh	160Wh/km ;
+-
+0_00:42:45	Murdochville	Rimouski	29kWh	181Wh/km ;
+0_00:28:23	Gaspé	Mont-Joli-Normandin	23kWh	155Wh/km ;
+0_00:28:22	Percé	Dégelis	50kWh	207Wh/km ;
+-
+0_00:18:06	Paspébiac	Dégelis	50kWh	175Wh/km ;
+0_00:38:39	Mont-Joli-Normandin	Paspébiac	40kWh	223Wh/km ;
+0_00:40:04	Mont-Joli-Normandin	Paspébiac	44kWh	199Wh/km ;
+-
+0_00:42:45	Mont-Joli-Normandin	Chandler	37kWh	199Wh/km ;
+0_00:42:17	Mont-Joli-Normandin	Percé	31kWh	178Wh/km ;
+0_00:01:55	Matane	Percé	46kWh	160Wh/km ;
+-
+0_00:35:37	Rimouski	Chandler	35kWh	185Wh/km ;
+0_00:40:11	Rimouski	Chandler	36kWh	201Wh/km ;
+0_00:38:24	Matane	Chandler	45kWh	208Wh/km ;
+-
+0_00:44:56	Amqui	Percé	47kWh	151Wh/km ;
+0_00:19:03	Dégelis	Chandler	36kWh	156Wh/km ;
+0_00:43:39	Rimouski	Chandler	48kWh	153Wh/km ;
+-
+0_00:57:50	Gaspé	Amqui	41kWh	211Wh/km ;
+0_00:39:29	Dégelis	Gaspé	49kWh	176Wh/km ;
+0_00:39:52	Percé	Amqui	46kWh	225Wh/km ;
+-
+0_00:28:36	Amqui	Paspébiac	34kWh	230Wh/km ;
+0_00:51:31	Dégelis	Percé	45kWh	158Wh/km ;
+0_00:20:17	Mont-Joli-Normandin	Percé	38kWh	236Wh/km ;
+-
+0_00:31:58	Percé	Pointe-à-la-Croix	30kWh	152Wh/km ;
+0_00:03:16	Chandler	Pointe-à-la-Croix	35kWh	213Wh/km ;
+0_00:39:07	Amqui	New_Richmond	41kWh	214Wh/km ;
+-
+0_00:25:52	Chandler	Pointe-à-la-Croix	49kWh	244Wh/km ;
+0_00:45:16	Percé	Mont-Joli-Normandin	34kWh	173Wh/km ;
+0_00:01:55	Chandler	Mont-Joli-Normandin	36kWh	204Wh/km ;
+-
+0_00:47:20	New_Richmond	Percé	25kWh	187Wh/km ;
+0_00:09:54	Chandler	Pointe-à-la-Croix	50kWh	230Wh/km ;
+0_00:40:46	Percé	Murdochville	42kWh	202Wh/km ;
+-
+0_00:57:47	Rimouski	Percé	38kWh	208Wh/km ;
+0_00:24:43	Mont-Joli-Normandin	Chandler	48kWh	167Wh/km ;
+0_00:23:54	Dégelis	Percé	40kWh	241Wh/km ;
+-
+0_00:29:23	Gaspé	Mont-Joli-Normandin	43kWh	175Wh/km ;
+0_00:36:13	Pointe-à-la-Croix	Gaspé	40kWh	244Wh/km ;
+0_00:59:47	Rimouski	Paspébiac	34kWh	162Wh/km ;
+-
+0_00:29:41	Chandler	Matane	46kWh	242Wh/km ;
+0_00:48:29	Percé	Matane	29kWh	176Wh/km ;
+0_00:03:28	Gaspé	New_Richmond	22kWh	210Wh/km ;
+-
+0_00:43:09	Mont-Joli-Normandin	Paspébiac	47kWh	235Wh/km ;
+0_00:41:41	Matane	Paspébiac	40kWh	225Wh/km ;
+0_00:39:25	Chandler	Murdochville	19kWh	171Wh/km ;
+-
+0_00:31:33	Matane	Chandler	37kWh	164Wh/km ;
+0_00:17:55	Paspébiac	Dégelis	31kWh	179Wh/km ;
+0_00:58:21	Matane	Chandler	40kWh	189Wh/km ;
+-
+0_00:34:29	Dégelis	Chandler	41kWh	229Wh/km ;
+0_00:53:10	Percé	Rimouski	38kWh	248Wh/km ;
+0_00:06:00	Dégelis	Percé	28kWh	188Wh/km ;
+-
+0_00:15:04	Mont-Joli-Normandin	Chandler	38kWh	199Wh/km ;
+0_00:36:24	Amqui	Paspébiac	26kWh	158Wh/km ;
+0_00:02:05	Rimouski	Chandler	46kWh	209Wh/km ;
+-
+0_00:05:14	Matane	Percé	45kWh	234Wh/km ;
+0_00:51:38	New_Richmond	Chandler	23kWh	188Wh/km ;
+0_00:04:33	Rimouski	Gaspé	45kWh	170Wh/km ;
+-
+0_00:33:20	Amqui	New_Richmond	23kWh	154Wh/km ;
+0_00:57:57	Paspébiac	Mont-Joli-Normandin	48kWh	236Wh/km ;
+0_00:03:46	Chandler	Mont-Joli-Normandin	47kWh	204Wh/km ;
+-
+0_00:08:48	Percé	Rimouski	45kWh	201Wh/km ;
+0_00:56:39	Paspébiac	Rimouski	38kWh	195Wh/km ;
+0_00:31:08	Chandler	Amqui	44kWh	228Wh/km ;
+-
+0_00:28:37	Amqui	Murdochville	35kWh	209Wh/km ;
+0_00:08:57	Paspébiac	Murdochville	17kWh	156Wh/km ;
+0_00:32:44	Matane	Carleton-sur-Mer	32kWh	207Wh/km ;
+-
+0_00:27:33	Percé	Amqui	27kWh	165Wh/km ;
+0_00:42:36	Murdochville	Dégelis	44kWh	223Wh/km ;
+0_00:47:39	Rimouski	Paspébiac	36kWh	178Wh/km ;
+-
+0_00:27:01	Dégelis	Chandler	36kWh	160Wh/km ;
+0_00:18:52	Paspébiac	Mont-Joli-Normandin	39kWh	167Wh/km ;
+0_00:33:49	Dégelis	Chandler	49kWh	175Wh/km ;
+-
+0_00:47:36	Gaspé	Matane	48kWh	197Wh/km ;
+0_00:52:17	Chandler	Matane	33kWh	191Wh/km ;
+0_00:31:46	Pointe-à-la-Croix	Gaspé	45kWh	233Wh/km ;
+-
+0_00:57:04	Gaspé	Pointe-à-la-Croix	25kWh	208Wh/km ;
+0_00:16:42	Rimouski	Matane	16kWh	162Wh/km ;
+0_00:56:57	Percé	Pointe-à-la-Croix	41kWh	245Wh/km ;
+-
+0_00:11:27	Percé	New_Richmond	30kWh	239Wh/km ;
+0_00:00:35	Murdochville	Chandler	32kWh	233Wh/km ;
+0_00:40:56	Percé	New_Richmond	24kWh	215Wh/km ;
+-
+0_00:08:17	Mont-Joli-Normandin	Gaspé	48kWh	228Wh/km ;
+0_00:03:22	Gaspé	Mont-Joli-Normandin	50kWh	151Wh/km ;
+0_00:40:52	Mont-Joli-Normandin	Gaspé	34kWh	166Wh/km ;
+-
+0_00:18:17	Amqui	Chandler	35kWh	161Wh/km ;
+0_00:30:02	Amqui	Chandler	35kWh	174Wh/km ;
+0_00:04:49	Gaspé	Carleton-sur-Mer	37kWh	198Wh/km ;
+-
+0_00:28:55	Murdochville	Rimouski	42kWh	246Wh/km ;
+0_00:31:06	Paspébiac	Pointe-à-la-Croix	24kWh	228Wh/km ;
+0_00:11:55	Carleton-sur-Mer	Rimouski	31kWh	184Wh/km ;
+-
+0_00:31:49	Amqui	Carleton-sur-Mer	41kWh	221Wh/km ;
+0_00:59:13	Mont-Joli-Normandin	Murdochville	39kWh	223Wh/km ;
+0_00:25:07	Rimouski	Carleton-sur-Mer	48kWh	240Wh/km ;
+-
+0_00:57:38	Matane	Murdochville	28kWh	189Wh/km ;
+0_00:13:30	Rimouski	Carleton-sur-Mer	48kWh	236Wh/km ;
+0_00:24:38	Percé	New_Richmond	38kWh	226Wh/km ;
+-
+0_00:52:24	Carleton-sur-Mer	Percé	34kWh	206Wh/km ;
+0_00:38:23	Murdochville	Chandler	22kWh	197Wh/km ;
+0_00:06:02	Pointe-à-la-Croix	Chandler	23kWh	205Wh/km ;
+-
+0_00:03:46	Rimouski	Paspébiac	35kWh	234Wh/km ;
+0_00:07:22	Mont-Joli-Normandin	Paspébiac	40kWh	228Wh/km ;
+0_00:55:08	Rimouski	Paspébiac	50kWh	242Wh/km ;
+-
+0_00:24:22	Percé	Mont-Joli-Normandin	49kWh	211Wh/km ;
+0_00:35:58	Matane	Gaspé	48kWh	181Wh/km ;
+0_00:09:38	Gaspé	Mont-Joli-Normandin	39kWh	228Wh/km ;
+-
+0_00:54:39	Paspébiac	Dégelis	50kWh	205Wh/km ;
+0_00:14:39	Carleton-sur-Mer	Dégelis	40kWh	196Wh/km ;
+0_00:54:30	Murdochville	Dégelis	37kWh	243Wh/km ;
+-
+0_00:17:00	Matane	Gaspé	35kWh	232Wh/km ;
+0_00:26:19	Amqui	Gaspé	32kWh	196Wh/km ;
+0_00:02:19	Pointe-à-la-Croix	Percé	50kWh	234Wh/km ;
+-
+0_00:31:48	Murdochville	Dégelis	36kWh	234Wh/km ;
+0_00:21:39	Carleton-sur-Mer	Dégelis	30kWh	185Wh/km ;
+0_00:54:00	Carleton-sur-Mer	Amqui	29kWh	172Wh/km ;
+-
+0_00:50:46	Gaspé	Mont-Joli-Normandin	43kWh	162Wh/km ;
+0_00:25:55	Gaspé	Amqui	26kWh	162Wh/km ;
+0_00:25:45	Gaspé	Amqui	49kWh	225Wh/km ;
+-
+0_00:23:16	Murdochville	Percé	30kWh	156Wh/km ;
+0_00:51:22	New_Richmond	Gaspé	25kWh	247Wh/km ;
+0_00:27:35	Chandler	New_Richmond	34kWh	232Wh/km ;
+-
+0_00:05:03	Amqui	Paspébiac	44kWh	239Wh/km ;
+0_00:16:13	Rimouski	Chandler	50kWh	173Wh/km ;
+0_00:45:38	Matane	Chandler	28kWh	165Wh/km ;
+-
+0_00:16:28	Percé	Murdochville	15kWh	161Wh/km ;
+0_00:43:25	Percé	Amqui	27kWh	169Wh/km ;
+0_00:34:42	Chandler	Amqui	42kWh	242Wh/km ;
+-
+0_00:09:27	Carleton-sur-Mer	Paspébiac	16kWh	167Wh/km ;
+0_00:38:51	Murdochville	Percé	16kWh	151Wh/km ;
+0_00:12:22	Murdochville	Percé	30kWh	235Wh/km ;
+-
+0_00:34:37	Rimouski	Percé	40kWh	250Wh/km ;
+0_00:30:21	Dégelis	Percé	50kWh	246Wh/km ;
+0_00:05:36	Chandler	Amqui	27kWh	155Wh/km ;
+-
+0_00:55:11	Carleton-sur-Mer	Percé	38kWh	224Wh/km ;
+0_00:14:01	Pointe-à-la-Croix	Matane	36kWh	236Wh/km ;
+0_00:10:45	Pointe-à-la-Croix	Chandler	42kWh	236Wh/km ;
+-
+0_00:36:00	Chandler	Murdochville	36kWh	216Wh/km ;
+0_00:33:42	Chandler	Murdochville	28kWh	241Wh/km ;
+0_00:09:39	Chandler	Pointe-à-la-Croix	18kWh	180Wh/km ;
+-
+0_00:47:20	Carleton-sur-Mer	Matane	30kWh	198Wh/km ;
+0_00:19:14	Rimouski	Gaspé	29kWh	182Wh/km ;
+0_00:35:45	Rimouski	Chandler	35kWh	177Wh/km ;
+-
+0_00:24:54	Amqui	Gaspé	38kWh	155Wh/km ;
+0_00:02:51	Matane	Gaspé	47kWh	194Wh/km ;
+0_00:30:06	Chandler	Carleton-sur-Mer	35kWh	192Wh/km ;
+-
+0_00:16:48	Murdochville	Gaspé	35kWh	186Wh/km ;
+0_00:27:26	Rimouski	Amqui	21kWh	231Wh/km ;
+0_00:15:22	Carleton-sur-Mer	Gaspé	42kWh	247Wh/km ;
+-
+0_00:37:36	Chandler	Matane	43kWh	225Wh/km ;
+0_00:18:19	Percé	Mont-Joli-Normandin	48kWh	240Wh/km ;
+0_00:07:21	Percé	Matane	34kWh	195Wh/km ;
+-
+0_00:11:23	Percé	Rimouski	38kWh	237Wh/km ;
+0_00:48:29	Mont-Joli-Normandin	Chandler	30kWh	197Wh/km ;
+0_00:16:01	Chandler	Dégelis	37kWh	214Wh/km ;
+-
+0_00:48:33	Gaspé	Mont-Joli-Normandin	49kWh	199Wh/km ;
+0_00:07:47	Matane	Gaspé	48kWh	240Wh/km ;
+0_00:19:48	Percé	Mont-Joli-Normandin	27kWh	160Wh/km ;
+-
+0_00:57:22	Gaspé	Amqui	44kWh	226Wh/km ;
+0_00:17:45	Gaspé	Pointe-à-la-Croix	34kWh	224Wh/km ;
+0_00:55:39	Amqui	Gaspé	47kWh	235Wh/km ;
+-
+0_00:09:24	Mont-Joli-Normandin	Gaspé	33kWh	205Wh/km ;
+0_00:32:45	Matane	Percé	50kWh	222Wh/km ;
+0_00:26:59	Chandler	Matane	49kWh	236Wh/km ;
+-
+0_00:48:16	Mont-Joli-Normandin	Gaspé	31kWh	179Wh/km ;
+0_00:06:53	Dégelis	Chandler	49kWh	210Wh/km ;
+0_00:37:57	Amqui	Gaspé	37kWh	219Wh/km ;
+-
+0_00:27:07	Chandler	New_Richmond	20kWh	152Wh/km ;
+0_00:07:32	Carleton-sur-Mer	Gaspé	21kWh	165Wh/km ;
+0_00:20:05	Carleton-sur-Mer	Amqui	30kWh	192Wh/km ;
+-
+0_00:29:44	Percé	Mont-Joli-Normandin	40kWh	217Wh/km ;
+0_00:20:04	Chandler	Mont-Joli-Normandin	48kWh	229Wh/km ;
+0_00:58:09	Amqui	Gaspé	43kWh	207Wh/km ;
+-
+0_00:24:11	Carleton-sur-Mer	Gaspé	29kWh	204Wh/km ;
+0_00:54:59	Chandler	New_Richmond	30kWh	231Wh/km ;
+0_00:14:47	Carleton-sur-Mer	Percé	16kWh	173Wh/km ;
+-
+0_00:57:55	Matane	Percé	38kWh	211Wh/km ;
+0_00:04:21	Matane	Gaspé	41kWh	235Wh/km ;
+0_00:48:56	Matane	Gaspé	35kWh	215Wh/km ;
+-
+0_00:44:17	Matane	Percé	40kWh	236Wh/km ;
+0_00:31:21	Pointe-à-la-Croix	Percé	48kWh	235Wh/km ;
+0_00:09:28	Matane	Chandler	31kWh	193Wh/km ;
+-
+0_00:22:58	Murdochville	Dégelis	39kWh	233Wh/km ;
+0_00:45:29	Dégelis	Mont-Joli-Normandin	23kWh	208Wh/km ;
+0_00:51:51	New_Richmond	Dégelis	36kWh	176Wh/km ;
+-
+0_00:50:53	Murdochville	Chandler	32kWh	231Wh/km ;
+0_00:22:35	Gaspé	Murdochville	24kWh	153Wh/km ;
+0_00:38:27	Carleton-sur-Mer	Percé	27kWh	224Wh/km ;
+-
+0_00:11:13	Matane	Gaspé	41kWh	165Wh/km ;
+0_00:44:43	Amqui	Gaspé	43kWh	164Wh/km ;
+0_00:35:53	New_Richmond	Dégelis	42kWh	220Wh/km ;
+-
+0_00:49:38	Paspébiac	Dégelis	38kWh	185Wh/km ;
+0_00:11:12	Rimouski	Matane	16kWh	169Wh/km ;
+0_00:30:15	Paspébiac	Dégelis	48kWh	223Wh/km ;
+-
+0_00:15:43	Gaspé	Amqui	48kWh	229Wh/km ;
+0_00:40:53	Gaspé	Dégelis	42kWh	190Wh/km ;
+0_00:40:15	Chandler	Dégelis	49kWh	236Wh/km ;
+-
+0_00:03:00	Dégelis	Paspébiac	40kWh	150Wh/km ;
+0_00:33:03	Rimouski	Gaspé	48kWh	167Wh/km ;
+0_00:11:02	Matane	Gaspé	35kWh	210Wh/km ;
+-
+0_00:27:52	Percé	Murdochville	17kWh	171Wh/km ;
+0_00:37:00	Chandler	Murdochville	46kWh	236Wh/km ;
+0_00:33:42	Chandler	Pointe-à-la-Croix	28kWh	157Wh/km ;
+-
+0_00:18:57	Rimouski	Gaspé	41kWh	225Wh/km ;
+0_00:20:22	Rimouski	Percé	26kWh	156Wh/km ;
+0_00:54:43	Gaspé	Amqui	28kWh	170Wh/km ;
+-
+0_00:20:16	Pointe-à-la-Croix	Chandler	36kWh	235Wh/km ;
+0_00:26:34	Dégelis	Matane	25kWh	209Wh/km ;
+0_00:58:11	Chandler	Carleton-sur-Mer	27kWh	200Wh/km ;
+-
+0_00:54:21	Mont-Joli-Normandin	Paspébiac	42kWh	166Wh/km ;
+0_00:47:27	Paspébiac	Amqui	29kWh	172Wh/km ;
+0_00:37:29	Matane	New_Richmond	37kWh	240Wh/km ;
+-
+0_00:36:34	Pointe-à-la-Croix	Rimouski	40kWh	250Wh/km ;
+0_00:09:51	Percé	Murdochville	21kWh	229Wh/km ;
+0_00:14:15	New_Richmond	Rimouski	46kWh	188Wh/km ;
+-
+0_00:03:22	Rimouski	Pointe-à-la-Croix	35kWh	209Wh/km ;
+0_00:39:25	Matane	Chandler	34kWh	222Wh/km ;
+0_00:00:02	Rimouski	Percé	38kWh	238Wh/km ;
+-
+0_00:54:27	Chandler	Amqui	46kWh	178Wh/km ;
+0_00:46:10	Paspébiac	Amqui	38kWh	200Wh/km ;
+0_00:42:06	Percé	Amqui	43kWh	174Wh/km ;
+-
+0_00:13:25	Rimouski	Gaspé	35kWh	204Wh/km ;
+0_00:38:20	Dégelis	Gaspé	33kWh	150Wh/km ;
+0_00:37:05	Dégelis	Amqui	19kWh	151Wh/km ;
+-
+0_00:11:59	Dégelis	New_Richmond	33kWh	169Wh/km ;
+0_00:18:46	Paspébiac	Matane	32kWh	175Wh/km ;
+0_00:20:30	Rimouski	Carleton-sur-Mer	35kWh	228Wh/km ;
+-
+0_00:43:06	Mont-Joli-Normandin	Carleton-sur-Mer	27kWh	166Wh/km ;
+0_00:04:40	Pointe-à-la-Croix	Chandler	31kWh	199Wh/km ;
+0_00:30:40	Dégelis	New_Richmond	42kWh	206Wh/km ;
+-
+0_00:34:30	Matane	Chandler	39kWh	191Wh/km ;
+0_00:53:13	Percé	Pointe-à-la-Croix	32kWh	211Wh/km ;
+0_00:11:42	Matane	Chandler	28kWh	183Wh/km ;
+-
+0_00:31:04	Mont-Joli-Normandin	Percé	42kWh	167Wh/km ;
+0_00:08:18	Matane	New_Richmond	31kWh	160Wh/km ;
+0_00:20:15	Amqui	Percé	41kWh	238Wh/km ;
+-
+0_00:01:19	Gaspé	Rimouski	50kWh	182Wh/km ;
+0_00:07:26	Gaspé	Amqui	40kWh	242Wh/km ;
+0_00:59:32	Matane	Paspébiac	47kWh	207Wh/km ;
+-
+0_00:19:59	Mont-Joli-Normandin	Chandler	38kWh	206Wh/km ;
+0_00:54:57	Gaspé	Amqui	45kWh	231Wh/km ;
+0_00:56:24	Matane	Gaspé	40kWh	207Wh/km ;
+-
+0_00:06:38	Gaspé	Dégelis	45kWh	228Wh/km ;
+0_00:03:09	Chandler	Dégelis	41kWh	239Wh/km ;
+0_00:33:38	Rimouski	Murdochville	30kWh	193Wh/km ;
+-
+0_00:55:21	Chandler	Amqui	46kWh	169Wh/km ;
+0_00:31:56	Pointe-à-la-Croix	Dégelis	32kWh	163Wh/km ;
+0_00:59:59	Paspébiac	Amqui	39kWh	211Wh/km ;
+-
+0_00:49:31	Rimouski	Percé	38kWh	248Wh/km ;
+0_00:21:23	Pointe-à-la-Croix	Chandler	29kWh	188Wh/km ;
+0_00:33:59	Percé	Dégelis	29kWh	188Wh/km ;
+-
+0_00:23:07	Chandler	New_Richmond	26kWh	208Wh/km ;
+0_00:26:12	Percé	Carleton-sur-Mer	34kWh	214Wh/km ;
+0_00:32:47	Percé	Murdochville	18kWh	165Wh/km ;
+-
+0_00:41:49	Chandler	Pointe-à-la-Croix	20kWh	207Wh/km ;
+0_00:59:52	Mont-Joli-Normandin	Pointe-à-la-Croix	37kWh	243Wh/km ;
+0_00:32:56	Dégelis	Matane	24kWh	245Wh/km ;
+-
+0_00:43:04	Matane	Paspébiac	29kWh	186Wh/km ;
+0_00:40:29	Amqui	Paspébiac	27kWh	182Wh/km ;
+0_00:07:41	Gaspé	Murdochville	35kWh	203Wh/km ;
+-
+0_00:40:59	Carleton-sur-Mer	Chandler	39kWh	226Wh/km ;
+0_00:04:11	Pointe-à-la-Croix	Chandler	40kWh	218Wh/km ;
+0_00:42:54	Paspébiac	Pointe-à-la-Croix	18kWh	173Wh/km ;
+-
+0_00:29:14	Gaspé	Murdochville	25kWh	212Wh/km ;
+0_00:16:29	Chandler	Murdochville	34kWh	213Wh/km ;
+0_00:45:13	Chandler	Pointe-à-la-Croix	32kWh	217Wh/km ;
+-
+0_00:24:12	Rimouski	Murdochville	39kWh	215Wh/km ;
+0_00:56:49	Gaspé	Amqui	44kWh	210Wh/km ;
+0_00:10:59	Gaspé	Amqui	47kWh	230Wh/km ;
+-
+0_00:38:56	Gaspé	Mont-Joli-Normandin	36kWh	220Wh/km ;
+0_00:14:47	Percé	Amqui	40kWh	196Wh/km ;
+0_00:56:29	Dégelis	Paspébiac	33kWh	165Wh/km ;
+-
+0_00:05:00	New_Richmond	Dégelis	42kWh	225Wh/km ;
+0_00:03:42	Matane	Chandler	44kWh	153Wh/km ;
+0_00:01:22	Paspébiac	Dégelis	43kWh	174Wh/km ;
+-
+0_00:58:28	Mont-Joli-Normandin	Chandler	32kWh	203Wh/km ;
+0_00:59:14	Carleton-sur-Mer	Chandler	32kWh	227Wh/km ;
+0_00:44:33	Dégelis	Chandler	40kWh	198Wh/km ;
+-
+0_00:14:26	Gaspé	Amqui	33kWh	204Wh/km ;
+0_00:26:39	Percé	Mont-Joli-Normandin	37kWh	176Wh/km ;
+0_00:06:08	Amqui	Gaspé	50kWh	249Wh/km ;
+-
+0_00:13:25	Percé	Carleton-sur-Mer	28kWh	250Wh/km ;
+0_00:28:07	Percé	Mont-Joli-Normandin	36kWh	230Wh/km ;
+0_00:39:57	Percé	Matane	28kWh	186Wh/km ;
+-
+0_00:39:18	Carleton-sur-Mer	Gaspé	27kWh	199Wh/km ;
+0_00:01:09	Dégelis	Gaspé	44kWh	239Wh/km ;
+0_00:46:02	Dégelis	Gaspé	49kWh	241Wh/km ;
+-
+0_00:03:04	Gaspé	New_Richmond	30kWh	185Wh/km ;
+0_00:58:45	New_Richmond	Chandler	33kWh	238Wh/km ;
+0_00:21:25	Carleton-sur-Mer	Chandler	21kWh	163Wh/km ;
+-
+0_00:01:03	Gaspé	Mont-Joli-Normandin	31kWh	183Wh/km ;
+0_00:37:52	Rimouski	New_Richmond	41kWh	238Wh/km ;
+0_00:08:37	Percé	Mont-Joli-Normandin	38kWh	156Wh/km ;
+-
+0_00:20:12	Gaspé	New_Richmond	23kWh	244Wh/km ;
+0_00:30:07	New_Richmond	Percé	22kWh	167Wh/km ;
+0_00:10:47	Chandler	New_Richmond	30kWh	195Wh/km ;
+-
+0_00:52:23	Amqui	Paspébiac	27kWh	162Wh/km ;
+0_00:23:17	New_Richmond	Rimouski	31kWh	209Wh/km ;
+0_00:09:15	Paspébiac	Rimouski	49kWh	249Wh/km ;
+-
+0_00:08:40	Rimouski	New_Richmond	45kWh	211Wh/km ;
+0_00:20:20	Rimouski	New_Richmond	39kWh	205Wh/km ;
+0_00:36:23	Dégelis	Amqui	25kWh	228Wh/km ;
+-
+0_00:33:54	Paspébiac	Dégelis	31kWh	178Wh/km ;
+0_00:04:19	Murdochville	Dégelis	35kWh	166Wh/km ;
+0_00:31:26	Chandler	Dégelis	39kWh	166Wh/km ;
+-
+0_00:52:09	Percé	Pointe-à-la-Croix	40kWh	230Wh/km ;
+0_00:12:42	Amqui	Chandler	48kWh	225Wh/km ;
+0_00:16:31	Dégelis	Chandler	49kWh	182Wh/km ;
+-
+0_00:55:33	Mont-Joli-Normandin	Murdochville	31kWh	195Wh/km ;
+0_00:24:11	Mont-Joli-Normandin	Paspébiac	40kWh	207Wh/km ;
+0_00:15:41	Amqui	Paspébiac	43kWh	212Wh/km ;
+-
+0_00:27:55	Amqui	Carleton-sur-Mer	40kWh	227Wh/km ;
+0_00:22:12	Gaspé	Matane	49kWh	223Wh/km ;
+0_00:53:49	Percé	Matane	44kWh	227Wh/km ;
+-
+0_00:41:31	Percé	Murdochville	36kWh	215Wh/km ;
+0_00:53:17	Gaspé	Matane	33kWh	192Wh/km ;
+0_00:16:09	Dégelis	Paspébiac	37kWh	238Wh/km ;
+-
+0_00:43:10	Rimouski	Pointe-à-la-Croix	40kWh	232Wh/km ;
+0_00:47:57	Rimouski	Murdochville	35kWh	218Wh/km ;
+0_00:23:19	New_Richmond	Mont-Joli-Normandin	34kWh	199Wh/km ;
+-
+0_00:01:45	Paspébiac	Amqui	40kWh	185Wh/km ;
+0_00:25:38	Mont-Joli-Normandin	Gaspé	34kWh	204Wh/km ;
+0_00:45:43	Rimouski	Gaspé	36kWh	150Wh/km ;
+-
+0_00:03:02	Mont-Joli-Normandin	Percé	48kWh	179Wh/km ;
+0_00:22:37	Amqui	Percé	43kWh	250Wh/km ;
+0_00:36:21	Dégelis	New_Richmond	38kWh	188Wh/km ;
+-
+0_00:37:41	Chandler	Mont-Joli-Normandin	29kWh	156Wh/km ;
+0_00:03:49	Chandler	Mont-Joli-Normandin	30kWh	176Wh/km ;
+0_00:06:14	Amqui	Chandler	30kWh	174Wh/km ;
+-
+0_00:56:32	Chandler	Mont-Joli-Normandin	37kWh	174Wh/km ;
+0_00:10:46	Chandler	Mont-Joli-Normandin	39kWh	240Wh/km ;
+0_00:52:56	Rimouski	Gaspé	43kWh	165Wh/km ;
+-
+0_00:55:15	Percé	Amqui	35kWh	221Wh/km ;
+0_00:34:49	Percé	Amqui	40kWh	241Wh/km ;
+0_00:27:02	Pointe-à-la-Croix	Chandler	37kWh	195Wh/km ;
+-
+0_00:30:41	New_Richmond	Percé	19kWh	166Wh/km ;
+0_00:29:24	Chandler	Carleton-sur-Mer	33kWh	238Wh/km ;
+0_00:20:08	Chandler	Carleton-sur-Mer	31kWh	224Wh/km ;
+-
+0_00:00:52	Carleton-sur-Mer	Gaspé	32kWh	193Wh/km ;
+0_00:51:36	Dégelis	Gaspé	44kWh	241Wh/km ;
+0_00:48:08	Dégelis	Gaspé	26kWh	176Wh/km ;
+-
+0_00:23:44	Percé	Amqui	37kWh	152Wh/km ;
+0_00:11:46	Percé	Amqui	30kWh	172Wh/km ;
+0_00:30:29	Gaspé	Amqui	39kWh	220Wh/km ;
+-
+0_00:10:04	Chandler	Rimouski	45kWh	240Wh/km ;
+0_00:23:38	New_Richmond	Matane	33kWh	173Wh/km ;
+0_00:05:40	Percé	Rimouski	37kWh	216Wh/km ;
+-
+0_00:23:20	Percé	Carleton-sur-Mer	24kWh	212Wh/km ;
+0_00:25:14	Percé	Murdochville	28kWh	244Wh/km ;
+0_00:50:50	Percé	Murdochville	40kWh	221Wh/km ;
+-
+0_00:53:12	Amqui	Percé	44kWh	208Wh/km ;
+0_00:09:06	Mont-Joli-Normandin	Gaspé	43kWh	225Wh/km ;
+0_00:50:37	Mont-Joli-Normandin	Percé	48kWh	245Wh/km ;
+-
+0_00:17:44	Mont-Joli-Normandin	New_Richmond	46kWh	238Wh/km ;
+0_00:00:34	Dégelis	New_Richmond	42kWh	201Wh/km ;
+0_00:24:59	Matane	Carleton-sur-Mer	29kWh	194Wh/km ;
+-
+0_00:43:32	Chandler	Mont-Joli-Normandin	49kWh	187Wh/km ;
+0_00:18:06	Percé	Rimouski	33kWh	157Wh/km ;
+0_00:16:52	Mont-Joli-Normandin	Murdochville	37kWh	250Wh/km ;
+-
+0_00:01:42	Percé	Rimouski	47kWh	205Wh/km ;
+0_00:18:37	Dégelis	Paspébiac	38kWh	221Wh/km ;
+0_00:31:56	Percé	Matane	41kWh	247Wh/km ;
+-
+0_00:25:09	Murdochville	Gaspé	26kWh	164Wh/km ;
+0_00:45:20	Amqui	Dégelis	27kWh	225Wh/km ;
+0_00:43:29	New_Richmond	Percé	31kWh	187Wh/km ;
+-
+0_00:59:36	Chandler	Pointe-à-la-Croix	36kWh	172Wh/km ;
+0_00:54:24	Percé	Pointe-à-la-Croix	29kWh	168Wh/km ;
+0_00:26:05	Pointe-à-la-Croix	Gaspé	30kWh	225Wh/km ;
+-
+0_00:53:30	Chandler	Amqui	35kWh	230Wh/km ;
+0_00:36:04	Gaspé	Murdochville	35kWh	181Wh/km ;
+0_00:31:04	Gaspé	Mont-Joli-Normandin	37kWh	214Wh/km ;
+-
+0_00:22:03	Carleton-sur-Mer	Percé	26kWh	226Wh/km ;
+0_00:36:49	Percé	Murdochville	34kWh	248Wh/km ;
+0_00:18:06	Carleton-sur-Mer	Chandler	27kWh	250Wh/km ;
+-
+0_00:48:05	Gaspé	Carleton-sur-Mer	38kWh	226Wh/km ;
+0_00:44:41	Chandler	Pointe-à-la-Croix	20kWh	215Wh/km ;
+0_00:39:26	Gaspé	Pointe-à-la-Croix	24kWh	171Wh/km ;
+-
+0_00:28:24	New_Richmond	Dégelis	46kWh	238Wh/km ;
+0_00:07:54	Percé	Mont-Joli-Normandin	50kWh	202Wh/km ;
+0_00:35:31	Paspébiac	Rimouski	48kWh	229Wh/km ;
+-
+0_00:57:57	Paspébiac	Matane	49kWh	196Wh/km ;
+0_00:31:00	New_Richmond	Gaspé	27kWh	171Wh/km ;
+0_00:55:15	Matane	Paspébiac	35kWh	199Wh/km ;
+-
+0_00:51:02	Matane	Paspébiac	40kWh	189Wh/km ;
+0_00:16:17	Matane	Paspébiac	24kWh	161Wh/km ;
+0_00:43:52	New_Richmond	Mont-Joli-Normandin	45kWh	232Wh/km ;
+-
+0_00:44:15	Dégelis	Carleton-sur-Mer	47kWh	230Wh/km ;
+0_00:24:44	Matane	Carleton-sur-Mer	30kWh	196Wh/km ;
+0_00:34:52	Dégelis	New_Richmond	37kWh	175Wh/km ;
+-
+0_00:25:06	Paspébiac	Amqui	35kWh	215Wh/km ;
+0_00:23:43	Paspébiac	Amqui	40kWh	200Wh/km ;
+0_00:10:48	Chandler	Pointe-à-la-Croix	36kWh	159Wh/km ;
+-
+0_00:46:54	Carleton-sur-Mer	Chandler	26kWh	206Wh/km ;
+0_00:04:57	Chandler	Pointe-à-la-Croix	26kWh	230Wh/km ;
+0_00:27:12	Pointe-à-la-Croix	Chandler	41kWh	222Wh/km ;
+-
+0_00:36:24	Carleton-sur-Mer	Chandler	25kWh	177Wh/km ;
+0_00:44:25	Gaspé	New_Richmond	31kWh	220Wh/km ;
+0_00:52:14	Carleton-sur-Mer	Percé	24kWh	171Wh/km ;
+-
+0_00:30:33	Mont-Joli-Normandin	Gaspé	45kWh	174Wh/km ;
+0_00:55:10	Chandler	Pointe-à-la-Croix	41kWh	229Wh/km ;
+0_00:36:24	Rimouski	Gaspé	35kWh	161Wh/km ;
+-
+0_00:27:05	Murdochville	Gaspé	40kWh	237Wh/km ;
+0_00:04:37	Pointe-à-la-Croix	Percé	39kWh	208Wh/km ;
+0_00:08:25	Carleton-sur-Mer	Percé	26kWh	244Wh/km ;
+-
+0_00:59:38	Carleton-sur-Mer	Gaspé	30kWh	237Wh/km ;
+0_00:29:45	Pointe-à-la-Croix	Mont-Joli-Normandin	27kWh	183Wh/km ;
+0_00:29:57	Murdochville	Percé	24kWh	178Wh/km ;
+-
+0_00:41:57	Mont-Joli-Normandin	Murdochville	44kWh	243Wh/km ;
+0_00:09:53	Matane	Murdochville	44kWh	250Wh/km ;
+0_00:55:07	Dégelis	Matane	21kWh	186Wh/km ;
+-
+0_00:19:49	Murdochville	Gaspé	41kWh	200Wh/km ;
+0_00:01:40	Dégelis	Paspébiac	36kWh	214Wh/km ;
+0_00:16:06	Gaspé	Matane	39kWh	223Wh/km ;
+-
+0_00:54:40	Murdochville	Dégelis	28kWh	169Wh/km ;
+0_00:20:39	Murdochville	Dégelis	41kWh	238Wh/km ;
+0_00:55:44	New_Richmond	Chandler	21kWh	160Wh/km ;
+-
+0_00:13:37	Dégelis	Chandler	30kWh	180Wh/km ;
+0_00:25:59	Rimouski	Chandler	28kWh	179Wh/km ;
+0_00:17:26	Rimouski	Carleton-sur-Mer	39kWh	236Wh/km ;
+-
+0_00:28:31	Carleton-sur-Mer	Percé	29kWh	208Wh/km ;
+0_00:26:28	Percé	Matane	49kWh	225Wh/km ;
+0_00:42:45	Chandler	Mont-Joli-Normandin	37kWh	181Wh/km ;
+-
+0_00:46:39	Paspébiac	Rimouski	46kWh	249Wh/km ;
+0_00:26:36	Chandler	Rimouski	37kWh	174Wh/km ;
+0_00:07:42	Chandler	Amqui	39kWh	243Wh/km ;
+-
+0_00:03:22	Rimouski	Murdochville	44kWh	211Wh/km ;
+0_00:36:56	Rimouski	Paspébiac	34kWh	185Wh/km ;
+0_00:39:12	Dégelis	Paspébiac	44kWh	210Wh/km ;
+-
+0_00:42:19	Matane	Paspébiac	35kWh	178Wh/km ;
+0_00:41:02	Paspébiac	Dégelis	34kWh	162Wh/km ;
+0_00:48:45	New_Richmond	Dégelis	44kWh	234Wh/km ;
+-
+0_00:28:30	Dégelis	Percé	43kWh	194Wh/km ;
+0_00:00:22	Mont-Joli-Normandin	Percé	24kWh	163Wh/km ;
+0_00:56:24	Matane	Paspébiac	50kWh	212Wh/km ;
+-
+0_00:31:32	Amqui	Percé	50kWh	222Wh/km ;
+0_00:25:15	Matane	Chandler	45kWh	217Wh/km ;
+0_00:15:31	New_Richmond	Dégelis	31kWh	163Wh/km ;
+-
+0_00:11:43	Chandler	Dégelis	38kWh	208Wh/km ;
+0_00:06:31	Percé	Dégelis	32kWh	203Wh/km ;
+0_00:34:19	Percé	Pointe-à-la-Croix	38kWh	187Wh/km ;
+-
+0_00:22:49	Percé	Murdochville	24kWh	180Wh/km ;
+0_00:14:17	Chandler	Amqui	43kWh	226Wh/km ;
+0_00:19:33	Gaspé	Amqui	39kWh	169Wh/km ;
+-
+0_00:16:21	Chandler	Pointe-à-la-Croix	41kWh	214Wh/km ;
+0_00:35:35	Pointe-à-la-Croix	Gaspé	17kWh	173Wh/km ;
+0_00:57:54	Murdochville	Chandler	31kWh	186Wh/km ;
+-
+0_00:06:32	Chandler	Matane	46kWh	184Wh/km ;
+0_00:21:45	Mont-Joli-Normandin	Percé	44kWh	185Wh/km ;
+0_00:08:01	Chandler	Matane	40kWh	189Wh/km ;
+-
+0_00:34:03	Rimouski	Carleton-sur-Mer	42kWh	230Wh/km ;
+0_00:02:49	Percé	Rimouski	40kWh	217Wh/km ;
+0_00:32:00	Percé	Rimouski	29kWh	154Wh/km ;
+-
+0_00:29:59	New_Richmond	Dégelis	27kWh	165Wh/km ;
+0_00:45:28	Murdochville	Dégelis	24kWh	161Wh/km ;
+0_00:17:08	Percé	Carleton-sur-Mer	22kWh	231Wh/km ;
+-
+0_00:46:22	Gaspé	Carleton-sur-Mer	23kWh	201Wh/km ;
+0_00:02:43	Rimouski	Murdochville	34kWh	194Wh/km ;
+0_00:42:57	Gaspé	Carleton-sur-Mer	24kWh	211Wh/km ;
+-
+0_00:39:49	Rimouski	Percé	32kWh	172Wh/km ;
+0_00:30:40	Percé	New_Richmond	25kWh	183Wh/km ;
+0_00:54:11	Dégelis	Gaspé	45kWh	205Wh/km ;
+-
+0_00:41:39	Gaspé	Matane	36kWh	167Wh/km ;
+0_00:46:06	Amqui	Gaspé	34kWh	176Wh/km ;
+0_00:48:16	Murdochville	Percé	31kWh	186Wh/km ;
+-
+0_00:45:47	Chandler	Murdochville	20kWh	153Wh/km ;
+0_00:30:44	Murdochville	Gaspé	40kWh	246Wh/km ;
+0_00:49:51	Percé	Murdochville	32kWh	206Wh/km ;
+-
+0_00:54:58	Murdochville	Amqui	28kWh	172Wh/km ;
+0_00:37:02	Carleton-sur-Mer	Amqui	28kWh	177Wh/km ;
+0_00:14:51	New_Richmond	Pointe-à-la-Croix	8kWh	187Wh/km ;
+-
+0_00:35:37	Amqui	Carleton-sur-Mer	38kWh	246Wh/km ;
+0_00:11:35	Gaspé	Mont-Joli-Normandin	26kWh	151Wh/km ;
+0_00:45:32	Chandler	Mont-Joli-Normandin	47kWh	187Wh/km ;
+-
+0_00:05:30	Dégelis	Gaspé	50kWh	157Wh/km ;
+0_00:34:25	Matane	Gaspé	50kWh	186Wh/km ;
+0_00:49:43	Matane	Paspébiac	38kWh	163Wh/km ;
+-
+0_00:48:10	Chandler	Amqui	47kWh	248Wh/km ;
+0_00:59:30	Carleton-sur-Mer	Percé	29kWh	226Wh/km ;
+0_00:30:39	Chandler	Amqui	47kWh	215Wh/km ;
+-
+0_00:51:12	Rimouski	Murdochville	33kWh	181Wh/km ;
+0_00:04:51	Rimouski	Murdochville	36kWh	222Wh/km ;
+0_00:42:24	Pointe-à-la-Croix	Mont-Joli-Normandin	29kWh	187Wh/km ;
+-
+0_00:29:29	Percé	Pointe-à-la-Croix	24kWh	224Wh/km ;
+0_00:11:34	Matane	Rimouski	16kWh	174Wh/km ;
+0_00:20:11	Gaspé	Pointe-à-la-Croix	37kWh	245Wh/km ;
+-
+0_00:33:58	Percé	Matane	39kWh	220Wh/km ;
+0_00:26:36	Gaspé	Matane	32kWh	166Wh/km ;
+0_00:07:37	Chandler	New_Richmond	25kWh	187Wh/km ;
+-
+0_00:37:09	Carleton-sur-Mer	Matane	44kWh	247Wh/km ;
+0_00:59:57	Chandler	Matane	50kWh	229Wh/km ;
+0_00:53:58	Gaspé	Mont-Joli-Normandin	47kWh	234Wh/km ;
+-
+0_00:42:02	Matane	Paspébiac	45kWh	197Wh/km ;
+0_00:12:45	Chandler	Pointe-à-la-Croix	34kWh	247Wh/km ;
+0_00:33:22	Amqui	Paspébiac	43kWh	206Wh/km ;
+-
+0_00:10:32	Rimouski	Paspébiac	47kWh	209Wh/km ;
+0_00:04:19	Matane	Paspébiac	49kWh	242Wh/km ;
+0_00:53:05	Paspébiac	Amqui	38kWh	198Wh/km ;
+-
+0_00:21:59	Dégelis	Chandler	50kWh	166Wh/km ;
+0_00:21:58	Matane	Chandler	45kWh	250Wh/km ;
+0_00:22:13	Chandler	Rimouski	50kWh	155Wh/km ;
+-
+0_00:54:30	Paspébiac	Pointe-à-la-Croix	24kWh	217Wh/km ;
+0_00:36:58	Carleton-sur-Mer	Dégelis	30kWh	204Wh/km ;
+0_00:27:29	Murdochville	Dégelis	42kWh	234Wh/km ;
+-
+0_00:20:44	Amqui	Gaspé	38kWh	167Wh/km ;
+0_00:10:00	Matane	Percé	34kWh	170Wh/km ;
+0_00:03:14	Mont-Joli-Normandin	Carleton-sur-Mer	38kWh	195Wh/km ;
+-
+0_00:50:32	Percé	Carleton-sur-Mer	19kWh	201Wh/km ;
+0_00:21:10	Percé	Matane	48kWh	163Wh/km ;
+0_00:19:27	Percé	Matane	47kWh	193Wh/km ;
+-
+0_00:20:58	Dégelis	Paspébiac	42kWh	241Wh/km ;
+0_00:41:40	Percé	Rimouski	45kWh	214Wh/km ;
+0_00:19:38	Murdochville	Percé	35kWh	202Wh/km ;
+-
+0_00:36:24	Percé	Mont-Joli-Normandin	36kWh	154Wh/km ;
+0_00:06:15	Pointe-à-la-Croix	Percé	26kWh	245Wh/km ;
+0_00:05:41	Percé	Mont-Joli-Normandin	33kWh	170Wh/km ;
+-
+0_00:10:24	Gaspé	Rimouski	40kWh	231Wh/km ;
+0_00:55:52	Rimouski	Percé	47kWh	239Wh/km ;
+0_00:42:09	Dégelis	Paspébiac	48kWh	231Wh/km ;
+-
+0_00:56:23	New_Richmond	Gaspé	34kWh	246Wh/km ;
+0_00:50:48	Percé	Matane	39kWh	178Wh/km ;
+0_00:44:31	Percé	Matane	47kWh	247Wh/km ;
+-
+0_00:31:46	New_Richmond	Rimouski	39kWh	209Wh/km ;
+0_00:59:47	Matane	Paspébiac	46kWh	190Wh/km ;
+0_00:49:38	Amqui	Paspébiac	47kWh	177Wh/km ;
+-
+0_00:03:12	Dégelis	Percé	42kWh	183Wh/km ;
+0_00:39:42	Gaspé	Rimouski	50kWh	220Wh/km ;
+0_00:23:04	Dégelis	Gaspé	46kWh	215Wh/km ;
+-
+0_00:25:17	Paspébiac	Amqui	38kWh	170Wh/km ;
+0_00:48:46	Chandler	Matane	43kWh	218Wh/km ;
+0_00:30:04	Gaspé	Matane	46kWh	244Wh/km ;
+-
+0_00:39:39	Dégelis	Murdochville	31kWh	167Wh/km ;
+0_00:33:39	Paspébiac	Rimouski	36kWh	154Wh/km ;
+0_00:02:32	Paspébiac	Rimouski	32kWh	163Wh/km ;
+-
+0_00:17:54	Gaspé	Pointe-à-la-Croix	41kWh	219Wh/km ;
+0_00:14:23	Chandler	Pointe-à-la-Croix	24kWh	182Wh/km ;
+0_00:24:31	Carleton-sur-Mer	Dégelis	36kWh	170Wh/km ;
+-
+0_00:30:06	Amqui	Murdochville	26kWh	155Wh/km ;
+0_00:44:28	New_Richmond	Dégelis	34kWh	171Wh/km ;
+0_00:58:27	Murdochville	Dégelis	26kWh	159Wh/km ;
+-
+0_00:21:33	Rimouski	Paspébiac	46kWh	178Wh/km ;
+0_00:05:53	Percé	Matane	41kWh	157Wh/km ;
+0_00:55:46	Paspébiac	Matane	25kWh	155Wh/km ;
+-
+0_00:01:56	Amqui	Dégelis	21kWh	164Wh/km ;
+0_00:14:22	Amqui	Gaspé	40kWh	154Wh/km ;
+0_00:18:46	Mont-Joli-Normandin	Gaspé	47kWh	228Wh/km ;
+-
+0_00:05:07	New_Richmond	Gaspé	26kWh	186Wh/km ;
+0_00:24:00	Chandler	New_Richmond	26kWh	161Wh/km ;
+0_00:22:03	Percé	New_Richmond	30kWh	240Wh/km ;
+-
+0_00:31:52	Mont-Joli-Normandin	Gaspé	47kWh	239Wh/km ;
+0_00:52:28	Chandler	Rimouski	44kWh	158Wh/km ;
+0_00:09:45	Chandler	Rimouski	45kWh	208Wh/km ;
+-
+0_00:14:05	Paspébiac	Mont-Joli-Normandin	39kWh	151Wh/km ;
+0_00:15:16	New_Richmond	Dégelis	37kWh	237Wh/km ;
+0_00:26:48	Paspébiac	Dégelis	39kWh	192Wh/km ;
+-
+0_00:32:40	Paspébiac	Rimouski	37kWh	154Wh/km ;
+0_00:07:27	Carleton-sur-Mer	Amqui	31kWh	169Wh/km ;
+0_00:52:07	Amqui	Paspébiac	35kWh	214Wh/km ;
+-
+0_00:54:03	Carleton-sur-Mer	Rimouski	37kWh	187Wh/km ;
+0_00:20:47	Pointe-à-la-Croix	Dégelis	40kWh	208Wh/km ;
+0_00:34:12	Carleton-sur-Mer	Rimouski	46kWh	222Wh/km ;
+-
+0_00:10:51	Pointe-à-la-Croix	Gaspé	28kWh	217Wh/km ;
+0_00:14:24	Mont-Joli-Normandin	Chandler	26kWh	156Wh/km ;
+0_00:39:28	Matane	Chandler	36kWh	169Wh/km ;
+-
+0_00:33:33	New_Richmond	Dégelis	36kWh	151Wh/km ;
+0_00:37:58	Rimouski	Murdochville	35kWh	171Wh/km ;
+0_00:17:56	New_Richmond	Rimouski	45kWh	230Wh/km ;
+-
+0_00:01:02	Gaspé	Matane	45kWh	238Wh/km ;
+0_00:23:53	Rimouski	Gaspé	38kWh	246Wh/km ;
+0_00:46:19	Rimouski	Chandler	34kWh	209Wh/km ;
+-
+0_00:28:49	Rimouski	Gaspé	45kWh	167Wh/km ;
+0_00:35:48	Dégelis	Gaspé	41kWh	152Wh/km ;
+0_00:07:53	Paspébiac	Pointe-à-la-Croix	21kWh	215Wh/km ;
+-
+0_00:25:23	Paspébiac	Pointe-à-la-Croix	25kWh	182Wh/km ;
+0_00:52:16	Mont-Joli-Normandin	Percé	33kWh	169Wh/km ;
+0_00:44:20	Mont-Joli-Normandin	Percé	49kWh	222Wh/km ;
+-
+0_00:06:08	Murdochville	Chandler	22kWh	214Wh/km ;
+0_00:05:06	Murdochville	Gaspé	30kWh	241Wh/km ;
+0_00:31:48	Matane	Murdochville	39kWh	241Wh/km ;
+-
+0_00:04:24	Murdochville	Gaspé	28kWh	208Wh/km ;
+0_00:19:30	Amqui	Carleton-sur-Mer	38kWh	234Wh/km ;
+0_00:32:47	Gaspé	New_Richmond	26kWh	246Wh/km ;
+-
+0_00:53:51	Rimouski	Pointe-à-la-Croix	37kWh	238Wh/km ;
+0_00:43:01	Gaspé	Mont-Joli-Normandin	47kWh	187Wh/km ;
+0_00:53:10	Chandler	Mont-Joli-Normandin	34kWh	154Wh/km ;
+-
+0_00:28:41	Amqui	Gaspé	26kWh	161Wh/km ;
+0_00:15:48	Amqui	Gaspé	32kWh	215Wh/km ;
+0_00:45:22	Murdochville	Gaspé	22kWh	204Wh/km ;
+-
+0_00:12:29	Dégelis	Chandler	44kWh	239Wh/km ;
+0_00:07:00	Dégelis	Gaspé	36kWh	226Wh/km ;
+0_00:31:54	Dégelis	Carleton-sur-Mer	46kWh	237Wh/km ;
+-
+0_00:02:30	Chandler	Mont-Joli-Normandin	44kWh	161Wh/km ;
+0_00:42:34	Percé	Mont-Joli-Normandin	45kWh	155Wh/km ;
+0_00:25:14	Matane	Gaspé	37kWh	158Wh/km ;
+-
+0_00:10:27	Dégelis	Paspébiac	30kWh	188Wh/km ;
+0_00:35:22	Rimouski	Paspébiac	38kWh	236Wh/km ;
+0_00:58:14	Chandler	Murdochville	50kWh	250Wh/km ;
+-
+0_01:00:00	Rimouski	Chandler	44kWh	247Wh/km ;
+0_00:07:20	Percé	New_Richmond	30kWh	244Wh/km ;
+0_00:15:50	Percé	Dégelis	39kWh	238Wh/km ;
+-
+0_00:18:55	Carleton-sur-Mer	Gaspé	22kWh	202Wh/km ;
+0_00:21:50	Matane	New_Richmond	30kWh	162Wh/km ;
+0_00:45:05	Gaspé	New_Richmond	26kWh	242Wh/km ;
+-
+0_00:37:16	Dégelis	Percé	48kWh	179Wh/km ;
+0_00:28:47	Murdochville	Percé	18kWh	175Wh/km ;
+0_00:57:41	Dégelis	Percé	50kWh	217Wh/km ;
+-
+0_00:40:39	Paspébiac	Amqui	44kWh	176Wh/km ;
+0_00:19:10	Carleton-sur-Mer	Chandler	26kWh	154Wh/km ;
+0_00:28:26	Paspébiac	Amqui	41kWh	214Wh/km ;
+-
+0_00:54:37	Murdochville	Dégelis	32kWh	211Wh/km ;
+0_00:27:10	Gaspé	Pointe-à-la-Croix	25kWh	210Wh/km ;
+0_00:00:48	New_Richmond	Dégelis	40kWh	206Wh/km ;
+-
+0_00:58:12	Percé	Murdochville	36kWh	239Wh/km ;
+0_00:38:53	Carleton-sur-Mer	Rimouski	43kWh	195Wh/km ;
+0_00:42:22	Percé	Murdochville	42kWh	207Wh/km ;
+-
+0_00:01:32	Mont-Joli-Normandin	New_Richmond	41kWh	225Wh/km ;
+0_00:44:47	Dégelis	Mont-Joli-Normandin	23kWh	199Wh/km ;
+0_00:59:11	Chandler	New_Richmond	15kWh	159Wh/km ;
+-
+0_00:01:23	Rimouski	Chandler	47kWh	152Wh/km ;
+0_00:09:06	Rimouski	Percé	36kWh	189Wh/km ;
+0_00:56:30	Matane	Gaspé	35kWh	189Wh/km ;
+-
+0_00:00:19	Percé	Matane	35kWh	160Wh/km ;
+0_00:26:53	Percé	Matane	46kWh	159Wh/km ;
+0_00:01:48	Mont-Joli-Normandin	New_Richmond	46kWh	224Wh/km ;
+-
+0_00:22:29	Mont-Joli-Normandin	New_Richmond	46kWh	237Wh/km ;
+0_00:17:13	Pointe-à-la-Croix	Paspébiac	24kWh	243Wh/km ;
+0_00:12:31	Matane	New_Richmond	40kWh	225Wh/km ;
+-
+0_00:37:40	Mont-Joli-Normandin	Carleton-sur-Mer	41kWh	226Wh/km ;
+0_00:27:23	Dégelis	Gaspé	48kWh	157Wh/km ;
+0_00:08:10	Rimouski	Gaspé	46kWh	193Wh/km ;
+-
+0_00:48:11	Gaspé	Amqui	38kWh	166Wh/km ;
+0_00:57:48	Rimouski	Percé	32kWh	152Wh/km ;
+0_00:30:43	Dégelis	Gaspé	46kWh	196Wh/km ;
+-
+0_00:30:30	New_Richmond	Rimouski	38kWh	199Wh/km ;
+0_00:35:34	New_Richmond	Rimouski	49kWh	239Wh/km ;
+0_00:58:49	Murdochville	Gaspé	35kWh	226Wh/km ;
+-
+0_00:22:09	Percé	Carleton-sur-Mer	21kWh	153Wh/km ;
+0_00:03:49	Rimouski	Gaspé	36kWh	240Wh/km ;
+0_00:21:46	Percé	Rimouski	36kWh	234Wh/km ;
+-
+0_00:45:36	Chandler	Pointe-à-la-Croix	25kWh	162Wh/km ;
+0_00:44:55	Rimouski	Pointe-à-la-Croix	33kWh	213Wh/km ;
+0_00:08:45	New_Richmond	Rimouski	32kWh	165Wh/km ;
+-
+0_00:51:23	Gaspé	Amqui	36kWh	169Wh/km ;
+0_00:50:53	Mont-Joli-Normandin	Paspébiac	29kWh	159Wh/km ;
+0_00:19:20	Gaspé	Amqui	41kWh	199Wh/km ;
+-
+0_00:04:07	Mont-Joli-Normandin	New_Richmond	36kWh	223Wh/km ;
+0_00:39:39	Gaspé	Carleton-sur-Mer	22kWh	223Wh/km ;
+0_00:52:42	Chandler	Murdochville	29kWh	189Wh/km ;
+-
+0_00:41:41	Mont-Joli-Normandin	Gaspé	43kWh	155Wh/km ;
+0_00:30:05	Carleton-sur-Mer	Percé	33kWh	248Wh/km ;
+0_00:06:46	Rimouski	Gaspé	50kWh	162Wh/km ;
+-
+0_00:38:28	Carleton-sur-Mer	Chandler	23kWh	224Wh/km ;
+0_00:57:17	Murdochville	Percé	24kWh	250Wh/km ;
+0_00:32:28	Pointe-à-la-Croix	Percé	27kWh	242Wh/km ;
+-
+0_00:43:08	Amqui	Percé	35kWh	195Wh/km ;
+0_00:17:00	Amqui	Rimouski	17kWh	205Wh/km ;
+0_00:26:54	Amqui	Percé	27kWh	173Wh/km ;
+-
+0_00:40:37	Rimouski	Chandler	38kWh	156Wh/km ;
+0_00:10:30	Dégelis	Gaspé	42kWh	210Wh/km ;
+0_00:35:30	Rimouski	Percé	44kWh	229Wh/km ;
+-
+0_00:28:04	Matane	Percé	37kWh	195Wh/km ;
+0_00:06:26	Rimouski	Percé	34kWh	162Wh/km ;
+0_00:27:07	Paspébiac	Dégelis	32kWh	152Wh/km ;
+-
+0_00:06:39	Murdochville	Chandler	39kWh	226Wh/km ;
+0_00:43:43	Carleton-sur-Mer	Percé	20kWh	222Wh/km ;
+0_00:46:55	New_Richmond	Chandler	37kWh	230Wh/km ;
+-
+0_00:45:34	Percé	Amqui	34kWh	214Wh/km ;
+0_00:54:37	Paspébiac	Matane	43kWh	245Wh/km ;
+0_00:12:52	Chandler	Mont-Joli-Normandin	39kWh	217Wh/km ;
+-
+0_00:07:35	Dégelis	Chandler	49kWh	173Wh/km ;
+0_00:13:17	Percé	Matane	49kWh	229Wh/km ;
+0_00:10:55	Amqui	Chandler	38kWh	231Wh/km ;
+-
+0_00:10:17	Pointe-à-la-Croix	Percé	32kWh	213Wh/km ;
+0_00:09:49	Pointe-à-la-Croix	Percé	36kWh	234Wh/km ;
+0_00:01:18	Pointe-à-la-Croix	Percé	33kWh	197Wh/km ;
+-
+0_00:09:45	Amqui	Rimouski	23kWh	248Wh/km ;
+0_00:59:07	Amqui	Gaspé	50kWh	203Wh/km ;
+0_00:08:33	Mont-Joli-Normandin	Chandler	41kWh	242Wh/km ;
+-
+0_00:02:15	Percé	Matane	33kWh	190Wh/km ;
+0_00:39:39	Chandler	Matane	40kWh	218Wh/km ;
+0_00:53:42	Rimouski	Paspébiac	46kWh	226Wh/km ;
+-
+0_00:36:42	Percé	Matane	50kWh	158Wh/km ;
+0_00:17:31	Chandler	Rimouski	34kWh	216Wh/km ;
+0_00:15:54	Chandler	Rimouski	41kWh	217Wh/km ;
+-
+0_00:02:01	New_Richmond	Amqui	35kWh	205Wh/km ;
+0_00:26:27	Carleton-sur-Mer	Dégelis	27kWh	177Wh/km ;
+0_00:38:35	Murdochville	Dégelis	31kWh	194Wh/km ;
+-
+0_00:29:14	Chandler	Pointe-à-la-Croix	39kWh	244Wh/km ;
+0_00:58:59	Mont-Joli-Normandin	New_Richmond	45kWh	228Wh/km ;
+0_00:31:16	Chandler	Pointe-à-la-Croix	31kWh	230Wh/km ;
+-
+0_00:02:53	Pointe-à-la-Croix	Chandler	20kWh	156Wh/km ;
+0_00:17:55	New_Richmond	Percé	30kWh	224Wh/km ;
+0_00:55:22	New_Richmond	Chandler	33kWh	232Wh/km ;
+-
+0_00:44:13	Gaspé	New_Richmond	30kWh	190Wh/km ;
+0_00:47:39	Gaspé	Murdochville	27kWh	174Wh/km ;
+0_00:13:16	Gaspé	Murdochville	46kWh	246Wh/km ;
+-
+0_00:12:11	Carleton-sur-Mer	Chandler	30kWh	218Wh/km ;
+0_00:02:25	Percé	New_Richmond	23kWh	247Wh/km ;
+0_00:24:36	Percé	Murdochville	34kWh	248Wh/km ;
+-
+0_00:41:49	Dégelis	New_Richmond	50kWh	216Wh/km ;
+0_00:40:38	Gaspé	Amqui	43kWh	249Wh/km ;
+0_00:45:53	Rimouski	Paspébiac	23kWh	151Wh/km ;
+-
+0_00:52:07	Mont-Joli-Normandin	Gaspé	40kWh	167Wh/km ;
+0_00:02:11	Percé	Mont-Joli-Normandin	47kWh	195Wh/km ;
+0_00:41:25	Mont-Joli-Normandin	Chandler	31kWh	177Wh/km ;
+-
+0_00:52:10	Chandler	Murdochville	36kWh	229Wh/km ;
+0_00:59:31	Chandler	Amqui	45kWh	164Wh/km ;
+0_00:31:13	Percé	Amqui	34kWh	161Wh/km ;
+-
+0_00:37:35	Matane	Murdochville	28kWh	170Wh/km ;
+0_00:06:04	Amqui	Gaspé	47kWh	167Wh/km ;
+0_00:42:14	Amqui	Gaspé	50kWh	152Wh/km ;
+-
+0_00:51:47	Gaspé	Murdochville	31kWh	161Wh/km ;
+0_00:33:23	Paspébiac	Dégelis	34kWh	155Wh/km ;
+0_00:20:07	Paspébiac	Dégelis	35kWh	172Wh/km ;
+-
+0_00:19:14	Mont-Joli-Normandin	Percé	27kWh	168Wh/km ;
+0_00:20:37	Amqui	Percé	36kWh	222Wh/km ;
+0_00:50:58	Paspébiac	Mont-Joli-Normandin	38kWh	196Wh/km ;
+-
+0_00:21:05	Percé	Mont-Joli-Normandin	40kWh	231Wh/km ;
+0_00:42:10	Rimouski	Gaspé	37kWh	232Wh/km ;
+0_00:36:52	Dégelis	Percé	36kWh	213Wh/km ;
+-
+0_00:40:45	Matane	Percé	30kWh	168Wh/km ;
+0_00:37:01	Matane	Dégelis	30kWh	226Wh/km ;
+0_00:05:41	Mont-Joli-Normandin	Chandler	31kWh	184Wh/km ;
+-
+0_00:48:31	Murdochville	Percé	17kWh	187Wh/km ;
+0_00:00:42	Pointe-à-la-Croix	Percé	28kWh	246Wh/km ;
+0_00:30:31	Carleton-sur-Mer	Matane	37kWh	195Wh/km ;
+-
+0_00:03:53	Paspébiac	Matane	42kWh	197Wh/km ;
+0_00:05:08	Paspébiac	Matane	44kWh	246Wh/km ;
+0_00:50:15	Murdochville	Gaspé	30kWh	189Wh/km ;
+-
+0_00:12:20	Gaspé	Rimouski	33kWh	200Wh/km ;
+0_00:59:22	Percé	Murdochville	29kWh	159Wh/km ;
+0_00:12:04	Chandler	Dégelis	23kWh	152Wh/km ;
+-
+0_00:33:48	Chandler	Mont-Joli-Normandin	42kWh	209Wh/km ;
+0_00:08:09	Gaspé	Mont-Joli-Normandin	47kWh	202Wh/km ;
+0_00:21:07	Murdochville	Percé	19kWh	156Wh/km ;
+-
+0_00:44:48	Percé	Matane	38kWh	239Wh/km ;
+0_00:08:30	Chandler	Matane	44kWh	242Wh/km ;
+0_00:07:12	Amqui	Dégelis	25kWh	228Wh/km ;
+-
+0_00:26:50	Murdochville	Rimouski	47kWh	230Wh/km ;
+0_00:49:27	Gaspé	Pointe-à-la-Croix	39kWh	240Wh/km ;
+0_00:29:45	Chandler	Pointe-à-la-Croix	19kWh	156Wh/km ;
+-
+0_00:08:00	Dégelis	Amqui	29kWh	219Wh/km ;
+0_00:01:20	Percé	Dégelis	46kWh	154Wh/km ;
+0_00:35:46	Dégelis	Paspébiac	45kWh	219Wh/km ;
+-
+0_00:09:52	Murdochville	Paspébiac	21kWh	187Wh/km ;
+0_00:48:57	Matane	Percé	33kWh	211Wh/km ;
+0_00:46:21	Paspébiac	Dégelis	31kWh	190Wh/km ;
+-
+0_00:59:31	Amqui	Chandler	30kWh	176Wh/km ;
+0_00:31:36	Matane	Gaspé	33kWh	198Wh/km ;
+0_00:12:28	Gaspé	Matane	43kWh	233Wh/km ;
+-
+0_00:45:23	Rimouski	Murdochville	28kWh	171Wh/km ;
+0_00:24:55	Rimouski	Carleton-sur-Mer	42kWh	244Wh/km ;
+0_00:08:45	Rimouski	Pointe-à-la-Croix	33kWh	203Wh/km ;
+-
+0_00:23:02	Gaspé	Murdochville	29kWh	171Wh/km ;
+0_00:06:20	Rimouski	Percé	45kWh	159Wh/km ;
+0_00:25:56	Rimouski	Percé	41kWh	170Wh/km ;
+-
+0_00:19:09	New_Richmond	Mont-Joli-Normandin	42kWh	223Wh/km ;
+0_00:41:54	Matane	Paspébiac	39kWh	222Wh/km ;
+0_00:11:02	Paspébiac	Mont-Joli-Normandin	36kWh	204Wh/km ;
+-
+0_00:59:04	Gaspé	Rimouski	35kWh	216Wh/km ;
+0_00:48:34	Chandler	Rimouski	40kWh	225Wh/km ;
+0_00:04:06	Pointe-à-la-Croix	Percé	25kWh	186Wh/km ;
+-
+0_00:48:28	Percé	Amqui	29kWh	176Wh/km ;
+0_00:11:06	Percé	Carleton-sur-Mer	24kWh	214Wh/km ;
+0_00:41:42	Chandler	Amqui	45kWh	218Wh/km ;
+-
+0_00:30:22	Mont-Joli-Normandin	New_Richmond	47kWh	245Wh/km ;
+0_00:46:04	Amqui	Carleton-sur-Mer	29kWh	196Wh/km ;
+0_00:50:47	Percé	Murdochville	21kWh	167Wh/km ;
+-
+0_00:41:17	Amqui	Chandler	39kWh	250Wh/km ;
+0_00:08:21	Matane	Chandler	30kWh	176Wh/km ;
+0_00:06:02	Pointe-à-la-Croix	Percé	28kWh	243Wh/km ;
+-
+0_00:08:35	Chandler	Matane	27kWh	179Wh/km ;
+0_00:45:02	Matane	Paspébiac	30kWh	175Wh/km ;
+0_00:50:01	Gaspé	Matane	29kWh	156Wh/km ;
+-
+0_00:52:52	Matane	Carleton-sur-Mer	27kWh	170Wh/km ;
+0_00:03:10	Mont-Joli-Normandin	Paspébiac	39kWh	250Wh/km ;
+0_00:38:11	Mont-Joli-Normandin	Paspébiac	32kWh	203Wh/km ;
+-
+0_00:25:12	Pointe-à-la-Croix	Chandler	35kWh	230Wh/km ;
+0_00:40:58	Mont-Joli-Normandin	Matane	11kWh	170Wh/km ;
+0_00:04:21	Pointe-à-la-Croix	Chandler	21kWh	154Wh/km ;
+-
+0_00:42:11	Amqui	Chandler	46kWh	199Wh/km ;
+0_00:22:23	Chandler	Amqui	42kWh	213Wh/km ;
+0_00:26:58	Matane	Gaspé	27kWh	152Wh/km ;
+-
+0_00:35:42	Dégelis	Gaspé	48kWh	155Wh/km ;
+0_00:41:08	Paspébiac	Murdochville	28kWh	228Wh/km ;
+0_00:54:01	Mont-Joli-Normandin	Chandler	32kWh	183Wh/km ;
+-
+0_00:22:25	Carleton-sur-Mer	Amqui	37kWh	200Wh/km ;
+0_00:53:33	Gaspé	Amqui	32kWh	201Wh/km ;
+0_00:20:20	Gaspé	Amqui	50kWh	223Wh/km ;
+-
+0_00:26:07	Gaspé	Amqui	50kWh	192Wh/km ;
+0_00:54:18	Matane	Paspébiac	37kWh	231Wh/km ;
+0_00:58:05	Murdochville	Rimouski	36kWh	182Wh/km ;
+-
+0_00:36:20	Murdochville	Chandler	17kWh	171Wh/km ;
+0_00:29:12	Dégelis	Gaspé	49kWh	213Wh/km ;
+0_00:36:41	Matane	Chandler	40kWh	243Wh/km ;
+-
+0_00:28:23	Pointe-à-la-Croix	Chandler	31kWh	163Wh/km ;
+0_00:52:03	Amqui	New_Richmond	41kWh	233Wh/km ;
+0_00:47:43	Matane	New_Richmond	44kWh	219Wh/km ;
+-
+0_00:52:38	Murdochville	Gaspé	28kWh	207Wh/km ;
+0_00:04:16	Pointe-à-la-Croix	Gaspé	22kWh	221Wh/km ;
+0_00:53:06	Chandler	New_Richmond	25kWh	176Wh/km ;
+-
+0_00:29:10	Chandler	Pointe-à-la-Croix	26kWh	174Wh/km ;
+0_00:38:40	Mont-Joli-Normandin	Percé	35kWh	224Wh/km ;
+0_00:05:24	Dégelis	Chandler	34kWh	179Wh/km ;
+-
+0_00:50:15	Percé	Pointe-à-la-Croix	33kWh	150Wh/km ;
+0_00:15:09	Gaspé	Mont-Joli-Normandin	25kWh	155Wh/km ;
+0_00:22:54	Chandler	Mont-Joli-Normandin	44kWh	226Wh/km ;
+-
+0_00:51:40	Chandler	Mont-Joli-Normandin	44kWh	233Wh/km ;
+0_00:33:02	Percé	Mont-Joli-Normandin	28kWh	173Wh/km ;
+0_00:53:18	Chandler	Murdochville	45kWh	223Wh/km ;
+-
+0_00:26:24	Rimouski	Paspébiac	43kWh	188Wh/km ;
+0_00:57:38	Dégelis	Percé	33kWh	180Wh/km ;
+0_00:34:00	Dégelis	Percé	38kWh	219Wh/km ;
+-
+0_00:04:05	Percé	Rimouski	41kWh	165Wh/km ;
+0_00:30:47	Amqui	Gaspé	37kWh	154Wh/km ;
+0_00:43:12	Mont-Joli-Normandin	Paspébiac	35kWh	209Wh/km ;
+-
+0_00:37:38	Murdochville	Chandler	18kWh	199Wh/km ;
+0_00:21:29	Murdochville	Percé	49kWh	234Wh/km ;
+0_00:58:04	Carleton-sur-Mer	Chandler	31kWh	228Wh/km ;
+-
+0_00:57:54	Pointe-à-la-Croix	Chandler	31kWh	247Wh/km ;
+0_00:38:03	New_Richmond	Rimouski	36kWh	186Wh/km ;
+0_00:50:21	Pointe-à-la-Croix	Percé	24kWh	192Wh/km ;
+-
+0_00:40:50	Matane	Paspébiac	45kWh	205Wh/km ;
+0_00:17:00	Percé	Matane	43kWh	202Wh/km ;
+0_00:13:19	Percé	Matane	48kWh	215Wh/km ;
+-
+0_00:05:08	New_Richmond	Dégelis	50kWh	236Wh/km ;
+0_00:07:56	New_Richmond	Rimouski	38kWh	220Wh/km ;
+0_00:29:54	Pointe-à-la-Croix	Dégelis	33kWh	203Wh/km ;
+-
+0_00:28:08	Gaspé	Pointe-à-la-Croix	22kWh	204Wh/km ;
+0_00:47:41	Dégelis	New_Richmond	39kWh	187Wh/km ;
+0_00:42:04	Mont-Joli-Normandin	New_Richmond	42kWh	234Wh/km ;
+-
+0_00:42:46	Percé	Matane	44kWh	171Wh/km ;
+0_00:08:09	Rimouski	Paspébiac	41kWh	236Wh/km ;
+0_00:39:09	Dégelis	Carleton-sur-Mer	45kWh	238Wh/km ;
+-
+0_00:31:00	Mont-Joli-Normandin	Dégelis	21kWh	229Wh/km ;
+0_00:27:39	Mont-Joli-Normandin	Paspébiac	38kWh	200Wh/km ;
+0_00:02:23	Paspébiac	Mont-Joli-Normandin	39kWh	217Wh/km ;
+-
+0_00:18:01	Paspébiac	Dégelis	41kWh	232Wh/km ;
+0_00:29:54	Mont-Joli-Normandin	Gaspé	41kWh	248Wh/km ;
+0_00:04:41	Rimouski	Paspébiac	43kWh	158Wh/km ;
+-
+0_00:35:21	Rimouski	New_Richmond	29kWh	150Wh/km ;
+0_00:05:52	Carleton-sur-Mer	Mont-Joli-Normandin	35kWh	229Wh/km ;
+0_00:15:04	Dégelis	New_Richmond	47kWh	185Wh/km ;
+-
+0_00:03:06	Matane	Paspébiac	39kWh	168Wh/km ;
+0_00:07:36	Dégelis	Chandler	39kWh	177Wh/km ;
+0_00:18:09	Matane	Gaspé	33kWh	217Wh/km ;
+-
+0_00:20:46	Rimouski	New_Richmond	45kWh	201Wh/km ;
+0_00:47:33	Pointe-à-la-Croix	Carleton-sur-Mer	5kWh	164Wh/km ;
+0_00:30:21	Amqui	Carleton-sur-Mer	36kWh	233Wh/km ;
+-
+0_00:12:09	Matane	Gaspé	48kWh	196Wh/km ;
+0_00:14:36	Rimouski	Gaspé	50kWh	216Wh/km ;
+0_00:34:53	Pointe-à-la-Croix	Chandler	35kWh	174Wh/km ;
+-
+0_00:05:14	Dégelis	Carleton-sur-Mer	35kWh	213Wh/km ;
+0_00:38:21	Mont-Joli-Normandin	Paspébiac	39kWh	159Wh/km ;
+0_00:18:41	Amqui	Paspébiac	44kWh	170Wh/km ;
+-
+0_00:16:03	Dégelis	Percé	42kWh	167Wh/km ;
+0_00:26:54	Mont-Joli-Normandin	Percé	27kWh	170Wh/km ;
+0_00:40:22	Percé	Amqui	29kWh	190Wh/km ;
+-
+0_00:23:55	New_Richmond	Mont-Joli-Normandin	28kWh	164Wh/km ;
+0_00:07:17	New_Richmond	Matane	41kWh	249Wh/km ;
+0_00:06:02	Carleton-sur-Mer	Matane	34kWh	184Wh/km ;
+-
+0_00:59:53	Dégelis	Murdochville	42kWh	206Wh/km ;
+0_00:48:37	Dégelis	Percé	50kWh	237Wh/km ;
+0_00:11:21	Chandler	Dégelis	29kWh	157Wh/km ;
+-
+0_00:55:41	Murdochville	Chandler	20kWh	166Wh/km ;
+0_00:45:09	Chandler	Pointe-à-la-Croix	30kWh	239Wh/km ;
+0_00:37:57	Dégelis	Pointe-à-la-Croix	41kWh	216Wh/km ;
+-
+0_00:04:53	Mont-Joli-Normandin	Percé	30kWh	192Wh/km ;
+0_00:44:24	Percé	Pointe-à-la-Croix	17kWh	178Wh/km ;
+0_00:44:30	Amqui	Gaspé	24kWh	153Wh/km ;
+-
+0_00:03:06	Gaspé	Matane	31kWh	163Wh/km ;
+0_00:03:36	Paspébiac	Pointe-à-la-Croix	24kWh	241Wh/km ;
+0_00:13:57	Chandler	Matane	35kWh	196Wh/km ;
+-
+0_00:32:10	Rimouski	Murdochville	28kWh	185Wh/km ;
+0_00:42:20	Murdochville	Percé	33kWh	187Wh/km ;
+0_00:20:28	Rimouski	Carleton-sur-Mer	34kWh	189Wh/km ;
+-
+0_00:46:54	Carleton-sur-Mer	Dégelis	47kWh	205Wh/km ;
+0_00:16:43	Gaspé	Pointe-à-la-Croix	35kWh	162Wh/km ;
+0_00:49:33	Murdochville	Dégelis	50kWh	241Wh/km ;
+-
+0_00:04:06	Murdochville	Percé	30kWh	237Wh/km ;
+0_00:17:20	Matane	Percé	37kWh	248Wh/km ;
+0_00:16:54	Paspébiac	Rimouski	37kWh	249Wh/km ;
+-
+0_00:25:46	Chandler	Carleton-sur-Mer	22kWh	246Wh/km ;
+0_00:54:06	New_Richmond	Percé	20kWh	176Wh/km ;
+0_00:22:23	Carleton-sur-Mer	Gaspé	21kWh	175Wh/km ;
+-
+0_00:43:00	Carleton-sur-Mer	Mont-Joli-Normandin	43kWh	244Wh/km ;
+0_00:52:37	Chandler	New_Richmond	24kWh	197Wh/km ;
+0_00:42:11	Carleton-sur-Mer	Mont-Joli-Normandin	28kWh	161Wh/km ;
+-
+0_00:28:03	Carleton-sur-Mer	Paspébiac	23kWh	236Wh/km ;
+0_00:08:42	Dégelis	Pointe-à-la-Croix	41kWh	215Wh/km ;
+0_00:22:13	Chandler	Pointe-à-la-Croix	35kWh	185Wh/km ;
+-
+0_00:20:24	Mont-Joli-Normandin	Percé	39kWh	217Wh/km ;
+0_00:04:09	Amqui	Chandler	37kWh	239Wh/km ;
+0_00:22:53	Carleton-sur-Mer	Dégelis	36kWh	223Wh/km ;
+-
+0_00:00:21	Dégelis	Carleton-sur-Mer	43kWh	235Wh/km ;
+0_00:51:20	Pointe-à-la-Croix	Percé	49kWh	232Wh/km ;
+0_00:08:48	Rimouski	Murdochville	41kWh	250Wh/km ;
+-
+0_00:13:26	Pointe-à-la-Croix	Chandler	23kWh	176Wh/km ;
+0_00:14:38	New_Richmond	Percé	26kWh	185Wh/km ;
+0_00:33:13	Carleton-sur-Mer	Percé	29kWh	223Wh/km ;
+-
+0_00:36:42	Rimouski	Gaspé	50kWh	241Wh/km ;
+0_00:47:45	Mont-Joli-Normandin	Percé	44kWh	248Wh/km ;
+0_00:04:53	Murdochville	Rimouski	25kWh	167Wh/km ;
+-
+0_00:18:25	Matane	New_Richmond	26kWh	152Wh/km ;
+0_00:24:26	Chandler	Mont-Joli-Normandin	48kWh	150Wh/km ;
+0_00:53:20	Paspébiac	Mont-Joli-Normandin	43kWh	245Wh/km ;
+-
+0_00:48:15	Dégelis	Percé	46kWh	185Wh/km ;
+0_00:40:55	Mont-Joli-Normandin	Percé	39kWh	244Wh/km ;
+0_00:21:34	Dégelis	Carleton-sur-Mer	47kWh	240Wh/km ;
+-
+0_00:02:19	Chandler	Dégelis	28kWh	161Wh/km ;
+0_00:12:07	Pointe-à-la-Croix	Gaspé	36kWh	235Wh/km ;
+0_00:50:59	Rimouski	Gaspé	45kWh	221Wh/km ;
+-
+0_00:38:45	New_Richmond	Gaspé	37kWh	221Wh/km ;
+0_00:44:38	Percé	Rimouski	48kWh	184Wh/km ;
+0_00:06:45	Chandler	Rimouski	48kWh	229Wh/km ;
+-
+0_00:30:51	Mont-Joli-Normandin	Carleton-sur-Mer	33kWh	212Wh/km ;
+0_00:27:51	Murdochville	Rimouski	27kWh	172Wh/km ;
+0_00:37:10	Matane	Carleton-sur-Mer	24kWh	163Wh/km ;
+-
+0_00:55:04	Murdochville	Paspébiac	24kWh	208Wh/km ;
+0_00:27:12	Pointe-à-la-Croix	Paspébiac	18kWh	190Wh/km ;
+0_00:33:30	New_Richmond	Pointe-à-la-Croix	7kWh	226Wh/km ;
+-
+0_00:33:10	Pointe-à-la-Croix	Carleton-sur-Mer	9kWh	207Wh/km ;
+0_00:25:22	Murdochville	Gaspé	37kWh	232Wh/km ;
+0_00:44:38	Chandler	New_Richmond	26kWh	191Wh/km ;
+-
+0_00:23:01	Percé	Murdochville	35kWh	223Wh/km ;
+0_00:20:49	New_Richmond	Pointe-à-la-Croix	12kWh	249Wh/km ;
+0_00:05:45	Chandler	Murdochville	26kWh	237Wh/km ;
+-
+0_00:48:20	Rimouski	Murdochville	33kWh	212Wh/km ;
+0_00:34:14	Murdochville	Chandler	28kWh	178Wh/km ;
+0_00:37:15	Rimouski	Carleton-sur-Mer	31kWh	172Wh/km ;
+-
+0_00:58:31	Mont-Joli-Normandin	Chandler	41kWh	249Wh/km ;
+0_00:32:16	Mont-Joli-Normandin	Chandler	38kWh	227Wh/km ;
+0_00:13:03	New_Richmond	Chandler	16kWh	177Wh/km ;
+-
+0_00:32:12	Murdochville	Gaspé	40kWh	239Wh/km ;
+0_00:21:12	Murdochville	Chandler	31kWh	215Wh/km ;
+0_00:15:01	Mont-Joli-Normandin	Murdochville	33kWh	217Wh/km ;
+-
+0_00:25:16	Carleton-sur-Mer	Chandler	16kWh	155Wh/km ;
+0_00:43:33	Percé	Murdochville	30kWh	153Wh/km ;
+0_00:34:00	Mont-Joli-Normandin	New_Richmond	32kWh	158Wh/km ;
+-
+0_00:37:39	Dégelis	Gaspé	41kWh	214Wh/km ;
+0_00:21:20	Mont-Joli-Normandin	Gaspé	47kWh	150Wh/km ;
+0_00:53:27	Chandler	Rimouski	36kWh	224Wh/km ;
+-
+0_00:38:02	Gaspé	Mont-Joli-Normandin	37kWh	233Wh/km ;
+0_00:18:49	Percé	Dégelis	43kWh	194Wh/km ;
+0_00:05:08	Murdochville	Rimouski	35kWh	170Wh/km ;
+-
+0_00:20:00	Percé	New_Richmond	24kWh	197Wh/km ;
+0_00:52:43	Carleton-sur-Mer	Gaspé	22kWh	163Wh/km ;
+0_00:39:56	Carleton-sur-Mer	Chandler	18kWh	197Wh/km ;
+-
+0_00:36:08	Paspébiac	Dégelis	46kWh	233Wh/km ;
+0_00:57:57	New_Richmond	Murdochville	8kWh	224Wh/km ;
+0_00:51:17	Matane	Gaspé	40kWh	244Wh/km ;
+-
+0_00:31:14	Percé	Rimouski	50kWh	182Wh/km ;
+0_00:51:50	Gaspé	Dégelis	43kWh	185Wh/km ;
+0_00:58:50	Gaspé	Dégelis	49kWh	208Wh/km ;
+-
+0_00:02:10	Mont-Joli-Normandin	New_Richmond	35kWh	162Wh/km ;
+0_00:20:25	Percé	Carleton-sur-Mer	18kWh	172Wh/km ;
+0_00:14:49	Mont-Joli-Normandin	Carleton-sur-Mer	35kWh	209Wh/km ;
+-
+0_00:11:07	Percé	Murdochville	26kWh	162Wh/km ;
+0_00:25:52	Murdochville	Gaspé	35kWh	215Wh/km ;
+0_00:59:08	Gaspé	Carleton-sur-Mer	25kWh	198Wh/km ;
+-
+0_00:32:54	Gaspé	Mont-Joli-Normandin	35kWh	200Wh/km ;
+0_00:55:24	Chandler	Matane	31kWh	174Wh/km ;
+0_00:20:16	Chandler	Mont-Joli-Normandin	48kWh	249Wh/km ;
+-
+0_00:15:20	Paspébiac	Rimouski	41kWh	240Wh/km ;
+0_00:41:28	Mont-Joli-Normandin	Dégelis	16kWh	153Wh/km ;
+0_00:23:35	Mont-Joli-Normandin	Percé	30kWh	187Wh/km ;
+-
+0_00:54:58	Mont-Joli-Normandin	Chandler	47kWh	248Wh/km ;
+0_00:28:32	Gaspé	Mont-Joli-Normandin	31kWh	192Wh/km ;
+0_00:41:23	Mont-Joli-Normandin	Chandler	28kWh	184Wh/km ;
+-
+0_00:23:09	Percé	Dégelis	43kWh	207Wh/km ;
+0_00:11:34	Paspébiac	Dégelis	32kWh	182Wh/km ;
+0_00:42:56	New_Richmond	Amqui	29kWh	179Wh/km ;
+-
+0_00:21:13	Matane	Chandler	32kWh	165Wh/km ;
+0_00:37:35	Matane	Chandler	46kWh	173Wh/km ;
+0_00:50:51	Murdochville	Chandler	38kWh	204Wh/km ;
+-
+0_00:43:23	New_Richmond	Percé	32kWh	214Wh/km ;
+0_00:22:06	Carleton-sur-Mer	Gaspé	24kWh	175Wh/km ;
+0_00:35:10	Percé	Carleton-sur-Mer	19kWh	175Wh/km ;
+-
+0_00:39:50	Carleton-sur-Mer	Dégelis	37kWh	207Wh/km ;
+0_00:42:06	Chandler	Dégelis	36kWh	239Wh/km ;
+0_00:48:50	Chandler	Dégelis	27kWh	156Wh/km ;
+-
+0_00:59:10	Dégelis	Chandler	36kWh	169Wh/km ;
+0_00:11:47	Rimouski	Percé	34kWh	216Wh/km ;
+0_00:27:28	Gaspé	Pointe-à-la-Croix	35kWh	216Wh/km ;
+-
+0_00:36:39	Dégelis	Gaspé	31kWh	180Wh/km ;
+0_00:07:45	Percé	Mont-Joli-Normandin	47kWh	195Wh/km ;
+0_00:58:11	Rimouski	Gaspé	39kWh	217Wh/km ;
+-
+0_00:24:33	New_Richmond	Percé	22kWh	172Wh/km ;
+0_00:09:31	Paspébiac	Matane	33kWh	190Wh/km ;
+0_00:06:47	Paspébiac	Amqui	36kWh	225Wh/km ;
+-
+0_00:39:55	Rimouski	Chandler	46kWh	218Wh/km ;
+0_00:55:51	Chandler	Rimouski	50kWh	165Wh/km ;
+0_00:57:35	Chandler	Rimouski	42kWh	205Wh/km ;
+-
+0_00:35:58	Percé	Matane	45kWh	196Wh/km ;
+0_00:53:43	Rimouski	Paspébiac	50kWh	236Wh/km ;
+0_00:15:57	Percé	Pointe-à-la-Croix	22kWh	228Wh/km ;
+-
+0_00:47:14	Percé	Matane	31kWh	187Wh/km ;
+0_00:28:12	Gaspé	Murdochville	44kWh	217Wh/km ;
+0_00:27:34	Gaspé	Matane	43kWh	190Wh/km ;
+-
+0_00:06:25	Mont-Joli-Normandin	Paspébiac	41kWh	214Wh/km ;
+0_00:57:15	Rimouski	Percé	38kWh	236Wh/km ;
+0_00:45:54	Gaspé	Dégelis	38kWh	225Wh/km ;
+-
+0_00:17:46	New_Richmond	Gaspé	30kWh	233Wh/km ;
+0_00:48:25	Chandler	Pointe-à-la-Croix	15kWh	151Wh/km ;
+0_00:32:03	Gaspé	Pointe-à-la-Croix	36kWh	236Wh/km ;
+-
+0_00:28:22	Percé	Pointe-à-la-Croix	28kWh	169Wh/km ;
+0_00:20:29	Percé	Matane	33kWh	201Wh/km ;
+0_00:27:17	Chandler	Matane	36kWh	222Wh/km ;
+-
+0_00:17:18	Rimouski	Paspébiac	45kWh	183Wh/km ;
+0_00:08:58	Chandler	Pointe-à-la-Croix	24kWh	223Wh/km ;
+0_00:42:14	Amqui	Paspébiac	31kWh	156Wh/km ;
+-
+0_00:09:23	Rimouski	New_Richmond	41kWh	208Wh/km ;
+0_00:19:36	Pointe-à-la-Croix	Paspébiac	30kWh	220Wh/km ;
+0_00:40:21	Dégelis	New_Richmond	48kWh	216Wh/km ;
+-
+0_00:01:17	Dégelis	Carleton-sur-Mer	36kWh	213Wh/km ;
+0_00:55:06	Paspébiac	Dégelis	36kWh	156Wh/km ;
+0_00:19:23	Mont-Joli-Normandin	Paspébiac	43kWh	244Wh/km ;
+-
+0_00:48:49	Rimouski	Paspébiac	36kWh	176Wh/km ;
+0_00:32:41	Dégelis	Gaspé	33kWh	194Wh/km ;
+0_00:45:52	Rimouski	Chandler	30kWh	198Wh/km ;
+-
+0_00:24:41	Paspébiac	Mont-Joli-Normandin	42kWh	204Wh/km ;
+0_00:25:15	Amqui	Paspébiac	32kWh	193Wh/km ;
+0_00:41:11	Paspébiac	Mont-Joli-Normandin	40kWh	158Wh/km ;
+-
+0_00:20:05	Matane	Percé	43kWh	162Wh/km ;
+0_00:00:40	Dégelis	Percé	34kWh	156Wh/km ;
+0_00:34:47	Rimouski	New_Richmond	48kWh	247Wh/km ;
+-
+0_00:43:25	Carleton-sur-Mer	Gaspé	32kWh	209Wh/km ;
+0_00:23:54	Mont-Joli-Normandin	Paspébiac	41kWh	222Wh/km ;
+0_00:15:59	Amqui	Paspébiac	45kWh	171Wh/km ;
+-
+0_00:08:07	Percé	Murdochville	31kWh	200Wh/km ;
+0_00:16:29	Percé	Pointe-à-la-Croix	30kWh	198Wh/km ;
+0_00:24:18	Chandler	Murdochville	45kWh	216Wh/km ;
+-
+0_00:00:00	Rimouski	Percé	44kWh	175Wh/km ;
+0_00:09:14	Mont-Joli-Normandin	Percé	34kWh	203Wh/km ;
+0_00:01:50	New_Richmond	Mont-Joli-Normandin	43kWh	248Wh/km ;
+-
+0_00:04:13	Murdochville	Chandler	23kWh	189Wh/km ;
+0_00:37:27	New_Richmond	Gaspé	25kWh	182Wh/km ;
+0_00:02:25	New_Richmond	Amqui	36kWh	235Wh/km ;
+-
+0_00:49:33	Pointe-à-la-Croix	Chandler	20kWh	208Wh/km ;
+0_00:21:13	Murdochville	Chandler	29kWh	242Wh/km ;
+0_00:55:31	Murdochville	Gaspé	29kWh	210Wh/km ;
+-
+0_00:00:46	Carleton-sur-Mer	Dégelis	33kWh	200Wh/km ;
+0_00:30:58	Rimouski	Percé	42kWh	212Wh/km ;
+0_00:39:40	Mont-Joli-Normandin	Percé	32kWh	198Wh/km ;
+-
+0_00:36:13	Percé	New_Richmond	16kWh	158Wh/km ;
+0_00:29:31	New_Richmond	Percé	17kWh	177Wh/km ;
+0_00:31:19	Murdochville	Percé	33kWh	245Wh/km ;
+-
+0_00:15:29	Rimouski	New_Richmond	38kWh	200Wh/km ;
+0_00:19:45	Rimouski	New_Richmond	49kWh	245Wh/km ;
+0_00:33:39	New_Richmond	Chandler	26kWh	161Wh/km ;
+-
+0_00:29:02	Chandler	Mont-Joli-Normandin	41kWh	174Wh/km ;
+0_00:00:22	Dégelis	Paspébiac	30kWh	151Wh/km ;
+0_00:12:51	Paspébiac	Carleton-sur-Mer	20kWh	213Wh/km ;
+-
+0_00:29:24	Gaspé	Dégelis	50kWh	164Wh/km ;
+0_00:09:46	Rimouski	Paspébiac	37kWh	241Wh/km ;
+0_00:30:24	Rimouski	New_Richmond	25kWh	161Wh/km ;
+-
+0_00:59:46	Paspébiac	Pointe-à-la-Croix	23kWh	195Wh/km ;
+0_00:44:32	Paspébiac	Pointe-à-la-Croix	35kWh	237Wh/km ;
+0_00:20:35	Carleton-sur-Mer	Percé	19kWh	155Wh/km ;
+-
+0_00:36:10	Gaspé	Pointe-à-la-Croix	23kWh	166Wh/km ;
+0_00:39:44	Gaspé	Pointe-à-la-Croix	27kWh	236Wh/km ;
+0_00:50:24	Percé	New_Richmond	22kWh	153Wh/km ;
+-
+0_00:17:25	Rimouski	Chandler	43kWh	191Wh/km ;
+0_00:06:54	Amqui	Chandler	44kWh	172Wh/km ;
+0_00:44:16	Dégelis	Chandler	37kWh	171Wh/km ;
+-
+0_00:11:23	Paspébiac	Mont-Joli-Normandin	48kWh	211Wh/km ;
+0_00:00:02	Paspébiac	Mont-Joli-Normandin	35kWh	172Wh/km ;
+0_00:40:40	Murdochville	Gaspé	36kWh	234Wh/km ;
+-
+0_00:35:40	Paspébiac	Matane	25kWh	160Wh/km ;
+0_00:21:07	Amqui	Chandler	41kWh	249Wh/km ;
+0_00:26:33	Rimouski	Chandler	44kWh	198Wh/km ;
+-
+0_00:19:23	Gaspé	Pointe-à-la-Croix	24kWh	195Wh/km ;
+0_00:27:34	Gaspé	Pointe-à-la-Croix	37kWh	174Wh/km ;
+0_00:53:32	Chandler	Carleton-sur-Mer	40kWh	225Wh/km ;
+-
+0_00:20:12	Rimouski	Gaspé	38kWh	180Wh/km ;
+0_00:29:51	Rimouski	Paspébiac	27kWh	157Wh/km ;
+0_00:16:19	Dégelis	Percé	46kWh	223Wh/km ;
+-
+0_00:07:32	Pointe-à-la-Croix	Chandler	28kWh	153Wh/km ;
+0_00:33:12	Pointe-à-la-Croix	Chandler	50kWh	222Wh/km ;
+0_00:14:06	Matane	Rimouski	16kWh	165Wh/km ;
+-
+0_00:17:58	Gaspé	Matane	30kWh	150Wh/km ;
+0_00:10:41	Gaspé	Matane	44kWh	212Wh/km ;
+0_00:44:39	Percé	Pointe-à-la-Croix	35kWh	162Wh/km ;
+-
+0_00:24:31	Mont-Joli-Normandin	Chandler	41kWh	245Wh/km ;
+0_00:58:22	Amqui	Paspébiac	39kWh	172Wh/km ;
+0_00:01:23	Matane	Gaspé	35kWh	226Wh/km ;
+-
+0_00:28:44	Mont-Joli-Normandin	Murdochville	31kWh	204Wh/km ;
+0_00:35:40	Percé	New_Richmond	35kWh	249Wh/km ;
+0_00:29:24	Rimouski	Murdochville	44kWh	235Wh/km ;
+-
+0_00:10:41	Carleton-sur-Mer	Percé	35kWh	242Wh/km ;
+0_00:14:27	Carleton-sur-Mer	Chandler	27kWh	217Wh/km ;
+0_00:32:24	New_Richmond	Percé	29kWh	249Wh/km ;
+-
+0_00:38:37	Dégelis	Matane	25kWh	184Wh/km ;
+0_00:39:32	Rimouski	Chandler	44kWh	167Wh/km ;
+0_00:22:44	Dégelis	Chandler	42kWh	199Wh/km ;
+-
+0_00:59:43	Paspébiac	Dégelis	37kWh	190Wh/km ;
+0_00:52:23	Amqui	Chandler	34kWh	218Wh/km ;
+0_00:15:38	Dégelis	Matane	25kWh	199Wh/km ;
+-
+0_00:49:18	Mont-Joli-Normandin	Gaspé	44kWh	170Wh/km ;
+0_00:11:23	Rimouski	Gaspé	47kWh	190Wh/km ;
+0_00:13:23	Matane	Chandler	27kWh	162Wh/km ;
+-
+0_00:25:40	Murdochville	Rimouski	34kWh	188Wh/km ;
+0_00:43:08	New_Richmond	Rimouski	48kWh	224Wh/km ;
+0_00:51:42	Rimouski	Carleton-sur-Mer	38kWh	170Wh/km ;
+-
+0_00:36:19	Rimouski	Percé	34kWh	227Wh/km ;
+0_00:55:32	Dégelis	Mont-Joli-Normandin	17kWh	182Wh/km ;
+0_00:31:50	Chandler	Dégelis	27kWh	174Wh/km ;
+-
+0_00:15:40	Gaspé	Dégelis	50kWh	216Wh/km ;
+0_00:33:52	Rimouski	Percé	30kWh	152Wh/km ;
+0_00:07:00	Mont-Joli-Normandin	Paspébiac	35kWh	207Wh/km ;
+-
+0_00:27:42	Percé	Mont-Joli-Normandin	40kWh	153Wh/km ;
+0_00:01:22	Rimouski	New_Richmond	31kWh	158Wh/km ;
+0_00:20:37	Rimouski	Paspébiac	40kWh	201Wh/km ;
+-
+0_00:46:29	Gaspé	Mont-Joli-Normandin	26kWh	156Wh/km ;
+0_00:35:59	Rimouski	Chandler	34kWh	181Wh/km ;
+0_00:30:09	Rimouski	Percé	34kWh	198Wh/km ;
+-
+0_00:53:18	Chandler	Pointe-à-la-Croix	23kWh	200Wh/km ;
+0_00:59:29	Chandler	Pointe-à-la-Croix	35kWh	221Wh/km ;
+0_00:58:56	Percé	Pointe-à-la-Croix	45kWh	229Wh/km ;
+-
+0_00:14:32	Chandler	Amqui	32kWh	190Wh/km ;
+0_00:01:09	Gaspé	Amqui	36kWh	189Wh/km ;
+0_00:52:57	Pointe-à-la-Croix	Chandler	34kWh	231Wh/km ;
+-
+0_00:13:34	Percé	Amqui	37kWh	225Wh/km ;
+0_00:23:14	Chandler	Mont-Joli-Normandin	29kWh	168Wh/km ;
+0_00:38:52	Chandler	Pointe-à-la-Croix	26kWh	218Wh/km ;
+-
+0_00:03:42	Chandler	Dégelis	32kWh	179Wh/km ;
+0_00:57:45	Paspébiac	Dégelis	43kWh	229Wh/km ;
+0_00:31:30	Matane	Paspébiac	47kWh	184Wh/km ;
+-
+0_00:41:37	Dégelis	Murdochville	39kWh	238Wh/km ;
+0_00:02:19	Chandler	Matane	50kWh	198Wh/km ;
+0_00:55:00	Dégelis	Carleton-sur-Mer	33kWh	202Wh/km ;
+-
+0_00:37:20	Percé	Mont-Joli-Normandin	34kWh	192Wh/km ;
+0_00:02:45	Matane	Chandler	49kWh	156Wh/km ;
+0_00:18:43	Chandler	Matane	36kWh	231Wh/km ;
+-
+0_00:17:55	Chandler	Pointe-à-la-Croix	34kWh	175Wh/km ;
+0_00:02:37	Mont-Joli-Normandin	Paspébiac	32kWh	195Wh/km ;
+0_00:03:26	Dégelis	Paspébiac	39kWh	158Wh/km ;
+-
+0_00:37:29	Gaspé	Pointe-à-la-Croix	46kWh	204Wh/km ;
+0_00:07:00	Dégelis	Pointe-à-la-Croix	37kWh	224Wh/km ;
+0_00:34:59	Dégelis	Amqui	21kWh	160Wh/km ;
+-
+0_00:39:02	Dégelis	Percé	33kWh	181Wh/km ;
+0_00:45:15	Dégelis	Gaspé	36kWh	173Wh/km ;
+0_00:56:03	Percé	Rimouski	36kWh	216Wh/km ;
+-
+0_00:53:44	Rimouski	Gaspé	30kWh	155Wh/km ;
+0_00:51:04	Dégelis	Gaspé	39kWh	191Wh/km ;
+0_00:25:52	Chandler	Matane	47kWh	198Wh/km ;
+-
+0_00:35:54	Carleton-sur-Mer	Percé	26kWh	198Wh/km ;
+0_00:06:00	Pointe-à-la-Croix	Rimouski	32kWh	211Wh/km ;
+0_00:05:41	New_Richmond	Rimouski	39kWh	176Wh/km ;
+-
+0_00:10:15	Rimouski	Carleton-sur-Mer	42kWh	201Wh/km ;
+0_00:12:45	Amqui	New_Richmond	33kWh	220Wh/km ;
+0_00:51:19	Amqui	New_Richmond	29kWh	177Wh/km ;
+-
+0_00:29:19	Paspébiac	Carleton-sur-Mer	23kWh	231Wh/km ;
+0_00:54:39	Mont-Joli-Normandin	Percé	40kWh	215Wh/km ;
+0_00:44:31	Mont-Joli-Normandin	Gaspé	42kWh	234Wh/km ;
+-
+0_00:18:57	Percé	Murdochville	21kWh	214Wh/km ;
+0_00:00:15	Percé	Carleton-sur-Mer	21kWh	156Wh/km ;
+0_00:19:21	Percé	Murdochville	34kWh	192Wh/km ;
+-
+0_00:06:19	Carleton-sur-Mer	Percé	17kWh	159Wh/km ;
+0_00:43:33	Paspébiac	Dégelis	37kWh	222Wh/km ;
+0_00:15:39	Matane	Percé	39kWh	244Wh/km ;
+-
+0_00:13:21	Rimouski	Percé	24kWh	163Wh/km ;
+0_00:41:56	Dégelis	Gaspé	44kWh	220Wh/km ;
+0_00:06:05	Gaspé	Mont-Joli-Normandin	38kWh	169Wh/km ;
+-
+0_00:45:01	Chandler	Dégelis	50kWh	163Wh/km ;
+0_00:44:55	Dégelis	Carleton-sur-Mer	39kWh	188Wh/km ;
+0_00:30:38	Dégelis	Paspébiac	42kWh	201Wh/km ;
+-
+0_00:00:23	Percé	Rimouski	48kWh	176Wh/km ;
+0_00:29:00	Amqui	Percé	39kWh	239Wh/km ;
+0_00:31:22	Rimouski	Chandler	48kWh	244Wh/km ;
+-
+0_00:39:19	Mont-Joli-Normandin	Percé	39kWh	227Wh/km ;
+0_00:10:17	Murdochville	Chandler	45kWh	226Wh/km ;
+0_00:09:45	Rimouski	Gaspé	48kWh	229Wh/km ;
+-
+0_00:03:20	Matane	New_Richmond	32kWh	164Wh/km ;
+0_00:50:38	Pointe-à-la-Croix	Chandler	26kWh	180Wh/km ;
+0_00:49:57	Pointe-à-la-Croix	Gaspé	30kWh	206Wh/km ;
+-
+0_00:31:03	Matane	Chandler	42kWh	178Wh/km ;
+0_00:39:46	Chandler	Mont-Joli-Normandin	38kWh	198Wh/km ;
+0_00:00:35	Percé	Mont-Joli-Normandin	41kWh	210Wh/km ;
+-
+0_00:36:06	Paspébiac	Rimouski	44kWh	185Wh/km ;
+0_00:10:52	Percé	Mont-Joli-Normandin	48kWh	207Wh/km ;
+0_00:54:00	Mont-Joli-Normandin	Paspébiac	32kWh	198Wh/km ;
+-
+0_00:39:46	Chandler	Dégelis	50kWh	208Wh/km ;
+0_00:22:12	Chandler	Dégelis	45kWh	190Wh/km ;
+0_00:55:20	Dégelis	Murdochville	43kWh	208Wh/km ;
+-
+0_00:43:46	Pointe-à-la-Croix	Rimouski	38kWh	245Wh/km ;
+0_00:36:26	Percé	Mont-Joli-Normandin	49kWh	216Wh/km ;
+0_00:27:04	Gaspé	Mont-Joli-Normandin	32kWh	181Wh/km ;
+-
+0_00:17:45	Amqui	Gaspé	27kWh	164Wh/km ;
+0_00:21:48	Pointe-à-la-Croix	Gaspé	31kWh	231Wh/km ;
+0_00:50:37	Matane	Gaspé	41kWh	188Wh/km ;
+-
+0_00:30:53	Percé	Murdochville	19kWh	155Wh/km ;
+0_00:02:03	Pointe-à-la-Croix	Percé	42kWh	208Wh/km ;
+0_00:15:51	Chandler	Murdochville	27kWh	232Wh/km ;
+-
+0_00:21:24	Mont-Joli-Normandin	Chandler	46kWh	150Wh/km ;
+0_00:55:16	Mont-Joli-Normandin	Paspébiac	30kWh	157Wh/km ;
+0_00:29:26	Mont-Joli-Normandin	Chandler	32kWh	161Wh/km ;
+-
+0_00:47:52	Carleton-sur-Mer	Rimouski	34kWh	203Wh/km ;
+0_00:10:48	Percé	Matane	47kWh	245Wh/km ;
+0_00:53:40	Dégelis	Paspébiac	46kWh	225Wh/km ;
+-
+0_00:26:25	Dégelis	Paspébiac	37kWh	159Wh/km ;
+0_00:40:51	Percé	Amqui	29kWh	190Wh/km ;
+0_00:16:46	Percé	Amqui	46kWh	207Wh/km ;
+-
+0_00:24:38	Mont-Joli-Normandin	Carleton-sur-Mer	30kWh	179Wh/km ;
+0_00:46:15	Murdochville	Gaspé	22kWh	152Wh/km ;
+0_00:49:05	Pointe-à-la-Croix	Gaspé	50kWh	224Wh/km ;
+-
+0_00:07:40	Mont-Joli-Normandin	Chandler	32kWh	209Wh/km ;
+0_00:22:36	Dégelis	Gaspé	49kWh	242Wh/km ;
+0_00:43:18	Murdochville	Rimouski	41kWh	221Wh/km ;
+-
+0_00:29:30	Carleton-sur-Mer	Chandler	20kWh	150Wh/km ;
+0_00:46:47	Gaspé	New_Richmond	26kWh	165Wh/km ;
+0_00:48:09	Gaspé	New_Richmond	34kWh	250Wh/km ;
+-
+0_00:08:04	Murdochville	Rimouski	46kWh	235Wh/km ;
+0_00:39:33	Rimouski	Percé	42kWh	228Wh/km ;
+0_00:37:48	Rimouski	Percé	34kWh	228Wh/km ;
+-
+0_00:33:30	Carleton-sur-Mer	Dégelis	49kWh	218Wh/km ;
+0_00:10:06	Carleton-sur-Mer	Dégelis	38kWh	244Wh/km ;
+0_00:09:56	Murdochville	Dégelis	47kWh	246Wh/km ;
+-
+0_00:03:16	Mont-Joli-Normandin	Percé	39kWh	190Wh/km ;
+0_00:55:12	Murdochville	Gaspé	17kWh	190Wh/km ;
+0_00:48:45	Matane	Percé	36kWh	175Wh/km ;
+-
+0_00:32:59	Dégelis	Murdochville	33kWh	209Wh/km ;
+0_00:04:22	Paspébiac	Rimouski	29kWh	186Wh/km ;
+0_00:14:04	Paspébiac	Rimouski	47kWh	239Wh/km ;
+-
+0_00:08:09	Gaspé	New_Richmond	16kWh	173Wh/km ;
+0_00:55:51	Percé	Pointe-à-la-Croix	22kWh	186Wh/km ;
+0_00:37:34	Percé	Pointe-à-la-Croix	45kWh	244Wh/km ;
+-
+0_00:06:11	Matane	Percé	41kWh	240Wh/km ;
+0_00:08:31	Matane	Paspébiac	36kWh	172Wh/km ;
+0_00:08:30	Rimouski	Percé	46kWh	193Wh/km ;
+-
+0_00:32:13	Gaspé	Dégelis	33kWh	189Wh/km ;
+0_00:08:36	Gaspé	Dégelis	44kWh	236Wh/km ;
+0_00:29:22	Gaspé	Murdochville	18kWh	163Wh/km ;
+-
+0_00:25:51	Amqui	Percé	43kWh	241Wh/km ;
+0_00:10:48	Carleton-sur-Mer	Rimouski	47kWh	230Wh/km ;
+0_00:29:53	Amqui	Percé	36kWh	228Wh/km ;
+-
+0_00:25:35	Chandler	Amqui	33kWh	175Wh/km ;
+0_00:14:39	Mont-Joli-Normandin	Chandler	24kWh	151Wh/km ;
+0_00:07:15	Mont-Joli-Normandin	Chandler	42kWh	232Wh/km ;
+-
+0_00:50:49	Percé	Pointe-à-la-Croix	27kWh	206Wh/km ;
+0_00:10:30	Amqui	Carleton-sur-Mer	42kWh	249Wh/km ;
+0_00:08:36	Dégelis	Pointe-à-la-Croix	49kWh	246Wh/km ;
+-
+0_00:41:35	Murdochville	Percé	22kWh	175Wh/km ;
+0_00:34:41	Murdochville	Gaspé	20kWh	207Wh/km ;
+0_00:36:52	New_Richmond	Amqui	34kWh	184Wh/km ;
+-
+0_00:53:27	Amqui	Percé	49kWh	220Wh/km ;
+0_00:29:47	New_Richmond	Dégelis	39kWh	223Wh/km ;
+0_00:38:11	Chandler	Mont-Joli-Normandin	45kWh	227Wh/km ;
+-
+0_00:43:19	Rimouski	Paspébiac	45kWh	236Wh/km ;
+0_00:00:44	Paspébiac	Dégelis	45kWh	182Wh/km ;
+0_00:53:25	Mont-Joli-Normandin	Paspébiac	33kWh	192Wh/km ;
+-
+0_00:19:20	Rimouski	New_Richmond	50kWh	219Wh/km ;
+0_00:43:12	Matane	Chandler	32kWh	204Wh/km ;
+0_00:14:57	Matane	Chandler	25kWh	159Wh/km ;
+-
+0_00:05:46	Paspébiac	Amqui	42kWh	189Wh/km ;
+0_00:46:32	Rimouski	New_Richmond	31kWh	165Wh/km ;
+0_00:51:18	Dégelis	Murdochville	43kWh	209Wh/km ;
+-
+0_00:28:17	Rimouski	Pointe-à-la-Croix	29kWh	193Wh/km ;
+0_00:52:35	Rimouski	Murdochville	38kWh	244Wh/km ;
+0_00:52:05	Percé	Murdochville	25kWh	165Wh/km ;
+-
+0_00:34:34	Gaspé	Amqui	40kWh	243Wh/km ;
+0_00:45:29	Chandler	Mont-Joli-Normandin	36kWh	216Wh/km ;
+0_00:39:49	Chandler	Matane	32kWh	209Wh/km ;
+-
+0_00:47:59	Mont-Joli-Normandin	Percé	34kWh	178Wh/km ;
+0_00:45:11	Dégelis	Percé	38kWh	186Wh/km ;
+0_00:27:35	Mont-Joli-Normandin	Chandler	37kWh	243Wh/km ;
+-
+0_00:10:37	Gaspé	Amqui	47kWh	193Wh/km ;
+0_00:27:14	New_Richmond	Percé	27kWh	219Wh/km ;
+0_00:16:09	Chandler	Amqui	34kWh	229Wh/km ;
+-
+0_00:36:55	Mont-Joli-Normandin	Paspébiac	34kWh	198Wh/km ;
+0_00:35:56	Paspébiac	Rimouski	31kWh	203Wh/km ;
+0_00:11:00	Paspébiac	Dégelis	34kWh	179Wh/km ;
+-
+0_00:36:26	Murdochville	Percé	34kWh	204Wh/km ;
+0_00:22:03	Gaspé	Murdochville	22kWh	243Wh/km ;
+0_00:46:15	Gaspé	Murdochville	26kWh	207Wh/km ;
+-
+0_00:37:24	Matane	Gaspé	24kWh	152Wh/km ;
+0_00:39:16	Dégelis	Gaspé	49kWh	156Wh/km ;
+0_00:38:38	Matane	Chandler	40kWh	190Wh/km ;
+-
+0_00:48:02	Carleton-sur-Mer	Chandler	33kWh	222Wh/km ;
+0_00:01:18	Pointe-à-la-Croix	Mont-Joli-Normandin	26kWh	171Wh/km ;
+0_00:47:22	Gaspé	New_Richmond	37kWh	248Wh/km ;
+-
+0_00:42:44	Chandler	Dégelis	29kWh	192Wh/km ;
+0_00:25:29	Rimouski	Percé	38kWh	239Wh/km ;
+0_00:41:42	New_Richmond	Matane	45kWh	234Wh/km ;
+-
+0_00:20:31	Murdochville	Percé	26kWh	211Wh/km ;
+0_00:12:17	Murdochville	Gaspé	39kWh	239Wh/km ;
+0_00:33:25	Carleton-sur-Mer	Percé	22kWh	187Wh/km ;
+-
+0_00:01:27	Chandler	Murdochville	18kWh	197Wh/km ;
+0_00:10:32	Chandler	Pointe-à-la-Croix	24kWh	193Wh/km ;
+0_00:27:06	Amqui	Rimouski	18kWh	227Wh/km ;
+-
+0_00:58:16	Chandler	Amqui	40kWh	232Wh/km ;
+0_00:41:29	Chandler	Amqui	42kWh	238Wh/km ;
+0_00:54:50	Paspébiac	Mont-Joli-Normandin	48kWh	213Wh/km ;
+-
+0_00:43:22	Gaspé	New_Richmond	20kWh	199Wh/km ;
+0_00:18:58	Carleton-sur-Mer	Gaspé	30kWh	250Wh/km ;
+0_00:44:20	Percé	Carleton-sur-Mer	36kWh	240Wh/km ;
+-
+0_00:57:06	New_Richmond	Percé	17kWh	156Wh/km ;
+0_00:28:55	Murdochville	Chandler	26kWh	195Wh/km ;
+0_00:34:40	Carleton-sur-Mer	Gaspé	22kWh	241Wh/km ;
+-
+0_00:37:42	Amqui	Chandler	45kWh	197Wh/km ;
+0_00:48:09	Mont-Joli-Normandin	Chandler	36kWh	179Wh/km ;
+0_00:00:59	Chandler	Rimouski	37kWh	181Wh/km ;
+-
+0_00:39:17	Pointe-à-la-Croix	Rimouski	28kWh	179Wh/km ;
+0_00:24:52	New_Richmond	Pointe-à-la-Croix	7kWh	232Wh/km ;
+0_00:45:05	Murdochville	Rimouski	49kWh	241Wh/km ;
+-
+0_00:39:11	Percé	Rimouski	47kWh	157Wh/km ;
+0_00:50:11	Percé	Amqui	33kWh	210Wh/km ;
+0_00:20:03	Gaspé	Rimouski	43kWh	151Wh/km ;
+-
+0_00:08:41	Gaspé	Murdochville	16kWh	178Wh/km ;
+0_00:07:17	Murdochville	Chandler	30kWh	193Wh/km ;
+0_00:02:53	Carleton-sur-Mer	Percé	32kWh	208Wh/km ;
+-
+0_00:43:34	Gaspé	Rimouski	39kWh	235Wh/km ;
+0_00:09:54	Rimouski	Gaspé	39kWh	233Wh/km ;
+0_00:50:45	Chandler	Murdochville	24kWh	223Wh/km ;
+-
+0_00:33:29	Murdochville	Percé	24kWh	223Wh/km ;
+0_00:21:23	Dégelis	Paspébiac	34kWh	213Wh/km ;
+0_00:15:23	Gaspé	Matane	42kWh	249Wh/km ;
+-
+0_00:27:13	Amqui	Percé	37kWh	223Wh/km ;
+0_00:12:47	Paspébiac	Dégelis	37kWh	213Wh/km ;
+0_00:05:38	Pointe-à-la-Croix	Dégelis	33kWh	186Wh/km ;
+-
+0_00:21:06	Dégelis	Murdochville	34kWh	177Wh/km ;
+0_00:18:44	Matane	Gaspé	43kWh	206Wh/km ;
+0_00:09:14	Rimouski	Gaspé	49kWh	163Wh/km ;
+-
+0_00:34:44	Pointe-à-la-Croix	Carleton-sur-Mer	8kWh	212Wh/km ;
+0_00:34:58	Carleton-sur-Mer	Gaspé	21kWh	169Wh/km ;
+0_00:18:51	Carleton-sur-Mer	Chandler	19kWh	156Wh/km ;
+-
+0_00:29:18	Chandler	Matane	48kWh	154Wh/km ;
+0_00:13:37	Gaspé	Matane	33kWh	184Wh/km ;
+0_00:17:20	Gaspé	Amqui	33kWh	205Wh/km ;
+-
+0_00:13:42	Gaspé	Rimouski	46kWh	196Wh/km ;
+0_00:11:58	Gaspé	Rimouski	50kWh	238Wh/km ;
+0_00:34:11	Dégelis	Murdochville	41kWh	249Wh/km ;
+-
+0_00:38:06	Matane	Gaspé	31kWh	181Wh/km ;
+0_00:18:15	Pointe-à-la-Croix	Percé	34kWh	249Wh/km ;
+0_00:28:34	Matane	Percé	31kWh	190Wh/km ;
+-
+0_00:21:15	Paspébiac	Amqui	47kWh	196Wh/km ;
+0_00:39:32	Chandler	Dégelis	48kWh	203Wh/km ;
+0_00:00:57	Paspébiac	Dégelis	45kWh	245Wh/km ;
+-
+0_00:24:26	Gaspé	Matane	36kWh	175Wh/km ;
+0_00:43:40	Gaspé	Murdochville	20kWh	210Wh/km ;
+0_00:07:24	Matane	Gaspé	43kWh	206Wh/km ;
+-
+0_00:10:40	Dégelis	Carleton-sur-Mer	43kWh	207Wh/km ;
+0_00:44:24	Paspébiac	Dégelis	43kWh	152Wh/km ;
+0_00:30:03	New_Richmond	Dégelis	29kWh	159Wh/km ;
+-
+0_00:38:17	Chandler	Mont-Joli-Normandin	40kWh	193Wh/km ;
+0_00:24:36	Gaspé	Mont-Joli-Normandin	39kWh	187Wh/km ;
+0_00:03:38	Gaspé	Amqui	35kWh	216Wh/km ;
+-
+0_00:54:26	Carleton-sur-Mer	Chandler	31kWh	204Wh/km ;
+0_00:31:09	Amqui	Rimouski	19kWh	231Wh/km ;
+0_00:35:46	Carleton-sur-Mer	Percé	29kWh	172Wh/km ;
+-
+0_00:26:14	Carleton-sur-Mer	Chandler	26kWh	249Wh/km ;
+0_00:00:58	Rimouski	Carleton-sur-Mer	30kWh	158Wh/km ;
+0_00:31:03	Chandler	Carleton-sur-Mer	32kWh	230Wh/km ;
+-
+0_00:27:32	Murdochville	Mont-Joli-Normandin	31kWh	174Wh/km ;
+0_00:27:51	Pointe-à-la-Croix	Percé	33kWh	176Wh/km ;
+0_00:50:36	Murdochville	Percé	26kWh	241Wh/km ;
+-
+0_00:38:01	Rimouski	Murdochville	35kWh	216Wh/km ;
+0_00:50:26	Rimouski	Carleton-sur-Mer	27kWh	168Wh/km ;
+0_00:53:48	Murdochville	Matane	33kWh	222Wh/km ;
+-
+0_00:51:28	Pointe-à-la-Croix	Dégelis	40kWh	207Wh/km ;
+0_00:03:50	Amqui	New_Richmond	35kWh	172Wh/km ;
+0_00:03:13	Murdochville	Dégelis	27kWh	177Wh/km ;
+-
+0_00:12:23	Rimouski	Chandler	42kWh	236Wh/km ;
+0_00:58:55	Matane	Chandler	26kWh	176Wh/km ;
+0_00:45:26	Carleton-sur-Mer	Chandler	24kWh	231Wh/km ;
+-
+0_00:09:13	Dégelis	Percé	50kWh	239Wh/km ;
+0_00:28:35	Murdochville	Chandler	33kWh	215Wh/km ;
+0_00:23:58	Mont-Joli-Normandin	Chandler	28kWh	170Wh/km ;
+-
+0_00:50:45	Chandler	Murdochville	49kWh	242Wh/km ;
+0_00:27:13	Dégelis	New_Richmond	31kWh	175Wh/km ;
+0_00:41:13	Rimouski	New_Richmond	32kWh	211Wh/km ;
+-
+0_00:22:23	Pointe-à-la-Croix	Gaspé	30kWh	185Wh/km ;
+0_00:40:48	Murdochville	Chandler	30kWh	247Wh/km ;
+0_00:11:27	Gaspé	Murdochville	45kWh	238Wh/km ;
+-
+0_00:39:25	Pointe-à-la-Croix	Rimouski	43kWh	241Wh/km ;
+0_00:38:39	Mont-Joli-Normandin	New_Richmond	35kWh	198Wh/km ;
+0_00:28:59	Matane	New_Richmond	40kWh	236Wh/km ;
+-
+0_00:11:58	Murdochville	Percé	20kWh	190Wh/km ;
+0_00:01:02	Gaspé	Rimouski	29kWh	170Wh/km ;
+0_00:40:54	Rimouski	Percé	38kWh	182Wh/km ;
+-
+0_00:34:32	Mont-Joli-Normandin	Gaspé	37kWh	168Wh/km ;
+0_00:24:13	Chandler	Matane	38kWh	238Wh/km ;
+0_00:32:51	Rimouski	Gaspé	33kWh	158Wh/km ;
+-
+0_00:30:05	Rimouski	Chandler	48kWh	189Wh/km ;
+0_00:20:43	New_Richmond	Chandler	24kWh	160Wh/km ;
+0_00:19:26	Dégelis	Chandler	48kWh	208Wh/km ;
+-
+0_00:23:22	Dégelis	Percé	45kWh	168Wh/km ;
+0_00:08:43	Dégelis	Gaspé	40kWh	187Wh/km ;
+0_00:20:40	Matane	Chandler	41kWh	213Wh/km ;
+-
+0_00:17:07	Murdochville	Gaspé	24kWh	174Wh/km ;
+0_00:30:19	Pointe-à-la-Croix	Gaspé	37kWh	179Wh/km ;
+0_00:41:47	Amqui	Dégelis	25kWh	203Wh/km ;
+-
+0_00:59:46	Rimouski	Chandler	33kWh	201Wh/km ;
+0_00:55:09	Dégelis	Gaspé	47kWh	230Wh/km ;
+0_00:46:51	Mont-Joli-Normandin	Gaspé	29kWh	194Wh/km ;
+-
+0_00:54:49	Chandler	Amqui	50kWh	210Wh/km ;
+0_00:32:19	Percé	Amqui	27kWh	159Wh/km ;
+0_00:16:07	Chandler	Mont-Joli-Normandin	29kWh	177Wh/km ;
+-
+0_00:02:55	Carleton-sur-Mer	Amqui	30kWh	204Wh/km ;
+0_00:34:17	Paspébiac	Matane	32kWh	150Wh/km ;
+0_00:29:51	Paspébiac	Matane	45kWh	173Wh/km ;
+-
+0_00:30:58	Percé	Rimouski	48kWh	205Wh/km ;
+0_00:20:41	Gaspé	Mont-Joli-Normandin	44kWh	176Wh/km ;
+0_00:07:34	Gaspé	Rimouski	39kWh	178Wh/km ;
+-
+0_00:52:58	Amqui	Chandler	49kWh	206Wh/km ;
+0_00:34:00	Murdochville	Paspébiac	24kWh	208Wh/km ;
+0_00:03:59	Mont-Joli-Normandin	Percé	37kWh	214Wh/km ;
+-
+0_00:11:38	New_Richmond	Gaspé	25kWh	193Wh/km ;
+0_00:33:27	Percé	Matane	49kWh	160Wh/km ;
+0_00:32:07	Chandler	Matane	36kWh	233Wh/km ;
+-
+0_00:37:46	Percé	Carleton-sur-Mer	36kWh	238Wh/km ;
+0_00:53:17	New_Richmond	Dégelis	48kWh	185Wh/km ;
+0_00:22:33	Carleton-sur-Mer	Dégelis	50kWh	214Wh/km ;
+-
+0_00:22:48	Murdochville	Mont-Joli-Normandin	29kWh	187Wh/km ;
+0_00:40:24	Dégelis	Pointe-à-la-Croix	35kWh	230Wh/km ;
+0_00:14:50	Dégelis	Pointe-à-la-Croix	43kWh	231Wh/km ;
+-
+0_00:57:59	Chandler	Matane	27kWh	162Wh/km ;
+0_00:55:53	Percé	Amqui	36kWh	238Wh/km ;
+0_00:37:08	Matane	Murdochville	40kWh	240Wh/km ;
+-
+0_00:37:25	Murdochville	Chandler	26kWh	208Wh/km ;
+0_00:14:25	Murdochville	Gaspé	20kWh	185Wh/km ;
+0_00:43:30	Pointe-à-la-Croix	Chandler	42kWh	198Wh/km ;
+-
+0_00:55:59	Rimouski	Pointe-à-la-Croix	27kWh	169Wh/km ;
+0_00:45:01	Amqui	Percé	26kWh	161Wh/km ;
+0_00:29:50	Matane	Percé	36kWh	213Wh/km ;
+-
+0_00:54:41	Paspébiac	Rimouski	30kWh	160Wh/km ;
+0_00:14:40	Percé	Rimouski	43kWh	222Wh/km ;
+0_00:21:28	Matane	Paspébiac	39kWh	174Wh/km ;
+-
+0_00:35:27	Percé	Dégelis	28kWh	183Wh/km ;
+0_00:33:26	Carleton-sur-Mer	Percé	20kWh	190Wh/km ;
+0_00:29:52	Chandler	Dégelis	30kWh	163Wh/km ;
+-
+0_00:43:54	Murdochville	Chandler	34kWh	180Wh/km ;
+0_00:59:42	Chandler	Amqui	43kWh	221Wh/km ;
+0_00:20:22	Percé	Dégelis	37kWh	177Wh/km ;
+-
+0_00:14:43	Rimouski	Gaspé	38kWh	219Wh/km ;
+0_00:40:01	Rimouski	Gaspé	41kWh	239Wh/km ;
+0_00:35:07	Murdochville	Percé	43kWh	233Wh/km ;
+-
+0_00:37:25	Chandler	Pointe-à-la-Croix	42kWh	230Wh/km ;
+0_00:28:14	Pointe-à-la-Croix	Rimouski	46kWh	250Wh/km ;
+0_00:55:40	Carleton-sur-Mer	Rimouski	33kWh	163Wh/km ;
+-
+0_00:01:01	Matane	Rimouski	22kWh	239Wh/km ;
+0_00:41:25	Gaspé	Dégelis	49kWh	209Wh/km ;
+0_00:07:42	Gaspé	Dégelis	48kWh	205Wh/km ;
+-
+0_00:59:12	Paspébiac	Rimouski	40kWh	241Wh/km ;
+0_00:53:36	Gaspé	Murdochville	33kWh	249Wh/km ;
+0_00:46:59	Paspébiac	Rimouski	39kWh	217Wh/km ;
+-
+0_00:50:39	Chandler	Rimouski	47kWh	184Wh/km ;
+0_00:29:52	Chandler	Rimouski	35kWh	181Wh/km ;
+0_00:13:49	Rimouski	Carleton-sur-Mer	33kWh	157Wh/km ;
+-
+0_00:13:12	Dégelis	Chandler	38kWh	174Wh/km ;
+0_00:44:30	Mont-Joli-Normandin	Gaspé	43kWh	243Wh/km ;
+0_00:42:13	Amqui	Paspébiac	29kWh	152Wh/km ;
+-
+0_00:16:05	Percé	Mont-Joli-Normandin	32kWh	151Wh/km ;
+0_00:45:03	Carleton-sur-Mer	Dégelis	43kWh	220Wh/km ;
+0_00:09:07	Chandler	Mont-Joli-Normandin	50kWh	152Wh/km ;
+-
+0_00:51:28	Dégelis	Murdochville	41kWh	221Wh/km ;
+0_00:25:27	Dégelis	Gaspé	31kWh	172Wh/km ;
+0_00:57:26	Dégelis	Gaspé	36kWh	182Wh/km ;
+-
+0_00:35:20	Percé	New_Richmond	17kWh	152Wh/km ;
+0_00:54:11	Percé	Amqui	28kWh	183Wh/km ;
+0_00:31:50	Chandler	Matane	29kWh	168Wh/km ;
+-
+0_00:33:23	Gaspé	Mont-Joli-Normandin	45kWh	193Wh/km ;
+0_00:16:16	Paspébiac	Mont-Joli-Normandin	36kWh	220Wh/km ;
+0_00:45:27	Rimouski	Paspébiac	40kWh	189Wh/km ;
+-
+0_00:14:41	Mont-Joli-Normandin	Chandler	48kWh	181Wh/km ;
+0_00:03:00	Rimouski	Chandler	45kWh	194Wh/km ;
+0_00:22:48	Dégelis	New_Richmond	30kWh	192Wh/km ;
+-
+0_00:33:21	Percé	Carleton-sur-Mer	40kWh	224Wh/km ;
+0_00:41:30	Gaspé	Amqui	30kWh	195Wh/km ;
+0_00:22:02	Gaspé	Amqui	43kWh	243Wh/km ;
+-
+0_00:52:39	Matane	Murdochville	35kWh	227Wh/km ;
+0_00:30:31	Paspébiac	Mont-Joli-Normandin	36kWh	171Wh/km ;
+0_00:07:05	Matane	Paspébiac	26kWh	158Wh/km ;
+-
+0_00:58:06	Murdochville	Chandler	25kWh	180Wh/km ;
+0_00:43:02	Gaspé	Pointe-à-la-Croix	36kWh	224Wh/km ;
+0_00:16:52	Dégelis	Pointe-à-la-Croix	27kWh	156Wh/km ;
+-
+0_00:33:06	Murdochville	Gaspé	31kWh	193Wh/km ;
+0_00:48:45	Percé	New_Richmond	33kWh	217Wh/km ;
+0_00:43:51	Gaspé	Carleton-sur-Mer	20kWh	161Wh/km ;
+-
+0_00:54:03	Chandler	Matane	45kWh	224Wh/km ;
+0_00:34:04	Chandler	Matane	27kWh	159Wh/km ;
+0_00:11:34	Paspébiac	Matane	44kWh	246Wh/km ;
+-
+0_00:41:45	Matane	Chandler	48kWh	166Wh/km ;
+0_00:32:15	Matane	Chandler	27kWh	165Wh/km ;
+0_00:55:21	Percé	Carleton-sur-Mer	31kWh	192Wh/km ;
+-
+0_00:32:05	Gaspé	Murdochville	27kWh	214Wh/km ;
+0_00:49:33	Dégelis	Paspébiac	44kWh	205Wh/km ;
+0_00:32:52	Matane	Paspébiac	25kWh	166Wh/km ;
+-
+0_00:54:24	Carleton-sur-Mer	Mont-Joli-Normandin	37kWh	249Wh/km ;
+0_00:00:30	Mont-Joli-Normandin	Dégelis	18kWh	181Wh/km ;
+0_00:21:04	Paspébiac	Mont-Joli-Normandin	50kWh	207Wh/km ;
+-
+0_00:00:12	Mont-Joli-Normandin	Percé	32kWh	214Wh/km ;
+0_00:45:29	Pointe-à-la-Croix	Gaspé	26kWh	157Wh/km ;
+0_00:11:19	Dégelis	Gaspé	40kWh	195Wh/km ;
+-
+0_00:38:05	Pointe-à-la-Croix	Dégelis	26kWh	163Wh/km ;
+0_00:05:02	Pointe-à-la-Croix	Gaspé	35kWh	174Wh/km ;
+0_00:47:41	New_Richmond	Dégelis	42kWh	186Wh/km ;
+-
+0_00:52:03	Chandler	Pointe-à-la-Croix	38kWh	228Wh/km ;
+0_00:39:16	Chandler	Pointe-à-la-Croix	28kWh	177Wh/km ;
+0_00:41:04	Chandler	Pointe-à-la-Croix	21kWh	197Wh/km ;
+-
+0_00:46:48	Gaspé	Pointe-à-la-Croix	29kWh	167Wh/km ;
+0_00:14:24	Chandler	Pointe-à-la-Croix	43kWh	245Wh/km ;
+0_00:59:09	Murdochville	Chandler	33kWh	200Wh/km ;
+-
+0_00:03:15	Rimouski	Chandler	44kWh	227Wh/km ;
+0_00:59:12	Rimouski	Gaspé	30kWh	150Wh/km ;
+0_00:35:40	Dégelis	Chandler	47kWh	235Wh/km ;
+-
+0_00:19:28	Dégelis	Chandler	40kWh	208Wh/km ;
+0_00:26:20	Dégelis	Chandler	33kWh	195Wh/km ;
+0_00:20:45	Percé	Murdochville	24kWh	190Wh/km ;
+-
+0_00:11:03	Dégelis	Carleton-sur-Mer	48kWh	214Wh/km ;
+0_00:59:54	Mont-Joli-Normandin	Murdochville	40kWh	241Wh/km ;
+0_00:21:15	New_Richmond	Percé	32kWh	235Wh/km ;
+-
+0_00:16:01	Pointe-à-la-Croix	Chandler	39kWh	244Wh/km ;
+0_00:26:40	Carleton-sur-Mer	Gaspé	19kWh	192Wh/km ;
+0_00:53:53	Matane	Dégelis	20kWh	187Wh/km ;
+-
+0_00:58:55	Gaspé	Pointe-à-la-Croix	27kWh	192Wh/km ;
+0_00:14:10	Percé	Amqui	42kWh	239Wh/km ;
+0_00:24:25	Rimouski	Paspébiac	32kWh	205Wh/km ;
+-
+0_00:58:43	Amqui	Paspébiac	36kWh	180Wh/km ;
+0_00:52:42	Chandler	Mont-Joli-Normandin	39kWh	200Wh/km ;
+0_00:50:17	Percé	Amqui	45kWh	235Wh/km ;
+-
+0_00:39:57	Amqui	Paspébiac	49kWh	250Wh/km ;
+0_00:42:50	Mont-Joli-Normandin	Paspébiac	33kWh	155Wh/km ;
+0_00:04:11	Pointe-à-la-Croix	Dégelis	40kWh	209Wh/km ;
+-
+0_00:27:19	Murdochville	Percé	32kWh	199Wh/km ;
+0_00:00:08	Gaspé	Pointe-à-la-Croix	35kWh	204Wh/km ;
+0_00:39:51	Carleton-sur-Mer	Gaspé	24kWh	199Wh/km ;
+-
+0_00:51:52	Mont-Joli-Normandin	Gaspé	37kWh	216Wh/km ;
+0_00:34:52	Mont-Joli-Normandin	Gaspé	41kWh	233Wh/km ;
+0_00:56:09	Pointe-à-la-Croix	Chandler	39kWh	229Wh/km ;
+-
+0_00:14:50	Amqui	Gaspé	28kWh	182Wh/km ;
+0_00:26:07	New_Richmond	Gaspé	19kWh	208Wh/km ;
+0_00:10:01	Amqui	Chandler	39kWh	239Wh/km ;
+-
+0_00:45:49	Rimouski	Chandler	29kWh	172Wh/km ;
+0_00:46:36	Dégelis	Gaspé	47kWh	211Wh/km ;
+0_00:00:46	Amqui	Paspébiac	36kWh	202Wh/km ;
+-
+0_00:45:54	Amqui	Chandler	37kWh	177Wh/km ;
+0_00:16:00	New_Richmond	Dégelis	48kWh	213Wh/km ;
+0_00:36:42	Mont-Joli-Normandin	Chandler	49kWh	221Wh/km ;
+-
+0_00:24:25	Matane	Chandler	39kWh	164Wh/km ;
+0_00:33:54	Mont-Joli-Normandin	Chandler	30kWh	155Wh/km ;
+0_00:00:20	Percé	Pointe-à-la-Croix	36kWh	158Wh/km ;
+-
+0_00:08:01	Rimouski	Paspébiac	35kWh	227Wh/km ;
+0_00:15:17	Rimouski	Paspébiac	32kWh	197Wh/km ;
+0_00:17:03	Amqui	Paspébiac	49kWh	212Wh/km ;
+-
+0_00:38:49	Chandler	Pointe-à-la-Croix	40kWh	227Wh/km ;
+0_00:14:14	Rimouski	Carleton-sur-Mer	41kWh	245Wh/km ;
+0_00:24:39	Rimouski	Murdochville	37kWh	227Wh/km ;
+-
+0_00:53:31	Mont-Joli-Normandin	Chandler	37kWh	152Wh/km ;
+0_00:59:02	Amqui	Chandler	50kWh	208Wh/km ;
+0_00:05:56	Gaspé	New_Richmond	26kWh	154Wh/km ;
+-
+0_00:57:51	Percé	Murdochville	23kWh	163Wh/km ;
+0_00:44:02	Mont-Joli-Normandin	Paspébiac	49kWh	177Wh/km ;
+0_00:47:57	Paspébiac	Matane	34kWh	179Wh/km ;
+-
+0_00:17:23	Percé	Amqui	36kWh	185Wh/km ;
+0_00:12:21	Percé	Amqui	42kWh	193Wh/km ;
+0_00:17:26	Pointe-à-la-Croix	Paspébiac	17kWh	169Wh/km ;
+-
+0_00:09:46	Mont-Joli-Normandin	Chandler	29kWh	167Wh/km ;
+0_00:32:14	Amqui	Chandler	35kWh	236Wh/km ;
+0_00:33:22	Percé	New_Richmond	18kWh	150Wh/km ;
+-
+0_00:16:15	Chandler	Matane	36kWh	164Wh/km ;
+0_00:11:04	Amqui	Percé	31kWh	185Wh/km ;
+0_00:09:42	Gaspé	Matane	34kWh	175Wh/km ;
+-
+0_00:17:18	Amqui	Paspébiac	49kWh	242Wh/km ;
+0_00:22:27	Dégelis	Chandler	36kWh	236Wh/km ;
+0_00:26:30	Gaspé	Rimouski	34kWh	230Wh/km ;
+-
+0_00:15:07	New_Richmond	Mont-Joli-Normandin	47kWh	222Wh/km ;
+0_00:33:29	Percé	Amqui	39kWh	248Wh/km ;
+0_00:45:24	Percé	Amqui	45kWh	167Wh/km ;
+-
+0_00:57:42	Matane	Dégelis	19kWh	206Wh/km ;
+0_00:59:57	Carleton-sur-Mer	Amqui	43kWh	241Wh/km ;
+0_00:29:39	New_Richmond	Amqui	38kWh	247Wh/km ;
+-
+0_00:00:00	Chandler	Amqui	42kWh	235Wh/km ;
+0_00:24:32	New_Richmond	Dégelis	49kWh	192Wh/km ;
+0_00:04:10	Chandler	Mont-Joli-Normandin	34kWh	199Wh/km ;
+-
+0_00:48:38	Chandler	Rimouski	39kWh	159Wh/km ;
+0_00:16:54	Percé	Dégelis	43kWh	196Wh/km ;
+0_00:36:04	Gaspé	Pointe-à-la-Croix	35kWh	232Wh/km ;
+-
+0_00:02:41	Rimouski	Chandler	47kWh	237Wh/km ;
+0_00:39:50	Gaspé	Dégelis	35kWh	152Wh/km ;
+0_00:21:19	Rimouski	Gaspé	42kWh	200Wh/km ;
+-
+0_00:09:16	Percé	Murdochville	32kWh	221Wh/km ;
+0_00:14:39	Mont-Joli-Normandin	Chandler	45kWh	245Wh/km ;
+0_00:26:47	Amqui	Gaspé	38kWh	229Wh/km ;
+-
+0_00:16:45	Paspébiac	Amqui	36kWh	229Wh/km ;
+0_00:30:30	Chandler	Murdochville	37kWh	232Wh/km ;
+0_00:13:57	Paspébiac	Matane	43kWh	231Wh/km ;
+-
+0_00:46:40	Percé	Carleton-sur-Mer	30kWh	190Wh/km ;
+0_00:41:51	Amqui	Carleton-sur-Mer	26kWh	176Wh/km ;
+0_00:38:32	Murdochville	Mont-Joli-Normandin	29kWh	172Wh/km ;
+-
+0_00:06:35	Chandler	Murdochville	36kWh	191Wh/km ;
+0_00:12:14	Rimouski	Murdochville	41kWh	227Wh/km ;
+0_00:15:25	Dégelis	New_Richmond	46kWh	197Wh/km ;
+-
+0_00:19:38	Paspébiac	Rimouski	29kWh	154Wh/km ;
+0_00:29:33	Murdochville	Amqui	27kWh	167Wh/km ;
+0_00:43:46	Paspébiac	Rimouski	46kWh	206Wh/km ;
+-
+0_00:47:37	Mont-Joli-Normandin	Paspébiac	34kWh	160Wh/km ;
+0_00:25:12	Murdochville	Gaspé	34kWh	196Wh/km ;
+0_00:38:23	Paspébiac	Amqui	37kWh	211Wh/km ;
+-
+0_00:23:36	Rimouski	Gaspé	44kWh	159Wh/km ;
+0_00:12:05	Rimouski	Gaspé	37kWh	193Wh/km ;
+0_00:27:48	Pointe-à-la-Croix	Gaspé	30kWh	205Wh/km ;
+-
+0_00:16:13	Dégelis	Paspébiac	42kWh	216Wh/km ;
+0_00:06:36	Paspébiac	Amqui	50kWh	219Wh/km ;
+0_00:40:03	Chandler	Mont-Joli-Normandin	30kWh	184Wh/km ;
+-
+0_00:21:52	Percé	Murdochville	26kWh	159Wh/km ;
+0_00:49:18	Amqui	Murdochville	35kWh	215Wh/km ;
+0_00:04:18	Paspébiac	Murdochville	25kWh	225Wh/km ;
+-
+0_00:38:50	Chandler	Dégelis	39kWh	159Wh/km ;
+0_00:46:34	Paspébiac	Dégelis	42kWh	202Wh/km ;
+0_00:46:19	Paspébiac	Dégelis	32kWh	187Wh/km ;
+-
+0_00:51:34	Gaspé	Dégelis	34kWh	182Wh/km ;
+0_00:41:54	Chandler	Dégelis	32kWh	179Wh/km ;
+0_00:35:12	Murdochville	Amqui	36kWh	212Wh/km ;
+-
+0_00:22:38	Percé	New_Richmond	19kWh	171Wh/km ;
+0_00:31:57	Mont-Joli-Normandin	Paspébiac	39kWh	185Wh/km ;
+0_00:06:22	Dégelis	Paspébiac	41kWh	189Wh/km ;
+-
+0_00:05:28	Mont-Joli-Normandin	Percé	41kWh	184Wh/km ;
+0_00:23:01	Rimouski	Paspébiac	36kWh	176Wh/km ;
+0_00:26:09	Gaspé	Amqui	41kWh	175Wh/km ;
+-
+0_00:36:53	New_Richmond	Dégelis	27kWh	170Wh/km ;
+0_00:23:45	Rimouski	Carleton-sur-Mer	30kWh	193Wh/km ;
+0_00:45:31	Murdochville	Dégelis	39kWh	231Wh/km ;
+-
+0_00:57:13	Rimouski	Carleton-sur-Mer	43kWh	226Wh/km ;
+0_00:16:53	Chandler	Rimouski	50kWh	190Wh/km ;
+0_00:57:53	Rimouski	Paspébiac	40kWh	200Wh/km ;
+-
+0_00:38:45	Mont-Joli-Normandin	Paspébiac	45kWh	183Wh/km ;
+0_00:32:20	Amqui	Paspébiac	41kWh	165Wh/km ;
+0_00:28:19	Pointe-à-la-Croix	Percé	43kWh	192Wh/km ;
+-
+0_00:46:41	Percé	Rimouski	42kWh	178Wh/km ;
+0_00:22:10	Gaspé	Rimouski	42kWh	200Wh/km ;
+0_00:41:21	Matane	Dégelis	28kWh	249Wh/km ;
+-
+0_00:48:25	Mont-Joli-Normandin	Percé	42kWh	162Wh/km ;
+0_00:24:55	Rimouski	Percé	50kWh	245Wh/km ;
+0_00:06:21	Chandler	Mont-Joli-Normandin	31kWh	160Wh/km ;
+-
+0_00:03:08	Rimouski	Chandler	35kWh	186Wh/km ;
+0_00:16:57	Murdochville	Amqui	36kWh	224Wh/km ;
+0_00:57:33	Rimouski	Percé	35kWh	177Wh/km ;
+-
+0_00:44:39	Percé	Dégelis	37kWh	158Wh/km ;
+0_00:30:09	Chandler	Rimouski	48kWh	220Wh/km ;
+0_00:36:25	Chandler	Dégelis	34kWh	159Wh/km ;
+-
+0_00:47:25	Percé	Pointe-à-la-Croix	21kWh	231Wh/km ;
+0_00:09:36	Rimouski	Paspébiac	29kWh	164Wh/km ;
+0_00:13:09	Percé	Mont-Joli-Normandin	29kWh	154Wh/km ;
+-
+0_00:12:02	Gaspé	New_Richmond	27kWh	215Wh/km ;
+0_00:47:42	Paspébiac	Dégelis	31kWh	169Wh/km ;
+0_00:33:56	Gaspé	Dégelis	48kWh	227Wh/km ;
+-
+0_00:47:41	Mont-Joli-Normandin	Chandler	34kWh	186Wh/km ;
+0_00:43:28	Percé	Amqui	40kWh	207Wh/km ;
+0_00:24:09	Mont-Joli-Normandin	Percé	39kWh	233Wh/km ;
+-
+0_00:13:19	Amqui	Gaspé	39kWh	206Wh/km ;
+0_00:59:19	Matane	Dégelis	21kWh	194Wh/km ;
+0_00:52:36	Matane	Gaspé	40kWh	174Wh/km ;
+-
+0_00:35:31	Percé	Pointe-à-la-Croix	23kWh	231Wh/km ;
+0_00:42:16	Rimouski	Percé	34kWh	177Wh/km ;
+0_00:59:21	Amqui	Gaspé	36kWh	235Wh/km ;
+-
+0_00:19:34	Chandler	Rimouski	32kWh	159Wh/km ;
+0_00:44:15	Chandler	Matane	39kWh	185Wh/km ;
+0_00:31:15	Percé	Rimouski	44kWh	225Wh/km ;
+-
+0_00:52:28	Dégelis	Gaspé	50kWh	218Wh/km ;
+0_00:48:43	Mont-Joli-Normandin	Percé	35kWh	191Wh/km ;
+0_00:17:20	Dégelis	Gaspé	43kWh	193Wh/km ;
+-
+0_00:33:33	Percé	Matane	35kWh	216Wh/km ;
+0_00:48:58	Percé	Amqui	41kWh	199Wh/km ;
+0_00:51:26	Percé	Matane	34kWh	168Wh/km ;
+-
+0_00:39:17	Dégelis	Gaspé	38kWh	189Wh/km ;
+0_00:54:39	Mont-Joli-Normandin	Gaspé	40kWh	223Wh/km ;
+0_00:28:04	Gaspé	Carleton-sur-Mer	39kWh	217Wh/km ;
+-
+0_00:47:30	Percé	Matane	35kWh	165Wh/km ;
+0_00:31:11	Mont-Joli-Normandin	Paspébiac	45kWh	248Wh/km ;
+0_00:44:21	Percé	Matane	46kWh	189Wh/km ;
+-
+0_00:57:39	Gaspé	Carleton-sur-Mer	24kWh	222Wh/km ;
+0_00:41:00	Dégelis	Gaspé	50kWh	201Wh/km ;
+0_00:57:36	Rimouski	Gaspé	50kWh	200Wh/km ;
+-
+0_00:34:20	Chandler	Mont-Joli-Normandin	34kWh	197Wh/km ;
+0_00:00:10	Dégelis	Paspébiac	28kWh	187Wh/km ;
+0_00:19:26	Gaspé	Mont-Joli-Normandin	48kWh	225Wh/km ;
+-
+0_00:32:23	Carleton-sur-Mer	Gaspé	33kWh	186Wh/km ;
+0_00:57:35	Carleton-sur-Mer	Amqui	23kWh	154Wh/km ;
+0_00:17:58	Murdochville	Gaspé	34kWh	212Wh/km ;
+-
+0_00:47:20	Dégelis	Percé	39kWh	161Wh/km ;
+0_00:38:02	Murdochville	Rimouski	45kWh	243Wh/km ;
+0_00:59:48	Mont-Joli-Normandin	Percé	29kWh	173Wh/km ;
+-
+0_00:13:17	Mont-Joli-Normandin	Gaspé	34kWh	179Wh/km ;
+0_00:02:16	Rimouski	Gaspé	42kWh	219Wh/km ;
+0_00:16:01	Murdochville	Dégelis	44kWh	199Wh/km ;
+-
+0_00:55:46	Gaspé	Murdochville	30kWh	199Wh/km ;
+0_00:34:26	Percé	Murdochville	43kWh	223Wh/km ;
+0_00:03:28	Chandler	Pointe-à-la-Croix	45kWh	197Wh/km ;
+-
+0_00:45:16	New_Richmond	Percé	25kWh	205Wh/km ;
+0_00:34:15	Percé	New_Richmond	23kWh	162Wh/km ;
+0_00:22:05	Carleton-sur-Mer	Pointe-à-la-Croix	8kWh	206Wh/km ;
+-
+0_00:17:03	Paspébiac	Rimouski	34kWh	227Wh/km ;
+0_00:29:04	Chandler	Rimouski	47kWh	151Wh/km ;
+0_00:01:04	Carleton-sur-Mer	Rimouski	35kWh	190Wh/km ;
+-
+0_00:37:00	Percé	New_Richmond	25kWh	243Wh/km ;
+0_00:07:57	Carleton-sur-Mer	Chandler	28kWh	180Wh/km ;
+0_00:43:16	Gaspé	Carleton-sur-Mer	23kWh	171Wh/km ;
+-
+0_00:35:05	Chandler	Matane	32kWh	193Wh/km ;
+0_00:12:07	Carleton-sur-Mer	Chandler	26kWh	199Wh/km ;
+0_00:28:40	Chandler	Matane	47kWh	229Wh/km ;
+-
+0_00:37:20	Pointe-à-la-Croix	Chandler	31kWh	222Wh/km ;
+0_00:52:46	Murdochville	Gaspé	25kWh	158Wh/km ;
+0_00:21:39	Chandler	Murdochville	41kWh	210Wh/km ;
+-
+0_00:36:08	Matane	Chandler	39kWh	220Wh/km ;
+0_00:22:30	Chandler	Pointe-à-la-Croix	46kWh	223Wh/km ;
+0_00:47:32	Matane	Chandler	37kWh	218Wh/km ;
+-
+0_00:38:34	Rimouski	Gaspé	45kWh	246Wh/km ;
+0_00:18:32	New_Richmond	Matane	49kWh	247Wh/km ;
+0_00:50:42	Dégelis	Chandler	35kWh	167Wh/km ;
+-
+0_00:18:36	Chandler	Rimouski	29kWh	158Wh/km ;
+0_00:46:47	Rimouski	Chandler	39kWh	155Wh/km ;
+0_00:00:49	Percé	Rimouski	28kWh	174Wh/km ;
+-
+0_00:20:49	Amqui	Paspébiac	44kWh	218Wh/km ;
+0_00:59:40	Gaspé	Amqui	43kWh	150Wh/km ;
+0_00:12:33	Gaspé	Amqui	36kWh	171Wh/km ;
+-
+0_00:10:47	Carleton-sur-Mer	Gaspé	37kWh	239Wh/km ;
+0_00:12:22	Percé	Pointe-à-la-Croix	36kWh	214Wh/km ;
+0_00:59:16	Gaspé	Carleton-sur-Mer	19kWh	212Wh/km ;
+-
+0_00:02:36	Rimouski	Paspébiac	40kWh	159Wh/km ;
+0_00:19:37	Matane	Paspébiac	38kWh	237Wh/km ;
+0_00:26:13	Percé	Murdochville	27kWh	190Wh/km ;
+-
+0_00:37:27	New_Richmond	Murdochville	7kWh	166Wh/km ;
+0_00:45:39	Mont-Joli-Normandin	Paspébiac	41kWh	176Wh/km ;
+0_00:37:25	Mont-Joli-Normandin	Paspébiac	40kWh	152Wh/km ;
+-
+0_00:21:35	Rimouski	New_Richmond	45kWh	239Wh/km ;
+0_00:42:26	Dégelis	New_Richmond	49kWh	229Wh/km ;
+0_00:36:33	Carleton-sur-Mer	Rimouski	40kWh	222Wh/km ;
+-
+0_00:33:44	Dégelis	Percé	43kWh	204Wh/km ;
+0_00:13:48	Rimouski	Gaspé	48kWh	226Wh/km ;
+0_00:20:04	Gaspé	Pointe-à-la-Croix	20kWh	213Wh/km ;
+-
+0_00:31:06	Chandler	Murdochville	43kWh	212Wh/km ;
+0_00:54:46	New_Richmond	Amqui	47kWh	240Wh/km ;
+0_00:26:29	New_Richmond	Amqui	32kWh	213Wh/km ;
+-
+0_00:51:39	Chandler	Rimouski	43kWh	178Wh/km ;
+0_00:20:12	Chandler	Rimouski	45kWh	173Wh/km ;
+0_00:54:32	Matane	Dégelis	23kWh	210Wh/km ;
+-
+0_00:05:51	Chandler	Dégelis	41kWh	237Wh/km ;
+0_00:50:00	Chandler	Dégelis	45kWh	237Wh/km ;
+0_00:09:05	Chandler	Dégelis	36kWh	213Wh/km ;
+-
+0_00:51:45	Dégelis	Chandler	31kWh	152Wh/km ;
+0_00:59:56	Chandler	Pointe-à-la-Croix	22kWh	214Wh/km ;
+0_00:22:34	Dégelis	Percé	47kWh	217Wh/km ;
+-
+0_00:25:04	Dégelis	Carleton-sur-Mer	30kWh	171Wh/km ;
+0_00:08:26	Gaspé	Mont-Joli-Normandin	44kWh	196Wh/km ;
+0_00:04:17	Mont-Joli-Normandin	Percé	43kWh	204Wh/km ;
+-
+0_00:59:46	Matane	Gaspé	40kWh	191Wh/km ;
+0_00:32:59	Dégelis	Gaspé	46kWh	161Wh/km ;
+0_00:44:22	Paspébiac	Amqui	42kWh	184Wh/km ;
+-
+0_00:26:55	Rimouski	Chandler	24kWh	159Wh/km ;
+0_00:19:21	Gaspé	Matane	33kWh	220Wh/km ;
+0_00:40:39	Dégelis	Gaspé	44kWh	203Wh/km ;
+-
+0_00:53:12	Carleton-sur-Mer	Percé	42kWh	249Wh/km ;
+0_00:45:42	Carleton-sur-Mer	Chandler	37kWh	242Wh/km ;
+0_00:17:32	Pointe-à-la-Croix	Chandler	41kWh	211Wh/km ;
+-
+0_00:43:01	Paspébiac	Matane	42kWh	232Wh/km ;
+0_00:11:51	Mont-Joli-Normandin	Percé	27kWh	166Wh/km ;
+0_00:45:23	Matane	Percé	41kWh	177Wh/km ;
+-
+0_00:16:57	Matane	Gaspé	36kWh	227Wh/km ;
+0_00:58:51	Percé	Carleton-sur-Mer	28kWh	233Wh/km ;
+0_00:18:20	Rimouski	Chandler	44kWh	175Wh/km ;
+-
+0_00:17:02	Chandler	Carleton-sur-Mer	21kWh	192Wh/km ;
+0_00:23:30	Mont-Joli-Normandin	Percé	42kWh	242Wh/km ;
+0_00:04:56	Amqui	Percé	35kWh	206Wh/km ;
+-
+0_00:42:42	Chandler	Dégelis	48kWh	247Wh/km ;
+0_00:39:00	Gaspé	Dégelis	33kWh	198Wh/km ;
+0_00:30:28	Dégelis	Paspébiac	50kWh	239Wh/km ;
+-
+0_00:33:36	Chandler	Matane	47kWh	188Wh/km ;
+0_00:52:14	Chandler	Matane	41kWh	174Wh/km ;
+0_00:39:33	Amqui	Gaspé	38kWh	184Wh/km ;
+-
+0_00:32:38	Dégelis	Carleton-sur-Mer	42kWh	206Wh/km ;
+0_00:08:05	Murdochville	Gaspé	25kWh	210Wh/km ;
+0_00:51:48	Matane	Carleton-sur-Mer	33kWh	197Wh/km ;
+-
+0_00:32:06	Murdochville	Rimouski	40kWh	232Wh/km ;
+0_00:48:10	Gaspé	Rimouski	45kWh	177Wh/km ;
+0_00:58:28	Gaspé	Amqui	35kWh	223Wh/km ;
+-
+0_00:47:03	Chandler	Amqui	50kWh	246Wh/km ;
+0_00:33:22	Amqui	Gaspé	43kWh	208Wh/km ;
+0_00:57:19	Amqui	Gaspé	49kWh	238Wh/km ;
+-
+0_00:12:58	Gaspé	Carleton-sur-Mer	30kWh	200Wh/km ;
+0_00:00:04	Gaspé	Dégelis	40kWh	152Wh/km ;
+0_00:13:53	Percé	Dégelis	45kWh	216Wh/km ;
+-
+0_00:48:43	Dégelis	Amqui	18kWh	164Wh/km ;
+0_00:05:48	Rimouski	Gaspé	50kWh	205Wh/km ;
+0_00:42:49	Amqui	Percé	32kWh	203Wh/km ;
+-
+0_00:29:37	Percé	Matane	37kWh	204Wh/km ;
+0_00:07:12	Gaspé	Amqui	30kWh	175Wh/km ;
+0_00:17:22	Percé	Mont-Joli-Normandin	34kWh	202Wh/km ;
+-
+0_00:54:31	Paspébiac	Amqui	34kWh	226Wh/km ;
+0_00:57:45	Mont-Joli-Normandin	Gaspé	33kWh	188Wh/km ;
+0_00:31:35	Matane	Gaspé	41kWh	190Wh/km ;
+-
+0_00:14:51	Murdochville	Chandler	32kWh	217Wh/km ;
+0_00:54:48	New_Richmond	Pointe-à-la-Croix	9kWh	239Wh/km ;
+0_00:33:07	Percé	Carleton-sur-Mer	39kWh	232Wh/km ;
+-
+0_00:28:12	Murdochville	Dégelis	36kWh	210Wh/km ;
+0_00:40:35	Pointe-à-la-Croix	Paspébiac	22kWh	242Wh/km ;
+0_00:58:44	New_Richmond	Dégelis	33kWh	152Wh/km ;
+-
+0_00:35:19	Matane	Gaspé	45kWh	187Wh/km ;
+0_00:21:01	Rimouski	Gaspé	44kWh	180Wh/km ;
+0_00:37:29	Paspébiac	Pointe-à-la-Croix	17kWh	185Wh/km ;
+-
+0_00:07:38	Matane	Carleton-sur-Mer	26kWh	169Wh/km ;
+0_00:27:34	Murdochville	Chandler	30kWh	215Wh/km ;
+0_00:53:01	Matane	New_Richmond	39kWh	220Wh/km ;
+-
+0_00:50:42	Mont-Joli-Normandin	Gaspé	39kWh	232Wh/km ;
+0_00:10:15	Matane	Percé	27kWh	182Wh/km ;
+0_00:57:29	Matane	New_Richmond	31kWh	196Wh/km ;
+-
+0_00:58:25	Percé	Amqui	44kWh	151Wh/km ;
+0_00:32:09	Paspébiac	Matane	35kWh	204Wh/km ;
+0_00:09:25	Chandler	Amqui	47kWh	181Wh/km ;
+-
+0_00:36:28	Dégelis	Chandler	47kWh	171Wh/km ;
+0_00:52:13	Rimouski	Pointe-à-la-Croix	41kWh	234Wh/km ;
+0_00:59:27	Rimouski	Chandler	46kWh	160Wh/km ;
+-
+0_00:51:37	Carleton-sur-Mer	Chandler	21kWh	224Wh/km ;
+0_00:05:11	Gaspé	Rimouski	36kWh	222Wh/km ;
+0_00:44:37	Dégelis	Percé	43kWh	209Wh/km ;
+-
+0_00:29:31	Gaspé	Pointe-à-la-Croix	39kWh	227Wh/km ;
+0_00:49:40	Pointe-à-la-Croix	Paspébiac	34kWh	232Wh/km ;
+0_00:04:43	Chandler	Pointe-à-la-Croix	23kWh	221Wh/km ;
+-
+0_00:21:24	Amqui	Chandler	41kWh	152Wh/km ;
+0_00:19:29	Matane	Chandler	42kWh	163Wh/km ;
+0_00:22:14	Paspébiac	Dégelis	37kWh	175Wh/km ;
+-
+0_00:19:21	New_Richmond	Percé	32kWh	212Wh/km ;
+0_00:53:32	Chandler	New_Richmond	22kWh	223Wh/km ;
+0_00:24:23	Chandler	Carleton-sur-Mer	28kWh	194Wh/km ;
+-
+0_00:17:06	Dégelis	Mont-Joli-Normandin	21kWh	196Wh/km ;
+0_00:31:41	Carleton-sur-Mer	Rimouski	47kWh	233Wh/km ;
+0_00:24:31	Murdochville	Rimouski	30kWh	152Wh/km ;
+-
+0_00:45:34	Chandler	Matane	46kWh	232Wh/km ;
+0_00:54:40	Percé	Pointe-à-la-Croix	20kWh	224Wh/km ;
+0_00:40:03	Gaspé	Matane	43kWh	240Wh/km ;
+-
+0_00:38:44	Mont-Joli-Normandin	Murdochville	39kWh	236Wh/km ;
+0_00:39:41	Matane	New_Richmond	35kWh	207Wh/km ;
+0_00:41:03	Pointe-à-la-Croix	New_Richmond	7kWh	228Wh/km ;
+-
+0_00:42:23	Murdochville	Paspébiac	20kWh	175Wh/km ;
+0_00:55:59	Amqui	Paspébiac	44kWh	171Wh/km ;
+0_00:45:12	Matane	Paspébiac	32kWh	169Wh/km ;
+-
+0_00:25:55	Percé	Mont-Joli-Normandin	50kWh	212Wh/km ;
+0_00:07:23	Chandler	Mont-Joli-Normandin	29kWh	152Wh/km ;
+0_00:58:34	Paspébiac	Mont-Joli-Normandin	42kWh	228Wh/km ;
+-
+0_00:28:55	Dégelis	Percé	48kWh	190Wh/km ;
+0_00:59:05	Dégelis	Percé	48kWh	204Wh/km ;
+0_00:12:06	Carleton-sur-Mer	Paspébiac	15kWh	157Wh/km ;
+-
+0_00:56:48	Rimouski	Percé	42kWh	201Wh/km ;
+0_00:37:48	Chandler	Rimouski	40kWh	241Wh/km ;
+0_00:58:52	Mont-Joli-Normandin	Chandler	28kWh	182Wh/km ;
+-
+0_00:07:02	Murdochville	Dégelis	32kWh	193Wh/km ;
+0_00:23:40	Amqui	Gaspé	25kWh	167Wh/km ;
+0_00:14:54	Mont-Joli-Normandin	Percé	32kWh	195Wh/km ;
+-
+0_00:43:00	Carleton-sur-Mer	Percé	37kWh	241Wh/km ;
+0_00:07:55	Pointe-à-la-Croix	Percé	39kWh	216Wh/km ;
+0_00:35:11	Carleton-sur-Mer	Chandler	23kWh	200Wh/km ;
+-
+0_00:23:57	Carleton-sur-Mer	Dégelis	41kWh	181Wh/km ;
+0_00:46:47	Murdochville	Dégelis	35kWh	227Wh/km ;
+0_00:41:33	Murdochville	Dégelis	48kWh	244Wh/km ;
+-
+0_00:40:51	Rimouski	Gaspé	32kWh	167Wh/km ;
+0_00:49:44	Matane	Chandler	25kWh	150Wh/km ;
+0_00:33:51	Dégelis	Murdochville	48kWh	228Wh/km ;
+-
+0_00:39:24	Chandler	Murdochville	30kWh	237Wh/km ;
+0_00:41:21	Gaspé	Pointe-à-la-Croix	32kWh	207Wh/km ;
+0_00:27:01	Chandler	Murdochville	28kWh	202Wh/km ;
+-
+0_00:41:24	Mont-Joli-Normandin	Gaspé	50kWh	162Wh/km ;
+0_00:28:28	Mont-Joli-Normandin	Gaspé	44kWh	223Wh/km ;
+0_00:17:33	Murdochville	Chandler	23kWh	242Wh/km ;
+-
+0_00:51:50	Dégelis	Pointe-à-la-Croix	39kWh	213Wh/km ;
+0_00:21:27	Dégelis	Murdochville	41kWh	225Wh/km ;
+0_00:12:31	Dégelis	New_Richmond	45kWh	207Wh/km ;
+-
+0_00:10:41	Gaspé	Murdochville	37kWh	243Wh/km ;
+0_00:17:03	Mont-Joli-Normandin	Murdochville	41kWh	229Wh/km ;
+0_00:11:19	Carleton-sur-Mer	Gaspé	36kWh	245Wh/km ;
+-
+0_00:48:07	Gaspé	Carleton-sur-Mer	29kWh	157Wh/km ;
+0_00:37:38	Murdochville	Chandler	15kWh	163Wh/km ;
+0_00:17:28	Pointe-à-la-Croix	Chandler	41kWh	243Wh/km ;
+-
+0_00:29:57	New_Richmond	Mont-Joli-Normandin	40kWh	202Wh/km ;
+0_00:37:03	Carleton-sur-Mer	Mont-Joli-Normandin	30kWh	176Wh/km ;
+0_00:24:19	Pointe-à-la-Croix	Rimouski	41kWh	226Wh/km ;
+-
+0_00:05:29	Matane	Chandler	37kWh	162Wh/km ;
+0_00:25:14	Mont-Joli-Normandin	Chandler	45kWh	156Wh/km ;
+0_00:35:49	New_Richmond	Percé	18kWh	199Wh/km ;
+-
+0_00:22:23	Percé	Pointe-à-la-Croix	21kWh	194Wh/km ;
+0_00:57:13	Rimouski	Pointe-à-la-Croix	34kWh	206Wh/km ;
+0_00:03:59	New_Richmond	Pointe-à-la-Croix	11kWh	197Wh/km ;
+-
+0_00:59:06	Gaspé	Dégelis	47kWh	169Wh/km ;
+0_00:37:15	Percé	Dégelis	43kWh	228Wh/km ;
+0_00:33:23	Rimouski	Gaspé	37kWh	249Wh/km ;
+-
+0_00:44:33	Chandler	Mont-Joli-Normandin	32kWh	184Wh/km ;
+0_00:31:21	Percé	Matane	35kWh	225Wh/km ;
+0_00:30:16	Amqui	Percé	30kWh	158Wh/km ;
+-
+0_00:48:49	Amqui	Paspébiac	47kWh	196Wh/km ;
+0_00:35:27	Rimouski	Gaspé	43kWh	235Wh/km ;
+0_00:24:12	Rimouski	Percé	37kWh	235Wh/km ;
+-
+0_00:12:36	New_Richmond	Rimouski	41kWh	227Wh/km ;
+0_00:42:27	Matane	Gaspé	31kWh	150Wh/km ;
+0_00:14:08	Percé	Matane	47kWh	221Wh/km ;
+-
+0_00:21:06	Matane	Gaspé	46kWh	194Wh/km ;
+0_00:44:32	Mont-Joli-Normandin	Gaspé	45kWh	208Wh/km ;
+0_00:52:38	Mont-Joli-Normandin	Chandler	39kWh	183Wh/km ;
+-
+0_00:24:40	Pointe-à-la-Croix	Chandler	34kWh	250Wh/km ;
+0_00:54:57	Chandler	Carleton-sur-Mer	29kWh	231Wh/km ;
+0_00:11:13	Pointe-à-la-Croix	Gaspé	39kWh	234Wh/km ;
+-
+0_00:38:19	Chandler	Mont-Joli-Normandin	49kWh	234Wh/km ;
+0_00:33:22	Dégelis	Matane	22kWh	167Wh/km ;
+0_00:53:27	Gaspé	Mont-Joli-Normandin	37kWh	153Wh/km ;
+-
+0_00:29:28	Gaspé	Carleton-sur-Mer	21kWh	215Wh/km ;
+0_00:06:56	New_Richmond	Matane	36kWh	213Wh/km ;
+0_00:23:20	Percé	Murdochville	15kWh	166Wh/km ;
+-
+0_00:29:41	Rimouski	Paspébiac	49kWh	223Wh/km ;
+0_00:04:13	Dégelis	Paspébiac	49kWh	239Wh/km ;
+0_00:46:20	Murdochville	Amqui	26kWh	173Wh/km ;
+-
+0_00:06:57	Carleton-sur-Mer	Gaspé	21kWh	227Wh/km ;
+0_00:07:40	Dégelis	Amqui	14kWh	150Wh/km ;
+0_00:24:05	Percé	New_Richmond	32kWh	223Wh/km ;
+-
+0_00:42:30	Gaspé	Amqui	43kWh	199Wh/km ;
+0_00:36:58	Amqui	Chandler	44kWh	212Wh/km ;
+0_00:00:44	Dégelis	Paspébiac	25kWh	153Wh/km ;
+-
+0_00:07:13	Dégelis	Gaspé	25kWh	167Wh/km ;
+0_00:23:23	Murdochville	Gaspé	29kWh	231Wh/km ;
+0_00:27:30	Gaspé	Rimouski	25kWh	161Wh/km ;
+-
+0_00:23:07	Chandler	Mont-Joli-Normandin	47kWh	181Wh/km ;
+0_00:16:39	Rimouski	Paspébiac	50kWh	241Wh/km ;
+0_00:18:19	Carleton-sur-Mer	Rimouski	41kWh	241Wh/km ;
+-
+0_00:43:12	Mont-Joli-Normandin	Murdochville	41kWh	239Wh/km ;
+0_00:00:20	Rimouski	Pointe-à-la-Croix	35kWh	190Wh/km ;
+0_00:05:25	Dégelis	Carleton-sur-Mer	49kWh	214Wh/km ;
+-
+0_00:57:47	Paspébiac	Mont-Joli-Normandin	31kWh	197Wh/km ;
+0_00:45:25	Mont-Joli-Normandin	Gaspé	24kWh	150Wh/km ;
+0_00:15:24	Mont-Joli-Normandin	Percé	44kWh	238Wh/km ;
+-
+0_00:21:15	Matane	Paspébiac	41kWh	154Wh/km ;
+0_00:46:51	Gaspé	Dégelis	49kWh	201Wh/km ;
+0_00:26:52	Percé	Dégelis	40kWh	153Wh/km ;
+-
+0_00:53:49	Amqui	Gaspé	34kWh	225Wh/km ;
+0_00:15:20	Percé	Dégelis	45kWh	241Wh/km ;
+0_00:16:57	Gaspé	Dégelis	37kWh	209Wh/km ;
+-
+0_00:43:18	Percé	New_Richmond	23kWh	161Wh/km ;
+0_00:16:47	Gaspé	New_Richmond	31kWh	213Wh/km ;
+0_00:47:34	New_Richmond	Percé	25kWh	201Wh/km ;
+-
+0_00:05:47	Rimouski	Pointe-à-la-Croix	42kWh	248Wh/km ;
+0_00:36:33	Matane	Gaspé	41kWh	249Wh/km ;
+0_00:19:41	Amqui	Percé	33kWh	216Wh/km ;
+-
+0_00:03:43	Pointe-à-la-Croix	Gaspé	25kWh	242Wh/km ;
+0_00:54:12	Rimouski	Paspébiac	39kWh	178Wh/km ;
+0_00:55:20	Paspébiac	Matane	43kWh	249Wh/km ;
+-
+0_00:55:43	Murdochville	Percé	30kWh	169Wh/km ;
+0_00:23:53	Percé	Dégelis	50kWh	198Wh/km ;
+0_00:32:27	Dégelis	Percé	31kWh	150Wh/km ;
+-
+0_00:30:33	Pointe-à-la-Croix	Paspébiac	33kWh	231Wh/km ;
+0_00:35:25	Carleton-sur-Mer	Percé	33kWh	242Wh/km ;
+0_00:05:58	Pointe-à-la-Croix	Chandler	38kWh	237Wh/km ;
+-
+0_00:47:58	Percé	Murdochville	23kWh	238Wh/km ;
+0_00:16:12	New_Richmond	Chandler	26kWh	173Wh/km ;
+0_00:34:37	Chandler	Murdochville	39kWh	232Wh/km ;
+-
+0_00:45:13	Chandler	Dégelis	43kWh	237Wh/km ;
+0_00:24:32	Pointe-à-la-Croix	Chandler	29kWh	244Wh/km ;
+0_00:45:44	Gaspé	Dégelis	34kWh	194Wh/km ;
+-
+0_00:48:35	Gaspé	Mont-Joli-Normandin	38kWh	195Wh/km ;
+0_00:03:35	Dégelis	Gaspé	49kWh	239Wh/km ;
+0_00:30:50	Amqui	Gaspé	29kWh	184Wh/km ;
+-
+0_00:16:17	Paspébiac	Mont-Joli-Normandin	27kWh	176Wh/km ;
+0_00:41:33	Paspébiac	Mont-Joli-Normandin	36kWh	208Wh/km ;
+0_00:30:47	New_Richmond	Pointe-à-la-Croix	9kWh	180Wh/km ;
+-
+0_00:43:14	Percé	Murdochville	38kWh	207Wh/km ;
+0_00:38:47	Percé	Amqui	37kWh	200Wh/km ;
+0_00:13:45	Chandler	Amqui	47kWh	222Wh/km ;
+-
+0_00:19:11	Gaspé	Dégelis	35kWh	173Wh/km ;
+0_00:11:35	Chandler	Dégelis	35kWh	156Wh/km ;
+0_00:48:05	Mont-Joli-Normandin	Murdochville	32kWh	196Wh/km ;
+-
+0_00:32:47	Gaspé	Pointe-à-la-Croix	41kWh	230Wh/km ;
+0_00:01:12	Dégelis	Percé	35kWh	171Wh/km ;
+0_00:00:42	Dégelis	Chandler	40kWh	191Wh/km ;
+-
+0_00:50:32	Murdochville	Chandler	40kWh	191Wh/km ;
+0_00:18:36	Pointe-à-la-Croix	Paspébiac	29kWh	244Wh/km ;
+0_00:56:30	Carleton-sur-Mer	Chandler	19kWh	162Wh/km ;
+-
+0_00:21:02	Gaspé	Matane	30kWh	194Wh/km ;
+0_00:36:07	Carleton-sur-Mer	Chandler	37kWh	229Wh/km ;
+0_00:20:26	Percé	Matane	37kWh	220Wh/km ;
+-
+0_00:40:57	Rimouski	Chandler	47kWh	194Wh/km ;
+0_00:12:40	Gaspé	Carleton-sur-Mer	41kWh	250Wh/km ;
+0_00:00:38	Rimouski	Chandler	48kWh	244Wh/km ;
+-
+0_00:32:33	Murdochville	Gaspé	27kWh	223Wh/km ;
+0_00:56:25	Carleton-sur-Mer	Gaspé	34kWh	222Wh/km ;
+0_00:23:39	Carleton-sur-Mer	Percé	20kWh	194Wh/km ;
+-
+0_00:22:21	New_Richmond	Chandler	24kWh	219Wh/km ;
+0_00:00:50	Percé	Amqui	30kWh	198Wh/km ;
+0_00:35:57	Chandler	Amqui	28kWh	167Wh/km ;
+-
+0_00:20:28	Rimouski	Paspébiac	47kWh	205Wh/km ;
+0_00:23:09	Mont-Joli-Normandin	Paspébiac	42kWh	236Wh/km ;
+0_00:43:49	Dégelis	Amqui	15kWh	170Wh/km ;
+-
+0_00:31:39	New_Richmond	Gaspé	19kWh	155Wh/km ;
+0_00:58:20	Paspébiac	Matane	35kWh	232Wh/km ;
+0_00:39:58	Gaspé	Matane	25kWh	152Wh/km ;
+-
+0_00:20:48	Dégelis	Gaspé	47kWh	187Wh/km ;
+0_00:40:14	Amqui	Percé	42kWh	246Wh/km ;
+0_00:38:54	Matane	Percé	41kWh	217Wh/km ;
+-
+0_00:56:13	Rimouski	Murdochville	45kWh	222Wh/km ;
+0_00:37:13	Murdochville	Paspébiac	22kWh	181Wh/km ;
+0_00:32:40	Mont-Joli-Normandin	New_Richmond	37kWh	235Wh/km ;
+-
+0_00:30:41	Dégelis	Mont-Joli-Normandin	17kWh	173Wh/km ;
+0_00:41:02	Paspébiac	Rimouski	28kWh	182Wh/km ;
+0_00:02:07	Percé	Rimouski	30kWh	151Wh/km ;
+-
+0_00:24:01	Rimouski	Gaspé	40kWh	227Wh/km ;
+0_00:47:47	Rimouski	Percé	35kWh	199Wh/km ;
+0_00:45:22	New_Richmond	Gaspé	29kWh	228Wh/km ;
+-
+0_00:57:45	Percé	Rimouski	27kWh	174Wh/km ;
+0_00:30:13	Mont-Joli-Normandin	Gaspé	45kWh	195Wh/km ;
+0_00:46:41	Gaspé	Rimouski	35kWh	235Wh/km ;
+-
+0_00:56:07	Matane	Chandler	30kWh	174Wh/km ;
+0_00:52:06	Amqui	Percé	30kWh	181Wh/km ;
+0_00:21:10	Chandler	Dégelis	48kWh	173Wh/km ;
+-
+0_00:44:00	Gaspé	Murdochville	19kWh	184Wh/km ;
+0_00:21:35	Mont-Joli-Normandin	Carleton-sur-Mer	40kWh	236Wh/km ;
+0_00:59:33	Matane	Murdochville	25kWh	164Wh/km ;
+-
+0_00:03:53	Percé	New_Richmond	37kWh	234Wh/km ;
+0_00:02:18	Gaspé	Carleton-sur-Mer	36kWh	228Wh/km ;
+0_00:57:06	Paspébiac	Pointe-à-la-Croix	22kWh	177Wh/km ;
+-
+0_00:17:56	Matane	Chandler	42kWh	152Wh/km ;
+0_00:28:52	Amqui	Chandler	48kWh	237Wh/km ;
+0_00:02:17	Gaspé	Pointe-à-la-Croix	22kWh	162Wh/km ;
+-
+0_00:38:46	Paspébiac	Murdochville	18kWh	195Wh/km ;
+0_00:43:22	Carleton-sur-Mer	Amqui	35kWh	219Wh/km ;
+0_00:34:08	Dégelis	Amqui	28kWh	245Wh/km ;
+-
+0_00:48:43	Dégelis	Paspébiac	45kWh	229Wh/km ;
+0_00:39:05	Gaspé	Pointe-à-la-Croix	23kWh	175Wh/km ;
+0_00:56:36	Chandler	Matane	34kWh	216Wh/km ;
+-
+0_00:45:53	New_Richmond	Chandler	25kWh	175Wh/km ;
+0_00:17:31	Chandler	Mont-Joli-Normandin	39kWh	232Wh/km ;
+0_00:26:01	Chandler	Mont-Joli-Normandin	36kWh	153Wh/km ;
+-
+0_00:20:42	New_Richmond	Percé	26kWh	155Wh/km ;
+0_00:09:11	Rimouski	Paspébiac	46kWh	227Wh/km ;
+0_00:27:31	Amqui	Paspébiac	39kWh	248Wh/km ;
+-
+0_00:41:41	Gaspé	Pointe-à-la-Croix	39kWh	190Wh/km ;
+0_00:43:45	Murdochville	Dégelis	43kWh	205Wh/km ;
+0_00:22:32	Carleton-sur-Mer	Dégelis	36kWh	180Wh/km ;
+-
+0_00:34:17	Carleton-sur-Mer	Percé	32kWh	173Wh/km ;
+0_00:22:07	Matane	Chandler	40kWh	160Wh/km ;
+0_00:52:09	Matane	Chandler	45kWh	181Wh/km ;
+-
+0_00:50:40	Carleton-sur-Mer	Percé	27kWh	250Wh/km ;
+0_00:39:20	Pointe-à-la-Croix	Gaspé	17kWh	155Wh/km ;
+0_00:32:35	Pointe-à-la-Croix	Gaspé	26kWh	249Wh/km ;
+-
+0_00:42:54	Paspébiac	Carleton-sur-Mer	21kWh	219Wh/km ;
+0_00:33:54	Carleton-sur-Mer	Percé	27kWh	163Wh/km ;
+0_00:40:03	Gaspé	New_Richmond	36kWh	214Wh/km ;
+-
+0_00:03:03	New_Richmond	Gaspé	31kWh	197Wh/km ;
+0_00:29:19	Murdochville	Chandler	30kWh	211Wh/km ;
+0_00:16:14	Carleton-sur-Mer	Percé	22kWh	245Wh/km ;
+-
+0_00:39:30	Percé	Dégelis	47kWh	234Wh/km ;
+0_00:33:58	Percé	Dégelis	40kWh	167Wh/km ;
+0_00:26:29	Mont-Joli-Normandin	Chandler	50kWh	189Wh/km ;
+-
+0_00:48:05	Carleton-sur-Mer	Chandler	43kWh	227Wh/km ;
+0_00:55:47	Percé	Amqui	26kWh	166Wh/km ;
+0_00:41:20	Gaspé	Amqui	35kWh	207Wh/km ;
+-
+0_00:59:36	Amqui	Chandler	37kWh	162Wh/km ;
+0_00:34:27	New_Richmond	Rimouski	36kWh	200Wh/km ;
+0_00:38:05	Matane	Percé	36kWh	184Wh/km ;
+-
+0_00:28:18	Gaspé	New_Richmond	20kWh	150Wh/km ;
+0_00:22:53	Percé	Pointe-à-la-Croix	27kWh	181Wh/km ;
+0_00:02:53	Gaspé	Murdochville	29kWh	250Wh/km ;
+-
+0_00:25:18	Mont-Joli-Normandin	Gaspé	43kWh	226Wh/km ;
+0_00:19:40	Dégelis	Gaspé	43kWh	183Wh/km ;
+0_00:13:02	Pointe-à-la-Croix	Chandler	47kWh	207Wh/km ;
+-
+0_00:22:52	New_Richmond	Percé	33kWh	249Wh/km ;
+0_00:51:14	Dégelis	Paspébiac	38kWh	184Wh/km ;
+0_00:02:53	Gaspé	Matane	40kWh	244Wh/km ;
+-
+0_00:30:17	Chandler	Mont-Joli-Normandin	40kWh	210Wh/km ;
+0_00:56:55	Dégelis	Pointe-à-la-Croix	35kWh	200Wh/km ;
+0_00:07:49	Percé	Mont-Joli-Normandin	48kWh	226Wh/km ;
+-
+0_00:15:29	Dégelis	Murdochville	41kWh	244Wh/km ;
+0_00:51:06	Dégelis	Pointe-à-la-Croix	32kWh	203Wh/km ;
+0_00:43:12	Dégelis	New_Richmond	32kWh	168Wh/km ;
+-
+0_00:03:19	Gaspé	Dégelis	50kWh	151Wh/km ;
+0_00:52:52	Matane	New_Richmond	44kWh	221Wh/km ;
+0_00:45:06	Murdochville	Dégelis	41kWh	225Wh/km ;
+-
+0_00:39:21	Amqui	Gaspé	34kWh	158Wh/km ;
+0_00:40:36	Mont-Joli-Normandin	Gaspé	34kWh	166Wh/km ;
+0_00:54:09	Rimouski	Carleton-sur-Mer	32kWh	189Wh/km ;
+-
+0_00:15:33	Matane	Gaspé	31kWh	158Wh/km ;
+0_00:13:36	Rimouski	Paspébiac	24kWh	155Wh/km ;
+0_00:35:49	Matane	Gaspé	40kWh	151Wh/km ;
+-
+0_00:48:52	Murdochville	Percé	30kWh	191Wh/km ;
+0_00:00:41	Chandler	Carleton-sur-Mer	43kWh	247Wh/km ;
+0_00:17:30	Pointe-à-la-Croix	Chandler	29kWh	207Wh/km ;
+-
+0_00:59:25	Chandler	Carleton-sur-Mer	37kWh	223Wh/km ;
+0_00:15:49	Pointe-à-la-Croix	Gaspé	31kWh	201Wh/km ;
+0_00:49:26	Carleton-sur-Mer	Percé	33kWh	225Wh/km ;
+-
+0_00:42:34	Gaspé	New_Richmond	33kWh	237Wh/km ;
+0_00:35:54	New_Richmond	Chandler	19kWh	161Wh/km ;
+0_00:26:08	Carleton-sur-Mer	Amqui	34kWh	196Wh/km ;
+-
+0_00:28:26	Gaspé	Rimouski	50kWh	176Wh/km ;
+0_00:06:15	Chandler	Carleton-sur-Mer	18kWh	187Wh/km ;
+0_00:25:22	Chandler	Rimouski	38kWh	190Wh/km ;
+-
+0_00:31:59	Murdochville	Chandler	30kWh	246Wh/km ;
+0_00:59:21	Chandler	Murdochville	17kWh	175Wh/km ;
+0_00:34:51	Chandler	Murdochville	24kWh	250Wh/km ;
+-
+0_00:25:00	Murdochville	Gaspé	22kWh	243Wh/km ;
+0_00:54:52	Percé	New_Richmond	33kWh	225Wh/km ;
+0_00:32:54	Mont-Joli-Normandin	New_Richmond	27kWh	158Wh/km ;
+-
+0_00:34:17	Gaspé	Matane	35kWh	190Wh/km ;
+0_00:35:46	Percé	Amqui	47kWh	195Wh/km ;
+0_00:29:43	Chandler	Amqui	42kWh	242Wh/km ;
+-
+0_00:51:25	Chandler	New_Richmond	17kWh	153Wh/km ;
+0_00:09:53	Carleton-sur-Mer	Matane	38kWh	227Wh/km ;
+0_00:21:19	Carleton-sur-Mer	Percé	23kWh	209Wh/km ;
+-
+0_00:07:17	Chandler	Matane	40kWh	199Wh/km ;
+0_00:34:37	Gaspé	Matane	46kWh	181Wh/km ;
+0_00:03:45	Mont-Joli-Normandin	Gaspé	41kWh	205Wh/km ;
+-
+0_00:44:51	Murdochville	Rimouski	34kWh	194Wh/km ;
+0_00:11:42	Rimouski	Pointe-à-la-Croix	41kWh	232Wh/km ;
+0_00:36:11	Rimouski	Murdochville	40kWh	242Wh/km ;
+-
+0_00:38:56	Pointe-à-la-Croix	Chandler	37kWh	200Wh/km ;
+0_00:04:31	Pointe-à-la-Croix	Percé	15kWh	168Wh/km ;
+0_00:56:16	Paspébiac	Pointe-à-la-Croix	17kWh	190Wh/km ;
+-
+0_00:46:35	Percé	Amqui	45kWh	202Wh/km ;
+0_00:52:53	Chandler	Amqui	43kWh	180Wh/km ;
+0_00:00:16	Percé	Amqui	33kWh	206Wh/km ;
+-
+0_00:49:51	Rimouski	Murdochville	28kWh	175Wh/km ;
+0_00:06:30	Chandler	Mont-Joli-Normandin	42kWh	227Wh/km ;
+0_00:46:27	Chandler	Mont-Joli-Normandin	36kWh	167Wh/km ;
+-
+0_00:07:08	Gaspé	Amqui	47kWh	196Wh/km ;
+0_00:18:12	Percé	Rimouski	37kWh	232Wh/km ;
+0_00:50:39	Rimouski	Percé	44kWh	227Wh/km ;
+-
+0_00:33:04	Murdochville	Chandler	35kWh	239Wh/km ;
+0_00:12:25	Murdochville	Percé	20kWh	217Wh/km ;
+0_00:03:19	Murdochville	Matane	38kWh	228Wh/km ;
+-
+0_00:34:42	Percé	Murdochville	37kWh	206Wh/km ;
+0_00:31:03	Dégelis	Paspébiac	37kWh	166Wh/km ;
+0_00:38:51	Mont-Joli-Normandin	Paspébiac	36kWh	192Wh/km ;
+-
+0_00:21:50	Chandler	Matane	37kWh	173Wh/km ;
+0_00:22:39	New_Richmond	Pointe-à-la-Croix	5kWh	171Wh/km ;
+0_00:10:52	Percé	Matane	39kWh	209Wh/km ;
+-
+0_00:45:27	Chandler	New_Richmond	21kWh	197Wh/km ;
+0_00:35:21	New_Richmond	Gaspé	21kWh	219Wh/km ;
+0_00:04:45	Dégelis	Mont-Joli-Normandin	26kWh	246Wh/km ;
+-
+0_00:24:38	Murdochville	Percé	28kWh	227Wh/km ;
+0_00:38:14	Pointe-à-la-Croix	Paspébiac	34kWh	240Wh/km ;
+0_00:28:52	Murdochville	Gaspé	29kWh	194Wh/km ;
+-
+0_00:37:37	Paspébiac	Dégelis	37kWh	185Wh/km ;
+0_00:51:00	Carleton-sur-Mer	Gaspé	22kWh	198Wh/km ;
+0_00:27:35	Carleton-sur-Mer	Dégelis	30kWh	202Wh/km ;
+-
+0_00:11:28	Percé	Murdochville	27kWh	165Wh/km ;
+0_00:15:14	Percé	Murdochville	21kWh	197Wh/km ;
+0_00:25:53	Gaspé	Murdochville	34kWh	243Wh/km ;
+-
+0_00:41:50	Percé	Pointe-à-la-Croix	33kWh	158Wh/km ;
+0_00:56:38	Gaspé	Pointe-à-la-Croix	40kWh	221Wh/km ;
+0_00:08:59	Gaspé	Pointe-à-la-Croix	20kWh	197Wh/km ;
+-
+0_00:52:16	New_Richmond	Gaspé	21kWh	166Wh/km ;
+0_00:11:24	Chandler	Pointe-à-la-Croix	26kWh	194Wh/km ;
+0_00:26:34	Chandler	Murdochville	28kWh	224Wh/km ;
+-
+0_00:11:37	Carleton-sur-Mer	Rimouski	42kWh	186Wh/km ;
+0_00:01:41	Percé	New_Richmond	30kWh	180Wh/km ;
+0_00:14:52	Murdochville	Rimouski	37kWh	191Wh/km ;
+-
+0_00:01:11	Paspébiac	Mont-Joli-Normandin	44kWh	215Wh/km ;
+0_00:00:54	Dégelis	Gaspé	34kWh	193Wh/km ;
+0_00:50:20	Percé	Rimouski	35kWh	195Wh/km ;
+-
+0_00:26:48	Gaspé	Amqui	38kWh	200Wh/km ;
+0_00:24:28	Dégelis	Paspébiac	50kWh	201Wh/km ;
+0_00:52:29	Chandler	Amqui	46kWh	151Wh/km ;
+-
+0_00:43:20	Carleton-sur-Mer	Percé	30kWh	176Wh/km ;
+0_00:55:11	Murdochville	Percé	27kWh	229Wh/km ;
+0_00:31:15	Murdochville	Gaspé	30kWh	225Wh/km ;
+-
+0_00:23:50	Dégelis	Chandler	50kWh	220Wh/km ;
+0_00:40:51	Rimouski	Percé	45kWh	218Wh/km ;
+0_00:52:47	Amqui	Percé	40kWh	232Wh/km ;
+-
+0_00:15:20	Mont-Joli-Normandin	Chandler	44kWh	166Wh/km ;
+0_00:33:58	New_Richmond	Rimouski	31kWh	205Wh/km ;
+0_00:08:14	Mont-Joli-Normandin	Chandler	47kWh	247Wh/km ;
+-
+0_00:30:38	Gaspé	Carleton-sur-Mer	28kWh	183Wh/km ;
+0_00:34:40	Matane	Gaspé	34kWh	200Wh/km ;
+0_00:02:43	Dégelis	Percé	46kWh	228Wh/km ;
+-
+0_00:38:06	Gaspé	Mont-Joli-Normandin	27kWh	165Wh/km ;
+0_00:46:31	Murdochville	Chandler	34kWh	206Wh/km ;
+0_00:17:50	Gaspé	Mont-Joli-Normandin	47kWh	195Wh/km ;
+-
+0_00:30:08	Percé	Carleton-sur-Mer	26kWh	186Wh/km ;
+0_00:08:39	Percé	Amqui	33kWh	203Wh/km ;
+0_00:36:01	Chandler	Mont-Joli-Normandin	39kWh	151Wh/km ;
+-
+0_00:36:00	Paspébiac	Rimouski	33kWh	172Wh/km ;
+0_00:33:26	Gaspé	Rimouski	44kWh	158Wh/km ;
+0_00:57:44	Paspébiac	Dégelis	50kWh	230Wh/km ;
+-
+0_00:19:43	Matane	Carleton-sur-Mer	40kWh	230Wh/km ;
+0_00:31:17	Rimouski	Matane	20kWh	216Wh/km ;
+0_00:15:23	Mont-Joli-Normandin	New_Richmond	31kWh	187Wh/km ;
+-
+0_00:41:36	Murdochville	Chandler	37kWh	245Wh/km ;
+0_00:42:05	Percé	Murdochville	37kWh	248Wh/km ;
+0_00:35:10	Gaspé	Carleton-sur-Mer	23kWh	153Wh/km ;
+-
+0_00:46:32	Paspébiac	Dégelis	37kWh	226Wh/km ;
+0_00:42:49	Mont-Joli-Normandin	Chandler	49kWh	164Wh/km ;
+0_00:48:39	Percé	Dégelis	47kWh	181Wh/km ;
+-
+0_00:19:08	Chandler	Murdochville	31kWh	248Wh/km ;
+0_00:30:44	Percé	Pointe-à-la-Croix	35kWh	236Wh/km ;
+0_00:49:17	Chandler	Carleton-sur-Mer	27kWh	177Wh/km ;
+-
+0_00:24:56	Percé	Rimouski	38kWh	172Wh/km ;
+0_00:49:51	Matane	Gaspé	30kWh	160Wh/km ;
+0_00:18:07	Matane	Gaspé	26kWh	172Wh/km ;
+-
